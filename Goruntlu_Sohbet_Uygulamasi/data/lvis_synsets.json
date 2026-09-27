@@ -1,0 +1,10266 @@
+{
+ "0": {
+  "synset": "aerosol.n.02",
+  "name": "aerosol can",
+  "synonyms": [
+   "aerosol can",
+   "spray can"
+  ],
+  "freq": "c"
+ },
+ "1": {
+  "synset": "air_conditioner.n.01",
+  "name": "air conditioner",
+  "synonyms": [
+   "air conditioner"
+  ],
+  "freq": "f"
+ },
+ "2": {
+  "synset": "airplane.n.01",
+  "name": "airplane",
+  "synonyms": [
+   "airplane",
+   "aeroplane"
+  ],
+  "freq": "f"
+ },
+ "3": {
+  "synset": "alarm_clock.n.01",
+  "name": "alarm clock",
+  "synonyms": [
+   "alarm clock"
+  ],
+  "freq": "f"
+ },
+ "4": {
+  "synset": "alcohol.n.01",
+  "name": "alcohol",
+  "synonyms": [
+   "alcohol",
+   "alcoholic beverage"
+  ],
+  "freq": "c"
+ },
+ "5": {
+  "synset": "alligator.n.02",
+  "name": "alligator",
+  "synonyms": [
+   "alligator",
+   "gator"
+  ],
+  "freq": "c"
+ },
+ "6": {
+  "synset": "almond.n.02",
+  "name": "almond",
+  "synonyms": [
+   "almond"
+  ],
+  "freq": "c"
+ },
+ "7": {
+  "synset": "ambulance.n.01",
+  "name": "ambulance",
+  "synonyms": [
+   "ambulance"
+  ],
+  "freq": "c"
+ },
+ "8": {
+  "synset": "amplifier.n.01",
+  "name": "amplifier",
+  "synonyms": [
+   "amplifier"
+  ],
+  "freq": "c"
+ },
+ "9": {
+  "synset": "anklet.n.03",
+  "name": "anklet",
+  "synonyms": [
+   "anklet",
+   "ankle bracelet"
+  ],
+  "freq": "c"
+ },
+ "10": {
+  "synset": "antenna.n.01",
+  "name": "antenna",
+  "synonyms": [
+   "antenna",
+   "aerial",
+   "transmitting aerial"
+  ],
+  "freq": "f"
+ },
+ "11": {
+  "synset": "apple.n.01",
+  "name": "apple",
+  "synonyms": [
+   "apple"
+  ],
+  "freq": "f"
+ },
+ "12": {
+  "synset": "applesauce.n.01",
+  "name": "applesauce",
+  "synonyms": [
+   "applesauce"
+  ],
+  "freq": "r"
+ },
+ "13": {
+  "synset": "apricot.n.02",
+  "name": "apricot",
+  "synonyms": [
+   "apricot"
+  ],
+  "freq": "r"
+ },
+ "14": {
+  "synset": "apron.n.01",
+  "name": "apron",
+  "synonyms": [
+   "apron"
+  ],
+  "freq": "f"
+ },
+ "15": {
+  "synset": "aquarium.n.01",
+  "name": "aquarium",
+  "synonyms": [
+   "aquarium",
+   "fish tank"
+  ],
+  "freq": "c"
+ },
+ "16": {
+  "synset": "arctic.n.02",
+  "name": "arctic (type of shoe)",
+  "synonyms": [
+   "arctic (type of shoe)",
+   "galosh",
+   "golosh",
+   "rubber (type of shoe)",
+   "gumshoe"
+  ],
+  "freq": "r"
+ },
+ "17": {
+  "synset": "armband.n.02",
+  "name": "armband",
+  "synonyms": [
+   "armband"
+  ],
+  "freq": "c"
+ },
+ "18": {
+  "synset": "armchair.n.01",
+  "name": "armchair",
+  "synonyms": [
+   "armchair"
+  ],
+  "freq": "f"
+ },
+ "19": {
+  "synset": "armoire.n.01",
+  "name": "armoire",
+  "synonyms": [
+   "armoire"
+  ],
+  "freq": "r"
+ },
+ "20": {
+  "synset": "armor.n.01",
+  "name": "armor",
+  "synonyms": [
+   "armor",
+   "armour"
+  ],
+  "freq": "r"
+ },
+ "21": {
+  "synset": "artichoke.n.02",
+  "name": "artichoke",
+  "synonyms": [
+   "artichoke"
+  ],
+  "freq": "c"
+ },
+ "22": {
+  "synset": "ashcan.n.01",
+  "name": "trash can",
+  "synonyms": [
+   "trash can",
+   "garbage can",
+   "wastebin",
+   "dustbin",
+   "trash barrel",
+   "trash bin"
+  ],
+  "freq": "f"
+ },
+ "23": {
+  "synset": "ashtray.n.01",
+  "name": "ashtray",
+  "synonyms": [
+   "ashtray"
+  ],
+  "freq": "c"
+ },
+ "24": {
+  "synset": "asparagus.n.02",
+  "name": "asparagus",
+  "synonyms": [
+   "asparagus"
+  ],
+  "freq": "c"
+ },
+ "25": {
+  "synset": "atomizer.n.01",
+  "name": "atomizer",
+  "synonyms": [
+   "atomizer",
+   "atomiser",
+   "spray",
+   "sprayer",
+   "nebulizer",
+   "nebuliser"
+  ],
+  "freq": "c"
+ },
+ "26": {
+  "synset": "avocado.n.01",
+  "name": "avocado",
+  "synonyms": [
+   "avocado"
+  ],
+  "freq": "f"
+ },
+ "27": {
+  "synset": "award.n.02",
+  "name": "award",
+  "synonyms": [
+   "award",
+   "accolade"
+  ],
+  "freq": "c"
+ },
+ "28": {
+  "synset": "awning.n.01",
+  "name": "awning",
+  "synonyms": [
+   "awning"
+  ],
+  "freq": "f"
+ },
+ "29": {
+  "synset": "ax.n.01",
+  "name": "ax",
+  "synonyms": [
+   "ax",
+   "axe"
+  ],
+  "freq": "r"
+ },
+ "30": {
+  "synset": "baboon.n.01",
+  "name": "baboon",
+  "synonyms": [
+   "baboon"
+  ],
+  "freq": "r"
+ },
+ "31": {
+  "synset": "baby_buggy.n.01",
+  "name": "baby buggy",
+  "synonyms": [
+   "baby buggy",
+   "baby carriage",
+   "perambulator",
+   "pram",
+   "stroller"
+  ],
+  "freq": "f"
+ },
+ "32": {
+  "synset": "backboard.n.01",
+  "name": "basketball backboard",
+  "synonyms": [
+   "basketball backboard"
+  ],
+  "freq": "c"
+ },
+ "33": {
+  "synset": "backpack.n.01",
+  "name": "backpack",
+  "synonyms": [
+   "backpack",
+   "knapsack",
+   "packsack",
+   "rucksack",
+   "haversack"
+  ],
+  "freq": "f"
+ },
+ "34": {
+  "synset": "bag.n.04",
+  "name": "handbag",
+  "synonyms": [
+   "handbag",
+   "purse",
+   "pocketbook"
+  ],
+  "freq": "f"
+ },
+ "35": {
+  "synset": "bag.n.06",
+  "name": "suitcase",
+  "synonyms": [
+   "suitcase",
+   "baggage",
+   "luggage"
+  ],
+  "freq": "f"
+ },
+ "36": {
+  "synset": "bagel.n.01",
+  "name": "bagel",
+  "synonyms": [
+   "bagel",
+   "beigel"
+  ],
+  "freq": "c"
+ },
+ "37": {
+  "synset": "bagpipe.n.01",
+  "name": "bagpipe",
+  "synonyms": [
+   "bagpipe"
+  ],
+  "freq": "r"
+ },
+ "38": {
+  "synset": "baguet.n.01",
+  "name": "baguet",
+  "synonyms": [
+   "baguet",
+   "baguette"
+  ],
+  "freq": "r"
+ },
+ "39": {
+  "synset": "bait.n.02",
+  "name": "bait",
+  "synonyms": [
+   "bait",
+   "lure"
+  ],
+  "freq": "r"
+ },
+ "40": {
+  "synset": "ball.n.06",
+  "name": "ball",
+  "synonyms": [
+   "ball"
+  ],
+  "freq": "f"
+ },
+ "41": {
+  "synset": "ballet_skirt.n.01",
+  "name": "ballet skirt",
+  "synonyms": [
+   "ballet skirt",
+   "tutu"
+  ],
+  "freq": "r"
+ },
+ "42": {
+  "synset": "balloon.n.01",
+  "name": "balloon",
+  "synonyms": [
+   "balloon"
+  ],
+  "freq": "f"
+ },
+ "43": {
+  "synset": "bamboo.n.02",
+  "name": "bamboo",
+  "synonyms": [
+   "bamboo"
+  ],
+  "freq": "c"
+ },
+ "44": {
+  "synset": "banana.n.02",
+  "name": "banana",
+  "synonyms": [
+   "banana"
+  ],
+  "freq": "f"
+ },
+ "45": {
+  "synset": "band_aid.n.01",
+  "name": "Band Aid",
+  "synonyms": [
+   "Band Aid"
+  ],
+  "freq": "c"
+ },
+ "46": {
+  "synset": "bandage.n.01",
+  "name": "bandage",
+  "synonyms": [
+   "bandage"
+  ],
+  "freq": "c"
+ },
+ "47": {
+  "synset": "bandanna.n.01",
+  "name": "bandanna",
+  "synonyms": [
+   "bandanna",
+   "bandana"
+  ],
+  "freq": "f"
+ },
+ "48": {
+  "synset": "banjo.n.01",
+  "name": "banjo",
+  "synonyms": [
+   "banjo"
+  ],
+  "freq": "r"
+ },
+ "49": {
+  "synset": "banner.n.01",
+  "name": "banner",
+  "synonyms": [
+   "banner",
+   "streamer"
+  ],
+  "freq": "f"
+ },
+ "50": {
+  "synset": "barbell.n.01",
+  "name": "barbell",
+  "synonyms": [
+   "barbell"
+  ],
+  "freq": "r"
+ },
+ "51": {
+  "synset": "barge.n.01",
+  "name": "barge",
+  "synonyms": [
+   "barge"
+  ],
+  "freq": "r"
+ },
+ "52": {
+  "synset": "barrel.n.02",
+  "name": "barrel",
+  "synonyms": [
+   "barrel",
+   "cask"
+  ],
+  "freq": "f"
+ },
+ "53": {
+  "synset": "barrette.n.01",
+  "name": "barrette",
+  "synonyms": [
+   "barrette"
+  ],
+  "freq": "c"
+ },
+ "54": {
+  "synset": "barrow.n.03",
+  "name": "barrow",
+  "synonyms": [
+   "barrow",
+   "garden cart",
+   "lawn cart",
+   "wheelbarrow"
+  ],
+  "freq": "c"
+ },
+ "55": {
+  "synset": "base.n.03",
+  "name": "baseball base",
+  "synonyms": [
+   "baseball base"
+  ],
+  "freq": "f"
+ },
+ "56": {
+  "synset": "baseball.n.02",
+  "name": "baseball",
+  "synonyms": [
+   "baseball"
+  ],
+  "freq": "f"
+ },
+ "57": {
+  "synset": "baseball_bat.n.01",
+  "name": "baseball bat",
+  "synonyms": [
+   "baseball bat"
+  ],
+  "freq": "f"
+ },
+ "58": {
+  "synset": "baseball_cap.n.01",
+  "name": "baseball cap",
+  "synonyms": [
+   "baseball cap",
+   "jockey cap",
+   "golf cap"
+  ],
+  "freq": "f"
+ },
+ "59": {
+  "synset": "baseball_glove.n.01",
+  "name": "baseball glove",
+  "synonyms": [
+   "baseball glove",
+   "baseball mitt"
+  ],
+  "freq": "f"
+ },
+ "60": {
+  "synset": "basket.n.01",
+  "name": "basket",
+  "synonyms": [
+   "basket",
+   "handbasket"
+  ],
+  "freq": "f"
+ },
+ "61": {
+  "synset": "basketball.n.02",
+  "name": "basketball",
+  "synonyms": [
+   "basketball"
+  ],
+  "freq": "c"
+ },
+ "62": {
+  "synset": "bass_horn.n.01",
+  "name": "bass horn",
+  "synonyms": [
+   "bass horn",
+   "sousaphone",
+   "tuba"
+  ],
+  "freq": "r"
+ },
+ "63": {
+  "synset": "bat.n.01",
+  "name": "bat (animal)",
+  "synonyms": [
+   "bat (animal)"
+  ],
+  "freq": "c"
+ },
+ "64": {
+  "synset": "bath_mat.n.01",
+  "name": "bath mat",
+  "synonyms": [
+   "bath mat"
+  ],
+  "freq": "f"
+ },
+ "65": {
+  "synset": "bath_towel.n.01",
+  "name": "bath towel",
+  "synonyms": [
+   "bath towel"
+  ],
+  "freq": "f"
+ },
+ "66": {
+  "synset": "bathrobe.n.01",
+  "name": "bathrobe",
+  "synonyms": [
+   "bathrobe"
+  ],
+  "freq": "c"
+ },
+ "67": {
+  "synset": "bathtub.n.01",
+  "name": "bathtub",
+  "synonyms": [
+   "bathtub",
+   "bathing tub"
+  ],
+  "freq": "f"
+ },
+ "68": {
+  "synset": "batter.n.02",
+  "name": "batter (food)",
+  "synonyms": [
+   "batter (food)"
+  ],
+  "freq": "r"
+ },
+ "69": {
+  "synset": "battery.n.02",
+  "name": "battery",
+  "synonyms": [
+   "battery"
+  ],
+  "freq": "c"
+ },
+ "70": {
+  "synset": "beach_ball.n.01",
+  "name": "beachball",
+  "synonyms": [
+   "beachball"
+  ],
+  "freq": "r"
+ },
+ "71": {
+  "synset": "bead.n.01",
+  "name": "bead",
+  "synonyms": [
+   "bead"
+  ],
+  "freq": "c"
+ },
+ "72": {
+  "synset": "bean_curd.n.01",
+  "name": "bean curd",
+  "synonyms": [
+   "bean curd",
+   "tofu"
+  ],
+  "freq": "c"
+ },
+ "73": {
+  "synset": "beanbag.n.01",
+  "name": "beanbag",
+  "synonyms": [
+   "beanbag"
+  ],
+  "freq": "c"
+ },
+ "74": {
+  "synset": "beanie.n.01",
+  "name": "beanie",
+  "synonyms": [
+   "beanie",
+   "beany"
+  ],
+  "freq": "f"
+ },
+ "75": {
+  "synset": "bear.n.01",
+  "name": "bear",
+  "synonyms": [
+   "bear"
+  ],
+  "freq": "f"
+ },
+ "76": {
+  "synset": "bed.n.01",
+  "name": "bed",
+  "synonyms": [
+   "bed"
+  ],
+  "freq": "f"
+ },
+ "77": {
+  "synset": "bedpan.n.01",
+  "name": "bedpan",
+  "synonyms": [
+   "bedpan"
+  ],
+  "freq": "r"
+ },
+ "78": {
+  "synset": "bedspread.n.01",
+  "name": "bedspread",
+  "synonyms": [
+   "bedspread",
+   "bedcover",
+   "bed covering",
+   "counterpane",
+   "spread"
+  ],
+  "freq": "f"
+ },
+ "79": {
+  "synset": "beef.n.01",
+  "name": "cow",
+  "synonyms": [
+   "cow"
+  ],
+  "freq": "f"
+ },
+ "80": {
+  "synset": "beef.n.02",
+  "name": "beef (food)",
+  "synonyms": [
+   "beef (food)",
+   "boeuf (food)"
+  ],
+  "freq": "f"
+ },
+ "81": {
+  "synset": "beeper.n.01",
+  "name": "beeper",
+  "synonyms": [
+   "beeper",
+   "pager"
+  ],
+  "freq": "r"
+ },
+ "82": {
+  "synset": "beer_bottle.n.01",
+  "name": "beer bottle",
+  "synonyms": [
+   "beer bottle"
+  ],
+  "freq": "f"
+ },
+ "83": {
+  "synset": "beer_can.n.01",
+  "name": "beer can",
+  "synonyms": [
+   "beer can"
+  ],
+  "freq": "c"
+ },
+ "84": {
+  "synset": "beetle.n.01",
+  "name": "beetle",
+  "synonyms": [
+   "beetle"
+  ],
+  "freq": "r"
+ },
+ "85": {
+  "synset": "bell.n.01",
+  "name": "bell",
+  "synonyms": [
+   "bell"
+  ],
+  "freq": "f"
+ },
+ "86": {
+  "synset": "bell_pepper.n.02",
+  "name": "bell pepper",
+  "synonyms": [
+   "bell pepper",
+   "capsicum"
+  ],
+  "freq": "f"
+ },
+ "87": {
+  "synset": "belt.n.02",
+  "name": "belt",
+  "synonyms": [
+   "belt"
+  ],
+  "freq": "f"
+ },
+ "88": {
+  "synset": "belt_buckle.n.01",
+  "name": "belt buckle",
+  "synonyms": [
+   "belt buckle"
+  ],
+  "freq": "f"
+ },
+ "89": {
+  "synset": "bench.n.01",
+  "name": "bench",
+  "synonyms": [
+   "bench"
+  ],
+  "freq": "f"
+ },
+ "90": {
+  "synset": "beret.n.01",
+  "name": "beret",
+  "synonyms": [
+   "beret"
+  ],
+  "freq": "c"
+ },
+ "91": {
+  "synset": "bib.n.02",
+  "name": "bib",
+  "synonyms": [
+   "bib"
+  ],
+  "freq": "c"
+ },
+ "92": {
+  "synset": "bible.n.01",
+  "name": "Bible",
+  "synonyms": [
+   "Bible"
+  ],
+  "freq": "r"
+ },
+ "93": {
+  "synset": "bicycle.n.01",
+  "name": "bicycle",
+  "synonyms": [
+   "bicycle",
+   "bike (bicycle)"
+  ],
+  "freq": "f"
+ },
+ "94": {
+  "synset": "bill.n.09",
+  "name": "visor",
+  "synonyms": [
+   "visor",
+   "vizor"
+  ],
+  "freq": "f"
+ },
+ "95": {
+  "synset": "billboard.n.01",
+  "name": "billboard",
+  "synonyms": [
+   "billboard"
+  ],
+  "freq": "f"
+ },
+ "96": {
+  "synset": "binder.n.03",
+  "name": "binder",
+  "synonyms": [
+   "binder",
+   "ring-binder"
+  ],
+  "freq": "c"
+ },
+ "97": {
+  "synset": "binoculars.n.01",
+  "name": "binoculars",
+  "synonyms": [
+   "binoculars",
+   "field glasses",
+   "opera glasses"
+  ],
+  "freq": "c"
+ },
+ "98": {
+  "synset": "bird.n.01",
+  "name": "bird",
+  "synonyms": [
+   "bird"
+  ],
+  "freq": "f"
+ },
+ "99": {
+  "synset": "bird_feeder.n.01",
+  "name": "birdfeeder",
+  "synonyms": [
+   "birdfeeder"
+  ],
+  "freq": "c"
+ },
+ "100": {
+  "synset": "birdbath.n.01",
+  "name": "birdbath",
+  "synonyms": [
+   "birdbath"
+  ],
+  "freq": "c"
+ },
+ "101": {
+  "synset": "birdcage.n.01",
+  "name": "birdcage",
+  "synonyms": [
+   "birdcage"
+  ],
+  "freq": "c"
+ },
+ "102": {
+  "synset": "birdhouse.n.01",
+  "name": "birdhouse",
+  "synonyms": [
+   "birdhouse"
+  ],
+  "freq": "c"
+ },
+ "103": {
+  "synset": "birthday_cake.n.01",
+  "name": "birthday cake",
+  "synonyms": [
+   "birthday cake"
+  ],
+  "freq": "f"
+ },
+ "104": {
+  "synset": "birthday_card.n.01",
+  "name": "birthday card",
+  "synonyms": [
+   "birthday card"
+  ],
+  "freq": "r"
+ },
+ "105": {
+  "synset": "black_flag.n.01",
+  "name": "pirate flag",
+  "synonyms": [
+   "pirate flag"
+  ],
+  "freq": "r"
+ },
+ "106": {
+  "synset": "black_sheep.n.02",
+  "name": "black sheep",
+  "synonyms": [
+   "black sheep"
+  ],
+  "freq": "c"
+ },
+ "107": {
+  "synset": "blackberry.n.01",
+  "name": "blackberry",
+  "synonyms": [
+   "blackberry"
+  ],
+  "freq": "c"
+ },
+ "108": {
+  "synset": "blackboard.n.01",
+  "name": "blackboard",
+  "synonyms": [
+   "blackboard",
+   "chalkboard"
+  ],
+  "freq": "f"
+ },
+ "109": {
+  "synset": "blanket.n.01",
+  "name": "blanket",
+  "synonyms": [
+   "blanket"
+  ],
+  "freq": "f"
+ },
+ "110": {
+  "synset": "blazer.n.01",
+  "name": "blazer",
+  "synonyms": [
+   "blazer",
+   "sport jacket",
+   "sport coat",
+   "sports jacket",
+   "sports coat"
+  ],
+  "freq": "c"
+ },
+ "111": {
+  "synset": "blender.n.01",
+  "name": "blender",
+  "synonyms": [
+   "blender",
+   "liquidizer",
+   "liquidiser"
+  ],
+  "freq": "f"
+ },
+ "112": {
+  "synset": "blimp.n.02",
+  "name": "blimp",
+  "synonyms": [
+   "blimp"
+  ],
+  "freq": "r"
+ },
+ "113": {
+  "synset": "blinker.n.01",
+  "name": "blinker",
+  "synonyms": [
+   "blinker",
+   "flasher"
+  ],
+  "freq": "f"
+ },
+ "114": {
+  "synset": "blouse.n.01",
+  "name": "blouse",
+  "synonyms": [
+   "blouse"
+  ],
+  "freq": "f"
+ },
+ "115": {
+  "synset": "blueberry.n.02",
+  "name": "blueberry",
+  "synonyms": [
+   "blueberry"
+  ],
+  "freq": "f"
+ },
+ "116": {
+  "synset": "board.n.09",
+  "name": "gameboard",
+  "synonyms": [
+   "gameboard"
+  ],
+  "freq": "r"
+ },
+ "117": {
+  "synset": "boat.n.01",
+  "name": "boat",
+  "synonyms": [
+   "boat",
+   "ship (boat)"
+  ],
+  "freq": "f"
+ },
+ "118": {
+  "synset": "bob.n.05",
+  "name": "bob",
+  "synonyms": [
+   "bob",
+   "bobber",
+   "bobfloat"
+  ],
+  "freq": "r"
+ },
+ "119": {
+  "synset": "bobbin.n.01",
+  "name": "bobbin",
+  "synonyms": [
+   "bobbin",
+   "spool",
+   "reel"
+  ],
+  "freq": "c"
+ },
+ "120": {
+  "synset": "bobby_pin.n.01",
+  "name": "bobby pin",
+  "synonyms": [
+   "bobby pin",
+   "hairgrip"
+  ],
+  "freq": "c"
+ },
+ "121": {
+  "synset": "boiled_egg.n.01",
+  "name": "boiled egg",
+  "synonyms": [
+   "boiled egg",
+   "coddled egg"
+  ],
+  "freq": "c"
+ },
+ "122": {
+  "synset": "bolo_tie.n.01",
+  "name": "bolo tie",
+  "synonyms": [
+   "bolo tie",
+   "bolo",
+   "bola tie",
+   "bola"
+  ],
+  "freq": "r"
+ },
+ "123": {
+  "synset": "bolt.n.03",
+  "name": "deadbolt",
+  "synonyms": [
+   "deadbolt"
+  ],
+  "freq": "c"
+ },
+ "124": {
+  "synset": "bolt.n.06",
+  "name": "bolt",
+  "synonyms": [
+   "bolt"
+  ],
+  "freq": "f"
+ },
+ "125": {
+  "synset": "bonnet.n.01",
+  "name": "bonnet",
+  "synonyms": [
+   "bonnet"
+  ],
+  "freq": "r"
+ },
+ "126": {
+  "synset": "book.n.01",
+  "name": "book",
+  "synonyms": [
+   "book"
+  ],
+  "freq": "f"
+ },
+ "127": {
+  "synset": "bookcase.n.01",
+  "name": "bookcase",
+  "synonyms": [
+   "bookcase"
+  ],
+  "freq": "c"
+ },
+ "128": {
+  "synset": "booklet.n.01",
+  "name": "booklet",
+  "synonyms": [
+   "booklet",
+   "brochure",
+   "leaflet",
+   "pamphlet"
+  ],
+  "freq": "c"
+ },
+ "129": {
+  "synset": "bookmark.n.01",
+  "name": "bookmark",
+  "synonyms": [
+   "bookmark",
+   "bookmarker"
+  ],
+  "freq": "r"
+ },
+ "130": {
+  "synset": "boom.n.04",
+  "name": "boom microphone",
+  "synonyms": [
+   "boom microphone",
+   "microphone boom"
+  ],
+  "freq": "r"
+ },
+ "131": {
+  "synset": "boot.n.01",
+  "name": "boot",
+  "synonyms": [
+   "boot"
+  ],
+  "freq": "f"
+ },
+ "132": {
+  "synset": "bottle.n.01",
+  "name": "bottle",
+  "synonyms": [
+   "bottle"
+  ],
+  "freq": "f"
+ },
+ "133": {
+  "synset": "bottle_opener.n.01",
+  "name": "bottle opener",
+  "synonyms": [
+   "bottle opener"
+  ],
+  "freq": "c"
+ },
+ "134": {
+  "synset": "bouquet.n.01",
+  "name": "bouquet",
+  "synonyms": [
+   "bouquet"
+  ],
+  "freq": "c"
+ },
+ "135": {
+  "synset": "bow.n.04",
+  "name": "bow (weapon)",
+  "synonyms": [
+   "bow (weapon)"
+  ],
+  "freq": "r"
+ },
+ "136": {
+  "synset": "bow.n.08",
+  "name": "bow (decorative ribbons)",
+  "synonyms": [
+   "bow (decorative ribbons)"
+  ],
+  "freq": "f"
+ },
+ "137": {
+  "synset": "bow_tie.n.01",
+  "name": "bow-tie",
+  "synonyms": [
+   "bow-tie",
+   "bowtie"
+  ],
+  "freq": "f"
+ },
+ "138": {
+  "synset": "bowl.n.03",
+  "name": "bowl",
+  "synonyms": [
+   "bowl"
+  ],
+  "freq": "f"
+ },
+ "139": {
+  "synset": "bowl.n.08",
+  "name": "pipe bowl",
+  "synonyms": [
+   "pipe bowl"
+  ],
+  "freq": "r"
+ },
+ "140": {
+  "synset": "bowler_hat.n.01",
+  "name": "bowler hat",
+  "synonyms": [
+   "bowler hat",
+   "bowler",
+   "derby hat",
+   "derby",
+   "plug hat"
+  ],
+  "freq": "c"
+ },
+ "141": {
+  "synset": "bowling_ball.n.01",
+  "name": "bowling ball",
+  "synonyms": [
+   "bowling ball"
+  ],
+  "freq": "r"
+ },
+ "142": {
+  "synset": "box.n.01",
+  "name": "box",
+  "synonyms": [
+   "box"
+  ],
+  "freq": "f"
+ },
+ "143": {
+  "synset": "boxing_glove.n.01",
+  "name": "boxing glove",
+  "synonyms": [
+   "boxing glove"
+  ],
+  "freq": "r"
+ },
+ "144": {
+  "synset": "brace.n.06",
+  "name": "suspenders",
+  "synonyms": [
+   "suspenders"
+  ],
+  "freq": "c"
+ },
+ "145": {
+  "synset": "bracelet.n.02",
+  "name": "bracelet",
+  "synonyms": [
+   "bracelet",
+   "bangle"
+  ],
+  "freq": "f"
+ },
+ "146": {
+  "synset": "brass.n.07",
+  "name": "brass plaque",
+  "synonyms": [
+   "brass plaque"
+  ],
+  "freq": "r"
+ },
+ "147": {
+  "synset": "brassiere.n.01",
+  "name": "brassiere",
+  "synonyms": [
+   "brassiere",
+   "bra",
+   "bandeau"
+  ],
+  "freq": "c"
+ },
+ "148": {
+  "synset": "bread-bin.n.01",
+  "name": "bread-bin",
+  "synonyms": [
+   "bread-bin",
+   "breadbox"
+  ],
+  "freq": "c"
+ },
+ "149": {
+  "synset": "bread.n.01",
+  "name": "bread",
+  "synonyms": [
+   "bread"
+  ],
+  "freq": "f"
+ },
+ "150": {
+  "synset": "breechcloth.n.01",
+  "name": "breechcloth",
+  "synonyms": [
+   "breechcloth",
+   "breechclout",
+   "loincloth"
+  ],
+  "freq": "r"
+ },
+ "151": {
+  "synset": "bridal_gown.n.01",
+  "name": "bridal gown",
+  "synonyms": [
+   "bridal gown",
+   "wedding gown",
+   "wedding dress"
+  ],
+  "freq": "f"
+ },
+ "152": {
+  "synset": "briefcase.n.01",
+  "name": "briefcase",
+  "synonyms": [
+   "briefcase"
+  ],
+  "freq": "c"
+ },
+ "153": {
+  "synset": "broccoli.n.01",
+  "name": "broccoli",
+  "synonyms": [
+   "broccoli"
+  ],
+  "freq": "f"
+ },
+ "154": {
+  "synset": "brooch.n.01",
+  "name": "broach",
+  "synonyms": [
+   "broach"
+  ],
+  "freq": "r"
+ },
+ "155": {
+  "synset": "broom.n.01",
+  "name": "broom",
+  "synonyms": [
+   "broom"
+  ],
+  "freq": "c"
+ },
+ "156": {
+  "synset": "brownie.n.03",
+  "name": "brownie",
+  "synonyms": [
+   "brownie"
+  ],
+  "freq": "c"
+ },
+ "157": {
+  "synset": "brussels_sprouts.n.01",
+  "name": "brussels sprouts",
+  "synonyms": [
+   "brussels sprouts"
+  ],
+  "freq": "c"
+ },
+ "158": {
+  "synset": "bubble_gum.n.01",
+  "name": "bubble gum",
+  "synonyms": [
+   "bubble gum"
+  ],
+  "freq": "r"
+ },
+ "159": {
+  "synset": "bucket.n.01",
+  "name": "bucket",
+  "synonyms": [
+   "bucket",
+   "pail"
+  ],
+  "freq": "f"
+ },
+ "160": {
+  "synset": "buggy.n.01",
+  "name": "horse buggy",
+  "synonyms": [
+   "horse buggy"
+  ],
+  "freq": "r"
+ },
+ "161": {
+  "synset": "bull.n.11",
+  "name": "bull",
+  "synonyms": [
+   "horned cow"
+  ],
+  "freq": "c"
+ },
+ "162": {
+  "synset": "bulldog.n.01",
+  "name": "bulldog",
+  "synonyms": [
+   "bulldog"
+  ],
+  "freq": "c"
+ },
+ "163": {
+  "synset": "bulldozer.n.01",
+  "name": "bulldozer",
+  "synonyms": [
+   "bulldozer",
+   "dozer"
+  ],
+  "freq": "r"
+ },
+ "164": {
+  "synset": "bullet_train.n.01",
+  "name": "bullet train",
+  "synonyms": [
+   "bullet train"
+  ],
+  "freq": "c"
+ },
+ "165": {
+  "synset": "bulletin_board.n.02",
+  "name": "bulletin board",
+  "synonyms": [
+   "bulletin board",
+   "notice board"
+  ],
+  "freq": "c"
+ },
+ "166": {
+  "synset": "bulletproof_vest.n.01",
+  "name": "bulletproof vest",
+  "synonyms": [
+   "bulletproof vest"
+  ],
+  "freq": "r"
+ },
+ "167": {
+  "synset": "bullhorn.n.01",
+  "name": "bullhorn",
+  "synonyms": [
+   "bullhorn",
+   "megaphone"
+  ],
+  "freq": "c"
+ },
+ "168": {
+  "synset": "bun.n.01",
+  "name": "bun",
+  "synonyms": [
+   "bun",
+   "roll"
+  ],
+  "freq": "f"
+ },
+ "169": {
+  "synset": "bunk_bed.n.01",
+  "name": "bunk bed",
+  "synonyms": [
+   "bunk bed"
+  ],
+  "freq": "c"
+ },
+ "170": {
+  "synset": "buoy.n.01",
+  "name": "buoy",
+  "synonyms": [
+   "buoy"
+  ],
+  "freq": "f"
+ },
+ "171": {
+  "synset": "burrito.n.01",
+  "name": "burrito",
+  "synonyms": [
+   "burrito"
+  ],
+  "freq": "r"
+ },
+ "172": {
+  "synset": "bus.n.01",
+  "name": "bus (vehicle)",
+  "synonyms": [
+   "bus (vehicle)",
+   "autobus",
+   "charabanc",
+   "double-decker",
+   "motorbus",
+   "motorcoach"
+  ],
+  "freq": "f"
+ },
+ "173": {
+  "synset": "business_card.n.01",
+  "name": "business card",
+  "synonyms": [
+   "business card"
+  ],
+  "freq": "c"
+ },
+ "174": {
+  "synset": "butter.n.01",
+  "name": "butter",
+  "synonyms": [
+   "butter"
+  ],
+  "freq": "f"
+ },
+ "175": {
+  "synset": "butterfly.n.01",
+  "name": "butterfly",
+  "synonyms": [
+   "butterfly"
+  ],
+  "freq": "c"
+ },
+ "176": {
+  "synset": "button.n.01",
+  "name": "button",
+  "synonyms": [
+   "button"
+  ],
+  "freq": "f"
+ },
+ "177": {
+  "synset": "cab.n.03",
+  "name": "cab (taxi)",
+  "synonyms": [
+   "cab (taxi)",
+   "taxi",
+   "taxicab"
+  ],
+  "freq": "f"
+ },
+ "178": {
+  "synset": "cabana.n.01",
+  "name": "cabana",
+  "synonyms": [
+   "cabana"
+  ],
+  "freq": "r"
+ },
+ "179": {
+  "synset": "cabin_car.n.01",
+  "name": "cabin car",
+  "synonyms": [
+   "cabin car",
+   "caboose"
+  ],
+  "freq": "c"
+ },
+ "180": {
+  "synset": "cabinet.n.01",
+  "name": "cabinet",
+  "synonyms": [
+   "cabinet"
+  ],
+  "freq": "f"
+ },
+ "181": {
+  "synset": "cabinet.n.03",
+  "name": "locker",
+  "synonyms": [
+   "locker",
+   "storage locker"
+  ],
+  "freq": "r"
+ },
+ "182": {
+  "synset": "cake.n.03",
+  "name": "cake",
+  "synonyms": [
+   "cake"
+  ],
+  "freq": "f"
+ },
+ "183": {
+  "synset": "calculator.n.02",
+  "name": "calculator",
+  "synonyms": [
+   "calculator"
+  ],
+  "freq": "c"
+ },
+ "184": {
+  "synset": "calendar.n.02",
+  "name": "calendar",
+  "synonyms": [
+   "calendar"
+  ],
+  "freq": "f"
+ },
+ "185": {
+  "synset": "calf.n.01",
+  "name": "calf",
+  "synonyms": [
+   "calf"
+  ],
+  "freq": "c"
+ },
+ "186": {
+  "synset": "camcorder.n.01",
+  "name": "camcorder",
+  "synonyms": [
+   "camcorder"
+  ],
+  "freq": "c"
+ },
+ "187": {
+  "synset": "camel.n.01",
+  "name": "camel",
+  "synonyms": [
+   "camel"
+  ],
+  "freq": "c"
+ },
+ "188": {
+  "synset": "camera.n.01",
+  "name": "camera",
+  "synonyms": [
+   "camera"
+  ],
+  "freq": "f"
+ },
+ "189": {
+  "synset": "camera_lens.n.01",
+  "name": "camera lens",
+  "synonyms": [
+   "camera lens"
+  ],
+  "freq": "c"
+ },
+ "190": {
+  "synset": "camper.n.02",
+  "name": "camper (vehicle)",
+  "synonyms": [
+   "camper (vehicle)",
+   "camping bus",
+   "motor home"
+  ],
+  "freq": "c"
+ },
+ "191": {
+  "synset": "can.n.01",
+  "name": "can",
+  "synonyms": [
+   "can",
+   "tin can"
+  ],
+  "freq": "f"
+ },
+ "192": {
+  "synset": "can_opener.n.01",
+  "name": "can opener",
+  "synonyms": [
+   "can opener",
+   "tin opener"
+  ],
+  "freq": "c"
+ },
+ "193": {
+  "synset": "candle.n.01",
+  "name": "candle",
+  "synonyms": [
+   "candle",
+   "candlestick"
+  ],
+  "freq": "f"
+ },
+ "194": {
+  "synset": "candlestick.n.01",
+  "name": "candle holder",
+  "synonyms": [
+   "candle holder"
+  ],
+  "freq": "f"
+ },
+ "195": {
+  "synset": "candy_bar.n.01",
+  "name": "candy bar",
+  "synonyms": [
+   "candy bar"
+  ],
+  "freq": "r"
+ },
+ "196": {
+  "synset": "candy_cane.n.01",
+  "name": "candy cane",
+  "synonyms": [
+   "candy cane"
+  ],
+  "freq": "c"
+ },
+ "197": {
+  "synset": "cane.n.01",
+  "name": "walking cane",
+  "synonyms": [
+   "walking cane"
+  ],
+  "freq": "c"
+ },
+ "198": {
+  "synset": "canister.n.02",
+  "name": "canister",
+  "synonyms": [
+   "canister",
+   "cannister"
+  ],
+  "freq": "c"
+ },
+ "199": {
+  "synset": "canoe.n.01",
+  "name": "canoe",
+  "synonyms": [
+   "canoe"
+  ],
+  "freq": "c"
+ },
+ "200": {
+  "synset": "cantaloup.n.02",
+  "name": "cantaloup",
+  "synonyms": [
+   "cantaloup",
+   "cantaloupe"
+  ],
+  "freq": "c"
+ },
+ "201": {
+  "synset": "canteen.n.01",
+  "name": "canteen",
+  "synonyms": [
+   "canteen"
+  ],
+  "freq": "r"
+ },
+ "202": {
+  "synset": "cap.n.01",
+  "name": "cap (headwear)",
+  "synonyms": [
+   "cap (headwear)"
+  ],
+  "freq": "f"
+ },
+ "203": {
+  "synset": "cap.n.02",
+  "name": "bottle cap",
+  "synonyms": [
+   "bottle cap",
+   "cap (container lid)"
+  ],
+  "freq": "f"
+ },
+ "204": {
+  "synset": "cape.n.02",
+  "name": "cape",
+  "synonyms": [
+   "cape"
+  ],
+  "freq": "c"
+ },
+ "205": {
+  "synset": "cappuccino.n.01",
+  "name": "cappuccino",
+  "synonyms": [
+   "cappuccino",
+   "coffee cappuccino"
+  ],
+  "freq": "c"
+ },
+ "206": {
+  "synset": "car.n.01",
+  "name": "car (automobile)",
+  "synonyms": [
+   "car (automobile)",
+   "auto (automobile)",
+   "automobile"
+  ],
+  "freq": "f"
+ },
+ "207": {
+  "synset": "car.n.02",
+  "name": "railcar (part of a train)",
+  "synonyms": [
+   "railcar (part of a train)",
+   "railway car (part of a train)",
+   "railroad car (part of a train)"
+  ],
+  "freq": "f"
+ },
+ "208": {
+  "synset": "car.n.04",
+  "name": "elevator car",
+  "synonyms": [
+   "elevator car"
+  ],
+  "freq": "r"
+ },
+ "209": {
+  "synset": "car_battery.n.01",
+  "name": "car battery",
+  "synonyms": [
+   "car battery",
+   "automobile battery"
+  ],
+  "freq": "r"
+ },
+ "210": {
+  "synset": "card.n.02",
+  "name": "identity card",
+  "synonyms": [
+   "identity card"
+  ],
+  "freq": "c"
+ },
+ "211": {
+  "synset": "card.n.03",
+  "name": "card",
+  "synonyms": [
+   "card"
+  ],
+  "freq": "c"
+ },
+ "212": {
+  "synset": "cardigan.n.01",
+  "name": "cardigan",
+  "synonyms": [
+   "cardigan"
+  ],
+  "freq": "c"
+ },
+ "213": {
+  "synset": "cargo_ship.n.01",
+  "name": "cargo ship",
+  "synonyms": [
+   "cargo ship",
+   "cargo vessel"
+  ],
+  "freq": "r"
+ },
+ "214": {
+  "synset": "carnation.n.01",
+  "name": "carnation",
+  "synonyms": [
+   "carnation"
+  ],
+  "freq": "r"
+ },
+ "215": {
+  "synset": "carriage.n.02",
+  "name": "horse carriage",
+  "synonyms": [
+   "horse carriage"
+  ],
+  "freq": "c"
+ },
+ "216": {
+  "synset": "carrot.n.01",
+  "name": "carrot",
+  "synonyms": [
+   "carrot"
+  ],
+  "freq": "f"
+ },
+ "217": {
+  "synset": "carryall.n.01",
+  "name": "tote bag",
+  "synonyms": [
+   "tote bag"
+  ],
+  "freq": "f"
+ },
+ "218": {
+  "synset": "cart.n.01",
+  "name": "cart",
+  "synonyms": [
+   "cart"
+  ],
+  "freq": "c"
+ },
+ "219": {
+  "synset": "carton.n.02",
+  "name": "carton",
+  "synonyms": [
+   "carton"
+  ],
+  "freq": "c"
+ },
+ "220": {
+  "synset": "cash_register.n.01",
+  "name": "cash register",
+  "synonyms": [
+   "cash register",
+   "register (for cash transactions)"
+  ],
+  "freq": "c"
+ },
+ "221": {
+  "synset": "casserole.n.01",
+  "name": "casserole",
+  "synonyms": [
+   "casserole"
+  ],
+  "freq": "r"
+ },
+ "222": {
+  "synset": "cassette.n.01",
+  "name": "cassette",
+  "synonyms": [
+   "cassette"
+  ],
+  "freq": "r"
+ },
+ "223": {
+  "synset": "cast.n.05",
+  "name": "cast",
+  "synonyms": [
+   "cast",
+   "plaster cast",
+   "plaster bandage"
+  ],
+  "freq": "c"
+ },
+ "224": {
+  "synset": "cat.n.01",
+  "name": "cat",
+  "synonyms": [
+   "cat"
+  ],
+  "freq": "f"
+ },
+ "225": {
+  "synset": "cauliflower.n.02",
+  "name": "cauliflower",
+  "synonyms": [
+   "cauliflower"
+  ],
+  "freq": "f"
+ },
+ "226": {
+  "synset": "cayenne.n.02",
+  "name": "cayenne (spice)",
+  "synonyms": [
+   "cayenne (spice)",
+   "cayenne pepper (spice)",
+   "red pepper (spice)"
+  ],
+  "freq": "c"
+ },
+ "227": {
+  "synset": "cd_player.n.01",
+  "name": "CD player",
+  "synonyms": [
+   "CD player"
+  ],
+  "freq": "c"
+ },
+ "228": {
+  "synset": "celery.n.01",
+  "name": "celery",
+  "synonyms": [
+   "celery"
+  ],
+  "freq": "f"
+ },
+ "229": {
+  "synset": "cellular_telephone.n.01",
+  "name": "cellular telephone",
+  "synonyms": [
+   "cellular telephone",
+   "cellular phone",
+   "cellphone",
+   "mobile phone",
+   "smart phone"
+  ],
+  "freq": "f"
+ },
+ "230": {
+  "synset": "chain_mail.n.01",
+  "name": "chain mail",
+  "synonyms": [
+   "chain mail",
+   "ring mail",
+   "chain armor",
+   "chain armour",
+   "ring armor",
+   "ring armour"
+  ],
+  "freq": "r"
+ },
+ "231": {
+  "synset": "chair.n.01",
+  "name": "chair",
+  "synonyms": [
+   "chair"
+  ],
+  "freq": "f"
+ },
+ "232": {
+  "synset": "chaise_longue.n.01",
+  "name": "chaise longue",
+  "synonyms": [
+   "chaise longue",
+   "chaise",
+   "daybed"
+  ],
+  "freq": "r"
+ },
+ "233": {
+  "synset": "chalice.n.01",
+  "name": "chalice",
+  "synonyms": [
+   "chalice"
+  ],
+  "freq": "r"
+ },
+ "234": {
+  "synset": "chandelier.n.01",
+  "name": "chandelier",
+  "synonyms": [
+   "chandelier"
+  ],
+  "freq": "f"
+ },
+ "235": {
+  "synset": "chap.n.04",
+  "name": "chap",
+  "synonyms": [
+   "chap"
+  ],
+  "freq": "r"
+ },
+ "236": {
+  "synset": "checkbook.n.01",
+  "name": "checkbook",
+  "synonyms": [
+   "checkbook",
+   "chequebook"
+  ],
+  "freq": "r"
+ },
+ "237": {
+  "synset": "checkerboard.n.01",
+  "name": "checkerboard",
+  "synonyms": [
+   "checkerboard"
+  ],
+  "freq": "r"
+ },
+ "238": {
+  "synset": "cherry.n.03",
+  "name": "cherry",
+  "synonyms": [
+   "cherry"
+  ],
+  "freq": "c"
+ },
+ "239": {
+  "synset": "chessboard.n.01",
+  "name": "chessboard",
+  "synonyms": [
+   "chessboard"
+  ],
+  "freq": "r"
+ },
+ "240": {
+  "synset": "chicken.n.02",
+  "name": "chicken (animal)",
+  "synonyms": [
+   "chicken (animal)"
+  ],
+  "freq": "c"
+ },
+ "241": {
+  "synset": "chickpea.n.01",
+  "name": "chickpea",
+  "synonyms": [
+   "chickpea",
+   "garbanzo"
+  ],
+  "freq": "c"
+ },
+ "242": {
+  "synset": "chili.n.02",
+  "name": "chili (vegetable)",
+  "synonyms": [
+   "chili (vegetable)",
+   "chili pepper (vegetable)",
+   "chilli (vegetable)",
+   "chilly (vegetable)",
+   "chile (vegetable)"
+  ],
+  "freq": "c"
+ },
+ "243": {
+  "synset": "chime.n.01",
+  "name": "chime",
+  "synonyms": [
+   "chime",
+   "gong"
+  ],
+  "freq": "r"
+ },
+ "244": {
+  "synset": "chinaware.n.01",
+  "name": "chinaware",
+  "synonyms": [
+   "chinaware"
+  ],
+  "freq": "r"
+ },
+ "245": {
+  "synset": "chip.n.04",
+  "name": "crisp (potato chip)",
+  "synonyms": [
+   "crisp (potato chip)",
+   "potato chip"
+  ],
+  "freq": "c"
+ },
+ "246": {
+  "synset": "chip.n.06",
+  "name": "poker chip",
+  "synonyms": [
+   "poker chip"
+  ],
+  "freq": "r"
+ },
+ "247": {
+  "synset": "chocolate_bar.n.01",
+  "name": "chocolate bar",
+  "synonyms": [
+   "chocolate bar"
+  ],
+  "freq": "c"
+ },
+ "248": {
+  "synset": "chocolate_cake.n.01",
+  "name": "chocolate cake",
+  "synonyms": [
+   "chocolate cake"
+  ],
+  "freq": "c"
+ },
+ "249": {
+  "synset": "chocolate_milk.n.01",
+  "name": "chocolate milk",
+  "synonyms": [
+   "chocolate milk"
+  ],
+  "freq": "r"
+ },
+ "250": {
+  "synset": "chocolate_mousse.n.01",
+  "name": "chocolate mousse",
+  "synonyms": [
+   "chocolate mousse"
+  ],
+  "freq": "r"
+ },
+ "251": {
+  "synset": "choker.n.03",
+  "name": "choker",
+  "synonyms": [
+   "choker",
+   "collar",
+   "neckband"
+  ],
+  "freq": "f"
+ },
+ "252": {
+  "synset": "chopping_board.n.01",
+  "name": "chopping board",
+  "synonyms": [
+   "chopping board",
+   "cutting board",
+   "chopping block"
+  ],
+  "freq": "f"
+ },
+ "253": {
+  "synset": "chopstick.n.01",
+  "name": "chopstick",
+  "synonyms": [
+   "chopstick"
+  ],
+  "freq": "f"
+ },
+ "254": {
+  "synset": "christmas_tree.n.05",
+  "name": "Christmas tree",
+  "synonyms": [
+   "Christmas tree"
+  ],
+  "freq": "f"
+ },
+ "255": {
+  "synset": "chute.n.02",
+  "name": "slide",
+  "synonyms": [
+   "slide"
+  ],
+  "freq": "c"
+ },
+ "256": {
+  "synset": "cider.n.01",
+  "name": "cider",
+  "synonyms": [
+   "cider",
+   "cyder"
+  ],
+  "freq": "r"
+ },
+ "257": {
+  "synset": "cigar_box.n.01",
+  "name": "cigar box",
+  "synonyms": [
+   "cigar box"
+  ],
+  "freq": "r"
+ },
+ "258": {
+  "synset": "cigarette.n.01",
+  "name": "cigarette",
+  "synonyms": [
+   "cigarette"
+  ],
+  "freq": "f"
+ },
+ "259": {
+  "synset": "cigarette_case.n.01",
+  "name": "cigarette case",
+  "synonyms": [
+   "cigarette case",
+   "cigarette pack"
+  ],
+  "freq": "c"
+ },
+ "260": {
+  "synset": "cistern.n.02",
+  "name": "cistern",
+  "synonyms": [
+   "cistern",
+   "water tank"
+  ],
+  "freq": "f"
+ },
+ "261": {
+  "synset": "clarinet.n.01",
+  "name": "clarinet",
+  "synonyms": [
+   "clarinet"
+  ],
+  "freq": "r"
+ },
+ "262": {
+  "synset": "clasp.n.01",
+  "name": "clasp",
+  "synonyms": [
+   "clasp"
+  ],
+  "freq": "c"
+ },
+ "263": {
+  "synset": "cleansing_agent.n.01",
+  "name": "cleansing agent",
+  "synonyms": [
+   "cleansing agent",
+   "cleanser",
+   "cleaner"
+  ],
+  "freq": "c"
+ },
+ "264": {
+  "synset": "cleat.n.02",
+  "name": "cleat (for securing rope)",
+  "synonyms": [
+   "cleat (for securing rope)"
+  ],
+  "freq": "r"
+ },
+ "265": {
+  "synset": "clementine.n.01",
+  "name": "clementine",
+  "synonyms": [
+   "clementine"
+  ],
+  "freq": "r"
+ },
+ "266": {
+  "synset": "clip.n.03",
+  "name": "clip",
+  "synonyms": [
+   "clip"
+  ],
+  "freq": "c"
+ },
+ "267": {
+  "synset": "clipboard.n.01",
+  "name": "clipboard",
+  "synonyms": [
+   "clipboard"
+  ],
+  "freq": "c"
+ },
+ "268": {
+  "synset": "clipper.n.03",
+  "name": "clippers (for plants)",
+  "synonyms": [
+   "clippers (for plants)"
+  ],
+  "freq": "r"
+ },
+ "269": {
+  "synset": "cloak.n.02",
+  "name": "cloak",
+  "synonyms": [
+   "cloak"
+  ],
+  "freq": "r"
+ },
+ "270": {
+  "synset": "clock.n.01",
+  "name": "clock",
+  "synonyms": [
+   "clock",
+   "timepiece",
+   "timekeeper"
+  ],
+  "freq": "f"
+ },
+ "271": {
+  "synset": "clock_tower.n.01",
+  "name": "clock tower",
+  "synonyms": [
+   "clock tower"
+  ],
+  "freq": "f"
+ },
+ "272": {
+  "synset": "clothes_hamper.n.01",
+  "name": "clothes hamper",
+  "synonyms": [
+   "clothes hamper",
+   "laundry basket",
+   "clothes basket"
+  ],
+  "freq": "c"
+ },
+ "273": {
+  "synset": "clothespin.n.01",
+  "name": "clothespin",
+  "synonyms": [
+   "clothespin",
+   "clothes peg"
+  ],
+  "freq": "c"
+ },
+ "274": {
+  "synset": "clutch_bag.n.01",
+  "name": "clutch bag",
+  "synonyms": [
+   "clutch bag"
+  ],
+  "freq": "r"
+ },
+ "275": {
+  "synset": "coaster.n.03",
+  "name": "coaster",
+  "synonyms": [
+   "coaster"
+  ],
+  "freq": "f"
+ },
+ "276": {
+  "synset": "coat.n.01",
+  "name": "coat",
+  "synonyms": [
+   "coat"
+  ],
+  "freq": "f"
+ },
+ "277": {
+  "synset": "coat_hanger.n.01",
+  "name": "coat hanger",
+  "synonyms": [
+   "coat hanger",
+   "clothes hanger",
+   "dress hanger"
+  ],
+  "freq": "c"
+ },
+ "278": {
+  "synset": "coatrack.n.01",
+  "name": "coatrack",
+  "synonyms": [
+   "coatrack",
+   "hatrack"
+  ],
+  "freq": "c"
+ },
+ "279": {
+  "synset": "cock.n.04",
+  "name": "cock",
+  "synonyms": [
+   "cock",
+   "rooster"
+  ],
+  "freq": "c"
+ },
+ "280": {
+  "synset": "cockroach.n.01",
+  "name": "cockroach",
+  "synonyms": [
+   "cockroach"
+  ],
+  "freq": "r"
+ },
+ "281": {
+  "synset": "cocoa.n.01",
+  "name": "cocoa (beverage)",
+  "synonyms": [
+   "cocoa (beverage)",
+   "hot chocolate (beverage)",
+   "drinking chocolate"
+  ],
+  "freq": "r"
+ },
+ "282": {
+  "synset": "coconut.n.02",
+  "name": "coconut",
+  "synonyms": [
+   "coconut",
+   "cocoanut"
+  ],
+  "freq": "c"
+ },
+ "283": {
+  "synset": "coffee_maker.n.01",
+  "name": "coffee maker",
+  "synonyms": [
+   "coffee maker",
+   "coffee machine"
+  ],
+  "freq": "f"
+ },
+ "284": {
+  "synset": "coffee_table.n.01",
+  "name": "coffee table",
+  "synonyms": [
+   "coffee table",
+   "cocktail table"
+  ],
+  "freq": "f"
+ },
+ "285": {
+  "synset": "coffeepot.n.01",
+  "name": "coffeepot",
+  "synonyms": [
+   "coffeepot"
+  ],
+  "freq": "c"
+ },
+ "286": {
+  "synset": "coil.n.05",
+  "name": "coil",
+  "synonyms": [
+   "coil"
+  ],
+  "freq": "r"
+ },
+ "287": {
+  "synset": "coin.n.01",
+  "name": "coin",
+  "synonyms": [
+   "coin"
+  ],
+  "freq": "c"
+ },
+ "288": {
+  "synset": "colander.n.01",
+  "name": "colander",
+  "synonyms": [
+   "colander",
+   "cullender"
+  ],
+  "freq": "c"
+ },
+ "289": {
+  "synset": "coleslaw.n.01",
+  "name": "coleslaw",
+  "synonyms": [
+   "coleslaw",
+   "slaw"
+  ],
+  "freq": "c"
+ },
+ "290": {
+  "synset": "coloring_material.n.01",
+  "name": "coloring material",
+  "synonyms": [
+   "coloring material",
+   "colouring material"
+  ],
+  "freq": "r"
+ },
+ "291": {
+  "synset": "combination_lock.n.01",
+  "name": "combination lock",
+  "synonyms": [
+   "combination lock"
+  ],
+  "freq": "r"
+ },
+ "292": {
+  "synset": "comforter.n.04",
+  "name": "pacifier",
+  "synonyms": [
+   "pacifier",
+   "teething ring"
+  ],
+  "freq": "c"
+ },
+ "293": {
+  "synset": "comic_book.n.01",
+  "name": "comic book",
+  "synonyms": [
+   "comic book"
+  ],
+  "freq": "r"
+ },
+ "294": {
+  "synset": "compass.n.01",
+  "name": "compass",
+  "synonyms": [
+   "compass"
+  ],
+  "freq": "r"
+ },
+ "295": {
+  "synset": "computer_keyboard.n.01",
+  "name": "computer keyboard",
+  "synonyms": [
+   "computer keyboard",
+   "keyboard (computer)"
+  ],
+  "freq": "f"
+ },
+ "296": {
+  "synset": "condiment.n.01",
+  "name": "condiment",
+  "synonyms": [
+   "condiment"
+  ],
+  "freq": "f"
+ },
+ "297": {
+  "synset": "cone.n.01",
+  "name": "cone",
+  "synonyms": [
+   "cone",
+   "traffic cone"
+  ],
+  "freq": "f"
+ },
+ "298": {
+  "synset": "control.n.09",
+  "name": "control",
+  "synonyms": [
+   "control",
+   "controller"
+  ],
+  "freq": "f"
+ },
+ "299": {
+  "synset": "convertible.n.01",
+  "name": "convertible (automobile)",
+  "synonyms": [
+   "convertible (automobile)"
+  ],
+  "freq": "r"
+ },
+ "300": {
+  "synset": "convertible.n.03",
+  "name": "sofa bed",
+  "synonyms": [
+   "sofa bed"
+  ],
+  "freq": "r"
+ },
+ "301": {
+  "synset": "cooker.n.01",
+  "name": "cooker",
+  "synonyms": [
+   "cooker"
+  ],
+  "freq": "r"
+ },
+ "302": {
+  "synset": "cookie.n.01",
+  "name": "cookie",
+  "synonyms": [
+   "cookie",
+   "cooky",
+   "biscuit (cookie)"
+  ],
+  "freq": "f"
+ },
+ "303": {
+  "synset": "cooking_utensil.n.01",
+  "name": "cooking utensil",
+  "synonyms": [
+   "cooking utensil"
+  ],
+  "freq": "r"
+ },
+ "304": {
+  "synset": "cooler.n.01",
+  "name": "cooler (for food)",
+  "synonyms": [
+   "cooler (for food)",
+   "ice chest"
+  ],
+  "freq": "f"
+ },
+ "305": {
+  "synset": "cork.n.04",
+  "name": "cork (bottle plug)",
+  "synonyms": [
+   "cork (bottle plug)",
+   "bottle cork"
+  ],
+  "freq": "f"
+ },
+ "306": {
+  "synset": "corkboard.n.01",
+  "name": "corkboard",
+  "synonyms": [
+   "corkboard"
+  ],
+  "freq": "r"
+ },
+ "307": {
+  "synset": "corkscrew.n.01",
+  "name": "corkscrew",
+  "synonyms": [
+   "corkscrew",
+   "bottle screw"
+  ],
+  "freq": "c"
+ },
+ "308": {
+  "synset": "corn.n.03",
+  "name": "edible corn",
+  "synonyms": [
+   "edible corn",
+   "corn",
+   "maize"
+  ],
+  "freq": "f"
+ },
+ "309": {
+  "synset": "cornbread.n.01",
+  "name": "cornbread",
+  "synonyms": [
+   "cornbread"
+  ],
+  "freq": "r"
+ },
+ "310": {
+  "synset": "cornet.n.01",
+  "name": "cornet",
+  "synonyms": [
+   "cornet",
+   "horn",
+   "trumpet"
+  ],
+  "freq": "c"
+ },
+ "311": {
+  "synset": "cornice.n.01",
+  "name": "cornice",
+  "synonyms": [
+   "cornice",
+   "valance",
+   "valance board",
+   "pelmet"
+  ],
+  "freq": "c"
+ },
+ "312": {
+  "synset": "cornmeal.n.01",
+  "name": "cornmeal",
+  "synonyms": [
+   "cornmeal"
+  ],
+  "freq": "r"
+ },
+ "313": {
+  "synset": "corset.n.01",
+  "name": "corset",
+  "synonyms": [
+   "corset",
+   "girdle"
+  ],
+  "freq": "c"
+ },
+ "314": {
+  "synset": "costume.n.04",
+  "name": "costume",
+  "synonyms": [
+   "costume"
+  ],
+  "freq": "c"
+ },
+ "315": {
+  "synset": "cougar.n.01",
+  "name": "cougar",
+  "synonyms": [
+   "cougar",
+   "puma",
+   "catamount",
+   "mountain lion",
+   "panther"
+  ],
+  "freq": "r"
+ },
+ "316": {
+  "synset": "coverall.n.01",
+  "name": "coverall",
+  "synonyms": [
+   "coverall"
+  ],
+  "freq": "r"
+ },
+ "317": {
+  "synset": "cowbell.n.01",
+  "name": "cowbell",
+  "synonyms": [
+   "cowbell"
+  ],
+  "freq": "c"
+ },
+ "318": {
+  "synset": "cowboy_hat.n.01",
+  "name": "cowboy hat",
+  "synonyms": [
+   "cowboy hat",
+   "ten-gallon hat"
+  ],
+  "freq": "f"
+ },
+ "319": {
+  "synset": "crab.n.01",
+  "name": "crab (animal)",
+  "synonyms": [
+   "crab (animal)"
+  ],
+  "freq": "c"
+ },
+ "320": {
+  "synset": "crab.n.05",
+  "name": "crabmeat",
+  "synonyms": [
+   "crabmeat"
+  ],
+  "freq": "r"
+ },
+ "321": {
+  "synset": "cracker.n.01",
+  "name": "cracker",
+  "synonyms": [
+   "cracker"
+  ],
+  "freq": "c"
+ },
+ "322": {
+  "synset": "crape.n.01",
+  "name": "crape",
+  "synonyms": [
+   "crape",
+   "crepe",
+   "French pancake"
+  ],
+  "freq": "r"
+ },
+ "323": {
+  "synset": "crate.n.01",
+  "name": "crate",
+  "synonyms": [
+   "crate"
+  ],
+  "freq": "f"
+ },
+ "324": {
+  "synset": "crayon.n.01",
+  "name": "crayon",
+  "synonyms": [
+   "crayon",
+   "wax crayon"
+  ],
+  "freq": "c"
+ },
+ "325": {
+  "synset": "cream_pitcher.n.01",
+  "name": "cream pitcher",
+  "synonyms": [
+   "cream pitcher"
+  ],
+  "freq": "r"
+ },
+ "326": {
+  "synset": "crescent_roll.n.01",
+  "name": "crescent roll",
+  "synonyms": [
+   "crescent roll",
+   "croissant"
+  ],
+  "freq": "c"
+ },
+ "327": {
+  "synset": "crib.n.01",
+  "name": "crib",
+  "synonyms": [
+   "crib",
+   "cot"
+  ],
+  "freq": "c"
+ },
+ "328": {
+  "synset": "crock.n.03",
+  "name": "crock pot",
+  "synonyms": [
+   "crock pot",
+   "earthenware jar"
+  ],
+  "freq": "c"
+ },
+ "329": {
+  "synset": "crossbar.n.01",
+  "name": "crossbar",
+  "synonyms": [
+   "crossbar"
+  ],
+  "freq": "f"
+ },
+ "330": {
+  "synset": "crouton.n.01",
+  "name": "crouton",
+  "synonyms": [
+   "crouton"
+  ],
+  "freq": "r"
+ },
+ "331": {
+  "synset": "crow.n.01",
+  "name": "crow",
+  "synonyms": [
+   "crow"
+  ],
+  "freq": "c"
+ },
+ "332": {
+  "synset": "crowbar.n.01",
+  "name": "crowbar",
+  "synonyms": [
+   "crowbar",
+   "wrecking bar",
+   "pry bar"
+  ],
+  "freq": "r"
+ },
+ "333": {
+  "synset": "crown.n.04",
+  "name": "crown",
+  "synonyms": [
+   "crown"
+  ],
+  "freq": "c"
+ },
+ "334": {
+  "synset": "crucifix.n.01",
+  "name": "crucifix",
+  "synonyms": [
+   "crucifix"
+  ],
+  "freq": "c"
+ },
+ "335": {
+  "synset": "cruise_ship.n.01",
+  "name": "cruise ship",
+  "synonyms": [
+   "cruise ship",
+   "cruise liner"
+  ],
+  "freq": "c"
+ },
+ "336": {
+  "synset": "cruiser.n.01",
+  "name": "police cruiser",
+  "synonyms": [
+   "police cruiser",
+   "patrol car",
+   "police car",
+   "squad car"
+  ],
+  "freq": "c"
+ },
+ "337": {
+  "synset": "crumb.n.03",
+  "name": "crumb",
+  "synonyms": [
+   "crumb"
+  ],
+  "freq": "f"
+ },
+ "338": {
+  "synset": "crutch.n.01",
+  "name": "crutch",
+  "synonyms": [
+   "crutch"
+  ],
+  "freq": "c"
+ },
+ "339": {
+  "synset": "cub.n.03",
+  "name": "cub (animal)",
+  "synonyms": [
+   "cub (animal)"
+  ],
+  "freq": "c"
+ },
+ "340": {
+  "synset": "cube.n.05",
+  "name": "cube",
+  "synonyms": [
+   "cube",
+   "square block"
+  ],
+  "freq": "c"
+ },
+ "341": {
+  "synset": "cucumber.n.02",
+  "name": "cucumber",
+  "synonyms": [
+   "cucumber",
+   "cuke"
+  ],
+  "freq": "f"
+ },
+ "342": {
+  "synset": "cufflink.n.01",
+  "name": "cufflink",
+  "synonyms": [
+   "cufflink"
+  ],
+  "freq": "c"
+ },
+ "343": {
+  "synset": "cup.n.01",
+  "name": "cup",
+  "synonyms": [
+   "cup"
+  ],
+  "freq": "f"
+ },
+ "344": {
+  "synset": "cup.n.08",
+  "name": "trophy cup",
+  "synonyms": [
+   "trophy cup"
+  ],
+  "freq": "c"
+ },
+ "345": {
+  "synset": "cupboard.n.01",
+  "name": "cupboard",
+  "synonyms": [
+   "cupboard",
+   "closet"
+  ],
+  "freq": "f"
+ },
+ "346": {
+  "synset": "cupcake.n.01",
+  "name": "cupcake",
+  "synonyms": [
+   "cupcake"
+  ],
+  "freq": "f"
+ },
+ "347": {
+  "synset": "curler.n.01",
+  "name": "hair curler",
+  "synonyms": [
+   "hair curler",
+   "hair roller",
+   "hair crimper"
+  ],
+  "freq": "r"
+ },
+ "348": {
+  "synset": "curling_iron.n.01",
+  "name": "curling iron",
+  "synonyms": [
+   "curling iron"
+  ],
+  "freq": "r"
+ },
+ "349": {
+  "synset": "curtain.n.01",
+  "name": "curtain",
+  "synonyms": [
+   "curtain",
+   "drapery"
+  ],
+  "freq": "f"
+ },
+ "350": {
+  "synset": "cushion.n.03",
+  "name": "cushion",
+  "synonyms": [
+   "cushion"
+  ],
+  "freq": "f"
+ },
+ "351": {
+  "synset": "cylinder.n.04",
+  "name": "cylinder",
+  "synonyms": [
+   "cylinder"
+  ],
+  "freq": "r"
+ },
+ "352": {
+  "synset": "cymbal.n.01",
+  "name": "cymbal",
+  "synonyms": [
+   "cymbal"
+  ],
+  "freq": "r"
+ },
+ "353": {
+  "synset": "dagger.n.01",
+  "name": "dagger",
+  "synonyms": [
+   "dagger"
+  ],
+  "freq": "r"
+ },
+ "354": {
+  "synset": "dalmatian.n.02",
+  "name": "dalmatian",
+  "synonyms": [
+   "dalmatian"
+  ],
+  "freq": "r"
+ },
+ "355": {
+  "synset": "dartboard.n.01",
+  "name": "dartboard",
+  "synonyms": [
+   "dartboard"
+  ],
+  "freq": "c"
+ },
+ "356": {
+  "synset": "date.n.08",
+  "name": "date (fruit)",
+  "synonyms": [
+   "date (fruit)"
+  ],
+  "freq": "r"
+ },
+ "357": {
+  "synset": "deck_chair.n.01",
+  "name": "deck chair",
+  "synonyms": [
+   "deck chair",
+   "beach chair"
+  ],
+  "freq": "f"
+ },
+ "358": {
+  "synset": "deer.n.01",
+  "name": "deer",
+  "synonyms": [
+   "deer",
+   "cervid"
+  ],
+  "freq": "c"
+ },
+ "359": {
+  "synset": "dental_floss.n.01",
+  "name": "dental floss",
+  "synonyms": [
+   "dental floss",
+   "floss"
+  ],
+  "freq": "c"
+ },
+ "360": {
+  "synset": "desk.n.01",
+  "name": "desk",
+  "synonyms": [
+   "desk"
+  ],
+  "freq": "f"
+ },
+ "361": {
+  "synset": "detergent.n.01",
+  "name": "detergent",
+  "synonyms": [
+   "detergent"
+  ],
+  "freq": "r"
+ },
+ "362": {
+  "synset": "diaper.n.01",
+  "name": "diaper",
+  "synonyms": [
+   "diaper"
+  ],
+  "freq": "c"
+ },
+ "363": {
+  "synset": "diary.n.01",
+  "name": "diary",
+  "synonyms": [
+   "diary",
+   "journal"
+  ],
+  "freq": "r"
+ },
+ "364": {
+  "synset": "die.n.01",
+  "name": "die",
+  "synonyms": [
+   "die",
+   "dice"
+  ],
+  "freq": "r"
+ },
+ "365": {
+  "synset": "dinghy.n.01",
+  "name": "dinghy",
+  "synonyms": [
+   "dinghy",
+   "dory",
+   "rowboat"
+  ],
+  "freq": "r"
+ },
+ "366": {
+  "synset": "dining_table.n.01",
+  "name": "dining table",
+  "synonyms": [
+   "dining table"
+  ],
+  "freq": "f"
+ },
+ "367": {
+  "synset": "dinner_jacket.n.01",
+  "name": "tux",
+  "synonyms": [
+   "tux",
+   "tuxedo"
+  ],
+  "freq": "r"
+ },
+ "368": {
+  "synset": "dish.n.01",
+  "name": "dish",
+  "synonyms": [
+   "dish"
+  ],
+  "freq": "f"
+ },
+ "369": {
+  "synset": "dish.n.05",
+  "name": "dish antenna",
+  "synonyms": [
+   "dish antenna"
+  ],
+  "freq": "c"
+ },
+ "370": {
+  "synset": "dishrag.n.01",
+  "name": "dishrag",
+  "synonyms": [
+   "dishrag",
+   "dishcloth"
+  ],
+  "freq": "c"
+ },
+ "371": {
+  "synset": "dishtowel.n.01",
+  "name": "dishtowel",
+  "synonyms": [
+   "dishtowel",
+   "tea towel"
+  ],
+  "freq": "f"
+ },
+ "372": {
+  "synset": "dishwasher.n.01",
+  "name": "dishwasher",
+  "synonyms": [
+   "dishwasher",
+   "dishwashing machine"
+  ],
+  "freq": "f"
+ },
+ "373": {
+  "synset": "dishwasher_detergent.n.01",
+  "name": "dishwasher detergent",
+  "synonyms": [
+   "dishwasher detergent",
+   "dishwashing detergent",
+   "dishwashing liquid",
+   "dishsoap"
+  ],
+  "freq": "r"
+ },
+ "374": {
+  "synset": "dispenser.n.01",
+  "name": "dispenser",
+  "synonyms": [
+   "dispenser"
+  ],
+  "freq": "f"
+ },
+ "375": {
+  "synset": "diving_board.n.01",
+  "name": "diving board",
+  "synonyms": [
+   "diving board"
+  ],
+  "freq": "r"
+ },
+ "376": {
+  "synset": "dixie_cup.n.01",
+  "name": "Dixie cup",
+  "synonyms": [
+   "Dixie cup",
+   "paper cup"
+  ],
+  "freq": "f"
+ },
+ "377": {
+  "synset": "dog.n.01",
+  "name": "dog",
+  "synonyms": [
+   "dog"
+  ],
+  "freq": "f"
+ },
+ "378": {
+  "synset": "dog_collar.n.01",
+  "name": "dog collar",
+  "synonyms": [
+   "dog collar"
+  ],
+  "freq": "f"
+ },
+ "379": {
+  "synset": "doll.n.01",
+  "name": "doll",
+  "synonyms": [
+   "doll"
+  ],
+  "freq": "f"
+ },
+ "380": {
+  "synset": "dollar.n.02",
+  "name": "dollar",
+  "synonyms": [
+   "dollar",
+   "dollar bill",
+   "one dollar bill"
+  ],
+  "freq": "r"
+ },
+ "381": {
+  "synset": "dollhouse.n.01",
+  "name": "dollhouse",
+  "synonyms": [
+   "dollhouse",
+   "doll's house"
+  ],
+  "freq": "r"
+ },
+ "382": {
+  "synset": "dolphin.n.02",
+  "name": "dolphin",
+  "synonyms": [
+   "dolphin"
+  ],
+  "freq": "c"
+ },
+ "383": {
+  "synset": "domestic_ass.n.01",
+  "name": "domestic ass",
+  "synonyms": [
+   "domestic ass",
+   "donkey"
+  ],
+  "freq": "c"
+ },
+ "384": {
+  "synset": "doorknob.n.01",
+  "name": "doorknob",
+  "synonyms": [
+   "doorknob",
+   "doorhandle"
+  ],
+  "freq": "f"
+ },
+ "385": {
+  "synset": "doormat.n.02",
+  "name": "doormat",
+  "synonyms": [
+   "doormat",
+   "welcome mat"
+  ],
+  "freq": "c"
+ },
+ "386": {
+  "synset": "doughnut.n.02",
+  "name": "doughnut",
+  "synonyms": [
+   "doughnut",
+   "donut"
+  ],
+  "freq": "f"
+ },
+ "387": {
+  "synset": "dove.n.01",
+  "name": "dove",
+  "synonyms": [
+   "dove"
+  ],
+  "freq": "r"
+ },
+ "388": {
+  "synset": "dragonfly.n.01",
+  "name": "dragonfly",
+  "synonyms": [
+   "dragonfly"
+  ],
+  "freq": "r"
+ },
+ "389": {
+  "synset": "drawer.n.01",
+  "name": "drawer",
+  "synonyms": [
+   "drawer"
+  ],
+  "freq": "f"
+ },
+ "390": {
+  "synset": "drawers.n.01",
+  "name": "underdrawers",
+  "synonyms": [
+   "underdrawers",
+   "boxers",
+   "boxershorts"
+  ],
+  "freq": "c"
+ },
+ "391": {
+  "synset": "dress.n.01",
+  "name": "dress",
+  "synonyms": [
+   "dress",
+   "frock"
+  ],
+  "freq": "f"
+ },
+ "392": {
+  "synset": "dress_hat.n.01",
+  "name": "dress hat",
+  "synonyms": [
+   "dress hat",
+   "high hat",
+   "opera hat",
+   "silk hat",
+   "top hat"
+  ],
+  "freq": "c"
+ },
+ "393": {
+  "synset": "dress_suit.n.01",
+  "name": "dress suit",
+  "synonyms": [
+   "dress suit"
+  ],
+  "freq": "f"
+ },
+ "394": {
+  "synset": "dresser.n.05",
+  "name": "dresser",
+  "synonyms": [
+   "dresser"
+  ],
+  "freq": "f"
+ },
+ "395": {
+  "synset": "drill.n.01",
+  "name": "drill",
+  "synonyms": [
+   "drill"
+  ],
+  "freq": "c"
+ },
+ "396": {
+  "synset": "drone.n.04",
+  "name": "drone",
+  "synonyms": [
+   "drone"
+  ],
+  "freq": "r"
+ },
+ "397": {
+  "synset": "dropper.n.01",
+  "name": "dropper",
+  "synonyms": [
+   "dropper",
+   "eye dropper"
+  ],
+  "freq": "r"
+ },
+ "398": {
+  "synset": "drum.n.01",
+  "name": "drum (musical instrument)",
+  "synonyms": [
+   "drum (musical instrument)"
+  ],
+  "freq": "c"
+ },
+ "399": {
+  "synset": "drumstick.n.02",
+  "name": "drumstick",
+  "synonyms": [
+   "drumstick"
+  ],
+  "freq": "r"
+ },
+ "400": {
+  "synset": "duck.n.01",
+  "name": "duck",
+  "synonyms": [
+   "duck"
+  ],
+  "freq": "f"
+ },
+ "401": {
+  "synset": "duckling.n.02",
+  "name": "duckling",
+  "synonyms": [
+   "duckling"
+  ],
+  "freq": "c"
+ },
+ "402": {
+  "synset": "duct_tape.n.01",
+  "name": "duct tape",
+  "synonyms": [
+   "duct tape"
+  ],
+  "freq": "c"
+ },
+ "403": {
+  "synset": "duffel_bag.n.01",
+  "name": "duffel bag",
+  "synonyms": [
+   "duffel bag",
+   "duffle bag",
+   "duffel",
+   "duffle"
+  ],
+  "freq": "f"
+ },
+ "404": {
+  "synset": "dumbbell.n.01",
+  "name": "dumbbell",
+  "synonyms": [
+   "dumbbell"
+  ],
+  "freq": "r"
+ },
+ "405": {
+  "synset": "dumpster.n.01",
+  "name": "dumpster",
+  "synonyms": [
+   "dumpster"
+  ],
+  "freq": "c"
+ },
+ "406": {
+  "synset": "dustpan.n.02",
+  "name": "dustpan",
+  "synonyms": [
+   "dustpan"
+  ],
+  "freq": "r"
+ },
+ "407": {
+  "synset": "eagle.n.01",
+  "name": "eagle",
+  "synonyms": [
+   "eagle"
+  ],
+  "freq": "c"
+ },
+ "408": {
+  "synset": "earphone.n.01",
+  "name": "earphone",
+  "synonyms": [
+   "earphone",
+   "earpiece",
+   "headphone"
+  ],
+  "freq": "f"
+ },
+ "409": {
+  "synset": "earplug.n.01",
+  "name": "earplug",
+  "synonyms": [
+   "earplug"
+  ],
+  "freq": "r"
+ },
+ "410": {
+  "synset": "earring.n.01",
+  "name": "earring",
+  "synonyms": [
+   "earring"
+  ],
+  "freq": "f"
+ },
+ "411": {
+  "synset": "easel.n.01",
+  "name": "easel",
+  "synonyms": [
+   "easel"
+  ],
+  "freq": "c"
+ },
+ "412": {
+  "synset": "eclair.n.01",
+  "name": "eclair",
+  "synonyms": [
+   "eclair"
+  ],
+  "freq": "r"
+ },
+ "413": {
+  "synset": "eel.n.01",
+  "name": "eel",
+  "synonyms": [
+   "eel"
+  ],
+  "freq": "r"
+ },
+ "414": {
+  "synset": "egg.n.02",
+  "name": "egg",
+  "synonyms": [
+   "egg",
+   "eggs"
+  ],
+  "freq": "f"
+ },
+ "415": {
+  "synset": "egg_roll.n.01",
+  "name": "egg roll",
+  "synonyms": [
+   "egg roll",
+   "spring roll"
+  ],
+  "freq": "r"
+ },
+ "416": {
+  "synset": "egg_yolk.n.01",
+  "name": "egg yolk",
+  "synonyms": [
+   "egg yolk",
+   "yolk (egg)"
+  ],
+  "freq": "c"
+ },
+ "417": {
+  "synset": "eggbeater.n.02",
+  "name": "eggbeater",
+  "synonyms": [
+   "eggbeater",
+   "eggwhisk"
+  ],
+  "freq": "c"
+ },
+ "418": {
+  "synset": "eggplant.n.01",
+  "name": "eggplant",
+  "synonyms": [
+   "eggplant",
+   "aubergine"
+  ],
+  "freq": "c"
+ },
+ "419": {
+  "synset": "electric_chair.n.01",
+  "name": "electric chair",
+  "synonyms": [
+   "electric chair"
+  ],
+  "freq": "r"
+ },
+ "420": {
+  "synset": "electric_refrigerator.n.01",
+  "name": "refrigerator",
+  "synonyms": [
+   "refrigerator"
+  ],
+  "freq": "f"
+ },
+ "421": {
+  "synset": "elephant.n.01",
+  "name": "elephant",
+  "synonyms": [
+   "elephant"
+  ],
+  "freq": "f"
+ },
+ "422": {
+  "synset": "elk.n.01",
+  "name": "elk",
+  "synonyms": [
+   "elk",
+   "moose"
+  ],
+  "freq": "c"
+ },
+ "423": {
+  "synset": "envelope.n.01",
+  "name": "envelope",
+  "synonyms": [
+   "envelope"
+  ],
+  "freq": "c"
+ },
+ "424": {
+  "synset": "eraser.n.01",
+  "name": "eraser",
+  "synonyms": [
+   "eraser"
+  ],
+  "freq": "c"
+ },
+ "425": {
+  "synset": "escargot.n.01",
+  "name": "escargot",
+  "synonyms": [
+   "escargot"
+  ],
+  "freq": "r"
+ },
+ "426": {
+  "synset": "eyepatch.n.01",
+  "name": "eyepatch",
+  "synonyms": [
+   "eyepatch"
+  ],
+  "freq": "r"
+ },
+ "427": {
+  "synset": "falcon.n.01",
+  "name": "falcon",
+  "synonyms": [
+   "falcon"
+  ],
+  "freq": "r"
+ },
+ "428": {
+  "synset": "fan.n.01",
+  "name": "fan",
+  "synonyms": [
+   "fan"
+  ],
+  "freq": "f"
+ },
+ "429": {
+  "synset": "faucet.n.01",
+  "name": "faucet",
+  "synonyms": [
+   "faucet",
+   "spigot",
+   "tap"
+  ],
+  "freq": "f"
+ },
+ "430": {
+  "synset": "fedora.n.01",
+  "name": "fedora",
+  "synonyms": [
+   "fedora"
+  ],
+  "freq": "r"
+ },
+ "431": {
+  "synset": "ferret.n.02",
+  "name": "ferret",
+  "synonyms": [
+   "ferret"
+  ],
+  "freq": "r"
+ },
+ "432": {
+  "synset": "ferris_wheel.n.01",
+  "name": "Ferris wheel",
+  "synonyms": [
+   "Ferris wheel"
+  ],
+  "freq": "c"
+ },
+ "433": {
+  "synset": "ferry.n.01",
+  "name": "ferry",
+  "synonyms": [
+   "ferry",
+   "ferryboat"
+  ],
+  "freq": "c"
+ },
+ "434": {
+  "synset": "fig.n.04",
+  "name": "fig (fruit)",
+  "synonyms": [
+   "fig (fruit)"
+  ],
+  "freq": "r"
+ },
+ "435": {
+  "synset": "fighter.n.02",
+  "name": "fighter jet",
+  "synonyms": [
+   "fighter jet",
+   "fighter aircraft",
+   "attack aircraft"
+  ],
+  "freq": "c"
+ },
+ "436": {
+  "synset": "figurine.n.01",
+  "name": "figurine",
+  "synonyms": [
+   "figurine"
+  ],
+  "freq": "f"
+ },
+ "437": {
+  "synset": "file.n.03",
+  "name": "file cabinet",
+  "synonyms": [
+   "file cabinet",
+   "filing cabinet"
+  ],
+  "freq": "c"
+ },
+ "438": {
+  "synset": "file.n.04",
+  "name": "file (tool)",
+  "synonyms": [
+   "file (tool)"
+  ],
+  "freq": "r"
+ },
+ "439": {
+  "synset": "fire_alarm.n.02",
+  "name": "fire alarm",
+  "synonyms": [
+   "fire alarm",
+   "smoke alarm"
+  ],
+  "freq": "f"
+ },
+ "440": {
+  "synset": "fire_engine.n.01",
+  "name": "fire engine",
+  "synonyms": [
+   "fire engine",
+   "fire truck"
+  ],
+  "freq": "f"
+ },
+ "441": {
+  "synset": "fire_extinguisher.n.01",
+  "name": "fire extinguisher",
+  "synonyms": [
+   "fire extinguisher",
+   "extinguisher"
+  ],
+  "freq": "f"
+ },
+ "442": {
+  "synset": "fire_hose.n.01",
+  "name": "fire hose",
+  "synonyms": [
+   "fire hose"
+  ],
+  "freq": "c"
+ },
+ "443": {
+  "synset": "fireplace.n.01",
+  "name": "fireplace",
+  "synonyms": [
+   "fireplace"
+  ],
+  "freq": "f"
+ },
+ "444": {
+  "synset": "fireplug.n.01",
+  "name": "fireplug",
+  "synonyms": [
+   "fireplug",
+   "fire hydrant",
+   "hydrant"
+  ],
+  "freq": "f"
+ },
+ "445": {
+  "synset": "first-aid_kit.n.01",
+  "name": "first-aid kit",
+  "synonyms": [
+   "first-aid kit"
+  ],
+  "freq": "r"
+ },
+ "446": {
+  "synset": "fish.n.01",
+  "name": "fish",
+  "synonyms": [
+   "fish"
+  ],
+  "freq": "f"
+ },
+ "447": {
+  "synset": "fish.n.02",
+  "name": "fish (food)",
+  "synonyms": [
+   "fish (food)"
+  ],
+  "freq": "c"
+ },
+ "448": {
+  "synset": "fishbowl.n.02",
+  "name": "fishbowl",
+  "synonyms": [
+   "fishbowl",
+   "goldfish bowl"
+  ],
+  "freq": "r"
+ },
+ "449": {
+  "synset": "fishing_rod.n.01",
+  "name": "fishing rod",
+  "synonyms": [
+   "fishing rod",
+   "fishing pole"
+  ],
+  "freq": "c"
+ },
+ "450": {
+  "synset": "flag.n.01",
+  "name": "flag",
+  "synonyms": [
+   "flag"
+  ],
+  "freq": "f"
+ },
+ "451": {
+  "synset": "flagpole.n.02",
+  "name": "flagpole",
+  "synonyms": [
+   "flagpole",
+   "flagstaff"
+  ],
+  "freq": "f"
+ },
+ "452": {
+  "synset": "flamingo.n.01",
+  "name": "flamingo",
+  "synonyms": [
+   "flamingo"
+  ],
+  "freq": "c"
+ },
+ "453": {
+  "synset": "flannel.n.01",
+  "name": "flannel",
+  "synonyms": [
+   "flannel"
+  ],
+  "freq": "c"
+ },
+ "454": {
+  "synset": "flap.n.01",
+  "name": "flap",
+  "synonyms": [
+   "flap"
+  ],
+  "freq": "c"
+ },
+ "455": {
+  "synset": "flash.n.10",
+  "name": "flash",
+  "synonyms": [
+   "flash",
+   "flashbulb"
+  ],
+  "freq": "r"
+ },
+ "456": {
+  "synset": "flashlight.n.01",
+  "name": "flashlight",
+  "synonyms": [
+   "flashlight",
+   "torch"
+  ],
+  "freq": "c"
+ },
+ "457": {
+  "synset": "fleece.n.03",
+  "name": "fleece",
+  "synonyms": [
+   "fleece"
+  ],
+  "freq": "r"
+ },
+ "458": {
+  "synset": "flip-flop.n.02",
+  "name": "flip-flop (sandal)",
+  "synonyms": [
+   "flip-flop (sandal)"
+  ],
+  "freq": "f"
+ },
+ "459": {
+  "synset": "flipper.n.01",
+  "name": "flipper (footwear)",
+  "synonyms": [
+   "flipper (footwear)",
+   "fin (footwear)"
+  ],
+  "freq": "c"
+ },
+ "460": {
+  "synset": "flower_arrangement.n.01",
+  "name": "flower arrangement",
+  "synonyms": [
+   "flower arrangement",
+   "floral arrangement"
+  ],
+  "freq": "f"
+ },
+ "461": {
+  "synset": "flute.n.02",
+  "name": "flute glass",
+  "synonyms": [
+   "flute glass",
+   "champagne flute"
+  ],
+  "freq": "c"
+ },
+ "462": {
+  "synset": "foal.n.01",
+  "name": "foal",
+  "synonyms": [
+   "foal"
+  ],
+  "freq": "c"
+ },
+ "463": {
+  "synset": "folding_chair.n.01",
+  "name": "folding chair",
+  "synonyms": [
+   "folding chair"
+  ],
+  "freq": "c"
+ },
+ "464": {
+  "synset": "food_processor.n.01",
+  "name": "food processor",
+  "synonyms": [
+   "food processor"
+  ],
+  "freq": "c"
+ },
+ "465": {
+  "synset": "football.n.02",
+  "name": "football (American)",
+  "synonyms": [
+   "football (American)"
+  ],
+  "freq": "c"
+ },
+ "466": {
+  "synset": "football_helmet.n.01",
+  "name": "football helmet",
+  "synonyms": [
+   "football helmet"
+  ],
+  "freq": "r"
+ },
+ "467": {
+  "synset": "footstool.n.01",
+  "name": "footstool",
+  "synonyms": [
+   "footstool",
+   "footrest"
+  ],
+  "freq": "c"
+ },
+ "468": {
+  "synset": "fork.n.01",
+  "name": "fork",
+  "synonyms": [
+   "fork"
+  ],
+  "freq": "f"
+ },
+ "469": {
+  "synset": "forklift.n.01",
+  "name": "forklift",
+  "synonyms": [
+   "forklift"
+  ],
+  "freq": "c"
+ },
+ "470": {
+  "synset": "freight_car.n.01",
+  "name": "freight car",
+  "synonyms": [
+   "freight car"
+  ],
+  "freq": "c"
+ },
+ "471": {
+  "synset": "french_toast.n.01",
+  "name": "French toast",
+  "synonyms": [
+   "French toast"
+  ],
+  "freq": "c"
+ },
+ "472": {
+  "synset": "freshener.n.01",
+  "name": "freshener",
+  "synonyms": [
+   "freshener",
+   "air freshener"
+  ],
+  "freq": "c"
+ },
+ "473": {
+  "synset": "frisbee.n.01",
+  "name": "frisbee",
+  "synonyms": [
+   "frisbee"
+  ],
+  "freq": "f"
+ },
+ "474": {
+  "synset": "frog.n.01",
+  "name": "frog",
+  "synonyms": [
+   "frog",
+   "toad",
+   "toad frog"
+  ],
+  "freq": "c"
+ },
+ "475": {
+  "synset": "fruit_juice.n.01",
+  "name": "fruit juice",
+  "synonyms": [
+   "fruit juice"
+  ],
+  "freq": "c"
+ },
+ "476": {
+  "synset": "frying_pan.n.01",
+  "name": "frying pan",
+  "synonyms": [
+   "frying pan",
+   "frypan",
+   "skillet"
+  ],
+  "freq": "f"
+ },
+ "477": {
+  "synset": "fudge.n.01",
+  "name": "fudge",
+  "synonyms": [
+   "fudge"
+  ],
+  "freq": "r"
+ },
+ "478": {
+  "synset": "funnel.n.02",
+  "name": "funnel",
+  "synonyms": [
+   "funnel"
+  ],
+  "freq": "r"
+ },
+ "479": {
+  "synset": "futon.n.01",
+  "name": "futon",
+  "synonyms": [
+   "futon"
+  ],
+  "freq": "r"
+ },
+ "480": {
+  "synset": "gag.n.02",
+  "name": "gag",
+  "synonyms": [
+   "gag",
+   "muzzle"
+  ],
+  "freq": "r"
+ },
+ "481": {
+  "synset": "garbage.n.03",
+  "name": "garbage",
+  "synonyms": [
+   "garbage"
+  ],
+  "freq": "r"
+ },
+ "482": {
+  "synset": "garbage_truck.n.01",
+  "name": "garbage truck",
+  "synonyms": [
+   "garbage truck"
+  ],
+  "freq": "c"
+ },
+ "483": {
+  "synset": "garden_hose.n.01",
+  "name": "garden hose",
+  "synonyms": [
+   "garden hose"
+  ],
+  "freq": "c"
+ },
+ "484": {
+  "synset": "gargle.n.01",
+  "name": "gargle",
+  "synonyms": [
+   "gargle",
+   "mouthwash"
+  ],
+  "freq": "c"
+ },
+ "485": {
+  "synset": "gargoyle.n.02",
+  "name": "gargoyle",
+  "synonyms": [
+   "gargoyle"
+  ],
+  "freq": "r"
+ },
+ "486": {
+  "synset": "garlic.n.02",
+  "name": "garlic",
+  "synonyms": [
+   "garlic",
+   "ail"
+  ],
+  "freq": "c"
+ },
+ "487": {
+  "synset": "gasmask.n.01",
+  "name": "gasmask",
+  "synonyms": [
+   "gasmask",
+   "respirator",
+   "gas helmet"
+  ],
+  "freq": "r"
+ },
+ "488": {
+  "synset": "gazelle.n.01",
+  "name": "gazelle",
+  "synonyms": [
+   "gazelle"
+  ],
+  "freq": "c"
+ },
+ "489": {
+  "synset": "gelatin.n.02",
+  "name": "gelatin",
+  "synonyms": [
+   "gelatin",
+   "jelly"
+  ],
+  "freq": "c"
+ },
+ "490": {
+  "synset": "gem.n.02",
+  "name": "gemstone",
+  "synonyms": [
+   "gemstone"
+  ],
+  "freq": "r"
+ },
+ "491": {
+  "synset": "generator.n.02",
+  "name": "generator",
+  "synonyms": [
+   "generator"
+  ],
+  "freq": "r"
+ },
+ "492": {
+  "synset": "giant_panda.n.01",
+  "name": "giant panda",
+  "synonyms": [
+   "giant panda",
+   "panda",
+   "panda bear"
+  ],
+  "freq": "c"
+ },
+ "493": {
+  "synset": "gift_wrap.n.01",
+  "name": "gift wrap",
+  "synonyms": [
+   "gift wrap"
+  ],
+  "freq": "c"
+ },
+ "494": {
+  "synset": "ginger.n.03",
+  "name": "ginger",
+  "synonyms": [
+   "ginger",
+   "gingerroot"
+  ],
+  "freq": "c"
+ },
+ "495": {
+  "synset": "giraffe.n.01",
+  "name": "giraffe",
+  "synonyms": [
+   "giraffe"
+  ],
+  "freq": "f"
+ },
+ "496": {
+  "synset": "girdle.n.02",
+  "name": "cincture",
+  "synonyms": [
+   "cincture",
+   "sash",
+   "waistband",
+   "waistcloth"
+  ],
+  "freq": "c"
+ },
+ "497": {
+  "synset": "glass.n.02",
+  "name": "glass (drink container)",
+  "synonyms": [
+   "glass (drink container)",
+   "drinking glass"
+  ],
+  "freq": "f"
+ },
+ "498": {
+  "synset": "globe.n.03",
+  "name": "globe",
+  "synonyms": [
+   "globe"
+  ],
+  "freq": "c"
+ },
+ "499": {
+  "synset": "glove.n.02",
+  "name": "glove",
+  "synonyms": [
+   "glove"
+  ],
+  "freq": "f"
+ },
+ "500": {
+  "synset": "goat.n.01",
+  "name": "goat",
+  "synonyms": [
+   "goat"
+  ],
+  "freq": "c"
+ },
+ "501": {
+  "synset": "goggles.n.01",
+  "name": "goggles",
+  "synonyms": [
+   "goggles"
+  ],
+  "freq": "f"
+ },
+ "502": {
+  "synset": "goldfish.n.01",
+  "name": "goldfish",
+  "synonyms": [
+   "goldfish"
+  ],
+  "freq": "r"
+ },
+ "503": {
+  "synset": "golf_club.n.02",
+  "name": "golf club",
+  "synonyms": [
+   "golf club",
+   "golf-club"
+  ],
+  "freq": "c"
+ },
+ "504": {
+  "synset": "golfcart.n.01",
+  "name": "golfcart",
+  "synonyms": [
+   "golfcart"
+  ],
+  "freq": "c"
+ },
+ "505": {
+  "synset": "gondola.n.02",
+  "name": "gondola (boat)",
+  "synonyms": [
+   "gondola (boat)"
+  ],
+  "freq": "r"
+ },
+ "506": {
+  "synset": "goose.n.01",
+  "name": "goose",
+  "synonyms": [
+   "goose"
+  ],
+  "freq": "c"
+ },
+ "507": {
+  "synset": "gorilla.n.01",
+  "name": "gorilla",
+  "synonyms": [
+   "gorilla"
+  ],
+  "freq": "r"
+ },
+ "508": {
+  "synset": "gourd.n.02",
+  "name": "gourd",
+  "synonyms": [
+   "gourd"
+  ],
+  "freq": "r"
+ },
+ "509": {
+  "synset": "grape.n.01",
+  "name": "grape",
+  "synonyms": [
+   "grape"
+  ],
+  "freq": "f"
+ },
+ "510": {
+  "synset": "grater.n.01",
+  "name": "grater",
+  "synonyms": [
+   "grater"
+  ],
+  "freq": "c"
+ },
+ "511": {
+  "synset": "gravestone.n.01",
+  "name": "gravestone",
+  "synonyms": [
+   "gravestone",
+   "headstone",
+   "tombstone"
+  ],
+  "freq": "c"
+ },
+ "512": {
+  "synset": "gravy_boat.n.01",
+  "name": "gravy boat",
+  "synonyms": [
+   "gravy boat",
+   "gravy holder"
+  ],
+  "freq": "r"
+ },
+ "513": {
+  "synset": "green_bean.n.02",
+  "name": "green bean",
+  "synonyms": [
+   "green bean"
+  ],
+  "freq": "f"
+ },
+ "514": {
+  "synset": "green_onion.n.01",
+  "name": "green onion",
+  "synonyms": [
+   "green onion",
+   "spring onion",
+   "scallion"
+  ],
+  "freq": "f"
+ },
+ "515": {
+  "synset": "griddle.n.01",
+  "name": "griddle",
+  "synonyms": [
+   "griddle"
+  ],
+  "freq": "r"
+ },
+ "516": {
+  "synset": "grill.n.02",
+  "name": "grill",
+  "synonyms": [
+   "grill",
+   "grille",
+   "grillwork",
+   "radiator grille"
+  ],
+  "freq": "f"
+ },
+ "517": {
+  "synset": "grits.n.01",
+  "name": "grits",
+  "synonyms": [
+   "grits",
+   "hominy grits"
+  ],
+  "freq": "r"
+ },
+ "518": {
+  "synset": "grizzly.n.01",
+  "name": "grizzly",
+  "synonyms": [
+   "grizzly",
+   "grizzly bear"
+  ],
+  "freq": "c"
+ },
+ "519": {
+  "synset": "grocery_bag.n.01",
+  "name": "grocery bag",
+  "synonyms": [
+   "grocery bag"
+  ],
+  "freq": "c"
+ },
+ "520": {
+  "synset": "guitar.n.01",
+  "name": "guitar",
+  "synonyms": [
+   "guitar"
+  ],
+  "freq": "f"
+ },
+ "521": {
+  "synset": "gull.n.02",
+  "name": "gull",
+  "synonyms": [
+   "gull",
+   "seagull"
+  ],
+  "freq": "c"
+ },
+ "522": {
+  "synset": "gun.n.01",
+  "name": "gun",
+  "synonyms": [
+   "gun"
+  ],
+  "freq": "c"
+ },
+ "523": {
+  "synset": "hairbrush.n.01",
+  "name": "hairbrush",
+  "synonyms": [
+   "hairbrush"
+  ],
+  "freq": "f"
+ },
+ "524": {
+  "synset": "hairnet.n.01",
+  "name": "hairnet",
+  "synonyms": [
+   "hairnet"
+  ],
+  "freq": "c"
+ },
+ "525": {
+  "synset": "hairpin.n.01",
+  "name": "hairpin",
+  "synonyms": [
+   "hairpin"
+  ],
+  "freq": "c"
+ },
+ "526": {
+  "synset": "halter.n.03",
+  "name": "halter top",
+  "synonyms": [
+   "halter top"
+  ],
+  "freq": "r"
+ },
+ "527": {
+  "synset": "ham.n.01",
+  "name": "ham",
+  "synonyms": [
+   "ham",
+   "jambon",
+   "gammon"
+  ],
+  "freq": "f"
+ },
+ "528": {
+  "synset": "hamburger.n.01",
+  "name": "hamburger",
+  "synonyms": [
+   "hamburger",
+   "beefburger",
+   "burger"
+  ],
+  "freq": "c"
+ },
+ "529": {
+  "synset": "hammer.n.02",
+  "name": "hammer",
+  "synonyms": [
+   "hammer"
+  ],
+  "freq": "c"
+ },
+ "530": {
+  "synset": "hammock.n.02",
+  "name": "hammock",
+  "synonyms": [
+   "hammock"
+  ],
+  "freq": "c"
+ },
+ "531": {
+  "synset": "hamper.n.02",
+  "name": "hamper",
+  "synonyms": [
+   "hamper"
+  ],
+  "freq": "r"
+ },
+ "532": {
+  "synset": "hamster.n.01",
+  "name": "hamster",
+  "synonyms": [
+   "hamster"
+  ],
+  "freq": "c"
+ },
+ "533": {
+  "synset": "hand_blower.n.01",
+  "name": "hair dryer",
+  "synonyms": [
+   "hair dryer"
+  ],
+  "freq": "f"
+ },
+ "534": {
+  "synset": "hand_glass.n.01",
+  "name": "hand glass",
+  "synonyms": [
+   "hand glass",
+   "hand mirror"
+  ],
+  "freq": "r"
+ },
+ "535": {
+  "synset": "hand_towel.n.01",
+  "name": "hand towel",
+  "synonyms": [
+   "hand towel",
+   "face towel"
+  ],
+  "freq": "f"
+ },
+ "536": {
+  "synset": "handcart.n.01",
+  "name": "handcart",
+  "synonyms": [
+   "handcart",
+   "pushcart",
+   "hand truck"
+  ],
+  "freq": "c"
+ },
+ "537": {
+  "synset": "handcuff.n.01",
+  "name": "handcuff",
+  "synonyms": [
+   "handcuff"
+  ],
+  "freq": "r"
+ },
+ "538": {
+  "synset": "handkerchief.n.01",
+  "name": "handkerchief",
+  "synonyms": [
+   "handkerchief"
+  ],
+  "freq": "c"
+ },
+ "539": {
+  "synset": "handle.n.01",
+  "name": "handle",
+  "synonyms": [
+   "handle",
+   "grip",
+   "handgrip"
+  ],
+  "freq": "f"
+ },
+ "540": {
+  "synset": "handsaw.n.01",
+  "name": "handsaw",
+  "synonyms": [
+   "handsaw",
+   "carpenter's saw"
+  ],
+  "freq": "r"
+ },
+ "541": {
+  "synset": "hardback.n.01",
+  "name": "hardback book",
+  "synonyms": [
+   "hardback book",
+   "hardcover book"
+  ],
+  "freq": "r"
+ },
+ "542": {
+  "synset": "harmonium.n.01",
+  "name": "harmonium",
+  "synonyms": [
+   "harmonium",
+   "organ (musical instrument)",
+   "reed organ (musical instrument)"
+  ],
+  "freq": "r"
+ },
+ "543": {
+  "synset": "hat.n.01",
+  "name": "hat",
+  "synonyms": [
+   "hat"
+  ],
+  "freq": "f"
+ },
+ "544": {
+  "synset": "hatbox.n.01",
+  "name": "hatbox",
+  "synonyms": [
+   "hatbox"
+  ],
+  "freq": "r"
+ },
+ "545": {
+  "synset": "head_covering.n.01",
+  "name": "veil",
+  "synonyms": [
+   "veil"
+  ],
+  "freq": "c"
+ },
+ "546": {
+  "synset": "headband.n.01",
+  "name": "headband",
+  "synonyms": [
+   "headband"
+  ],
+  "freq": "f"
+ },
+ "547": {
+  "synset": "headboard.n.01",
+  "name": "headboard",
+  "synonyms": [
+   "headboard"
+  ],
+  "freq": "f"
+ },
+ "548": {
+  "synset": "headlight.n.01",
+  "name": "headlight",
+  "synonyms": [
+   "headlight",
+   "headlamp"
+  ],
+  "freq": "f"
+ },
+ "549": {
+  "synset": "headscarf.n.01",
+  "name": "headscarf",
+  "synonyms": [
+   "headscarf"
+  ],
+  "freq": "c"
+ },
+ "550": {
+  "synset": "headset.n.01",
+  "name": "headset",
+  "synonyms": [
+   "headset"
+  ],
+  "freq": "r"
+ },
+ "551": {
+  "synset": "headstall.n.01",
+  "name": "headstall (for horses)",
+  "synonyms": [
+   "headstall (for horses)",
+   "headpiece (for horses)"
+  ],
+  "freq": "c"
+ },
+ "552": {
+  "synset": "heart.n.02",
+  "name": "heart",
+  "synonyms": [
+   "heart"
+  ],
+  "freq": "c"
+ },
+ "553": {
+  "synset": "heater.n.01",
+  "name": "heater",
+  "synonyms": [
+   "heater",
+   "warmer"
+  ],
+  "freq": "c"
+ },
+ "554": {
+  "synset": "helicopter.n.01",
+  "name": "helicopter",
+  "synonyms": [
+   "helicopter"
+  ],
+  "freq": "c"
+ },
+ "555": {
+  "synset": "helmet.n.02",
+  "name": "helmet",
+  "synonyms": [
+   "helmet"
+  ],
+  "freq": "f"
+ },
+ "556": {
+  "synset": "heron.n.02",
+  "name": "heron",
+  "synonyms": [
+   "heron"
+  ],
+  "freq": "r"
+ },
+ "557": {
+  "synset": "highchair.n.01",
+  "name": "highchair",
+  "synonyms": [
+   "highchair",
+   "feeding chair"
+  ],
+  "freq": "c"
+ },
+ "558": {
+  "synset": "hinge.n.01",
+  "name": "hinge",
+  "synonyms": [
+   "hinge"
+  ],
+  "freq": "f"
+ },
+ "559": {
+  "synset": "hippopotamus.n.01",
+  "name": "hippopotamus",
+  "synonyms": [
+   "hippopotamus"
+  ],
+  "freq": "r"
+ },
+ "560": {
+  "synset": "hockey_stick.n.01",
+  "name": "hockey stick",
+  "synonyms": [
+   "hockey stick"
+  ],
+  "freq": "r"
+ },
+ "561": {
+  "synset": "hog.n.03",
+  "name": "hog",
+  "synonyms": [
+   "hog",
+   "pig"
+  ],
+  "freq": "c"
+ },
+ "562": {
+  "synset": "home_plate.n.01",
+  "name": "home plate (baseball)",
+  "synonyms": [
+   "home plate (baseball)",
+   "home base (baseball)"
+  ],
+  "freq": "f"
+ },
+ "563": {
+  "synset": "honey.n.01",
+  "name": "honey",
+  "synonyms": [
+   "honey"
+  ],
+  "freq": "c"
+ },
+ "564": {
+  "synset": "hood.n.06",
+  "name": "fume hood",
+  "synonyms": [
+   "fume hood",
+   "exhaust hood"
+  ],
+  "freq": "f"
+ },
+ "565": {
+  "synset": "hook.n.05",
+  "name": "hook",
+  "synonyms": [
+   "hook"
+  ],
+  "freq": "f"
+ },
+ "566": {
+  "synset": "hookah.n.01",
+  "name": "hookah",
+  "synonyms": [
+   "hookah",
+   "narghile",
+   "nargileh",
+   "sheesha",
+   "shisha",
+   "water pipe"
+  ],
+  "freq": "r"
+ },
+ "567": {
+  "synset": "hornet.n.01",
+  "name": "hornet",
+  "synonyms": [
+   "hornet"
+  ],
+  "freq": "r"
+ },
+ "568": {
+  "synset": "horse.n.01",
+  "name": "horse",
+  "synonyms": [
+   "horse"
+  ],
+  "freq": "f"
+ },
+ "569": {
+  "synset": "hose.n.03",
+  "name": "hose",
+  "synonyms": [
+   "hose",
+   "hosepipe"
+  ],
+  "freq": "f"
+ },
+ "570": {
+  "synset": "hot-air_balloon.n.01",
+  "name": "hot-air balloon",
+  "synonyms": [
+   "hot-air balloon"
+  ],
+  "freq": "r"
+ },
+ "571": {
+  "synset": "hot_plate.n.01",
+  "name": "hotplate",
+  "synonyms": [
+   "hotplate"
+  ],
+  "freq": "r"
+ },
+ "572": {
+  "synset": "hot_sauce.n.01",
+  "name": "hot sauce",
+  "synonyms": [
+   "hot sauce"
+  ],
+  "freq": "c"
+ },
+ "573": {
+  "synset": "hourglass.n.01",
+  "name": "hourglass",
+  "synonyms": [
+   "hourglass"
+  ],
+  "freq": "r"
+ },
+ "574": {
+  "synset": "houseboat.n.01",
+  "name": "houseboat",
+  "synonyms": [
+   "houseboat"
+  ],
+  "freq": "r"
+ },
+ "575": {
+  "synset": "hummingbird.n.01",
+  "name": "hummingbird",
+  "synonyms": [
+   "hummingbird"
+  ],
+  "freq": "c"
+ },
+ "576": {
+  "synset": "hummus.n.01",
+  "name": "hummus",
+  "synonyms": [
+   "hummus",
+   "humus",
+   "hommos",
+   "hoummos",
+   "humous"
+  ],
+  "freq": "r"
+ },
+ "577": {
+  "synset": "ice_bear.n.01",
+  "name": "polar bear",
+  "synonyms": [
+   "polar bear"
+  ],
+  "freq": "f"
+ },
+ "578": {
+  "synset": "ice_cream.n.01",
+  "name": "icecream",
+  "synonyms": [
+   "icecream"
+  ],
+  "freq": "c"
+ },
+ "579": {
+  "synset": "ice_lolly.n.01",
+  "name": "popsicle",
+  "synonyms": [
+   "popsicle"
+  ],
+  "freq": "r"
+ },
+ "580": {
+  "synset": "ice_maker.n.01",
+  "name": "ice maker",
+  "synonyms": [
+   "ice maker"
+  ],
+  "freq": "c"
+ },
+ "581": {
+  "synset": "ice_pack.n.01",
+  "name": "ice pack",
+  "synonyms": [
+   "ice pack",
+   "ice bag"
+  ],
+  "freq": "r"
+ },
+ "582": {
+  "synset": "ice_skate.n.01",
+  "name": "ice skate",
+  "synonyms": [
+   "ice skate"
+  ],
+  "freq": "r"
+ },
+ "583": {
+  "synset": "igniter.n.01",
+  "name": "igniter",
+  "synonyms": [
+   "igniter",
+   "ignitor",
+   "lighter"
+  ],
+  "freq": "c"
+ },
+ "584": {
+  "synset": "inhaler.n.01",
+  "name": "inhaler",
+  "synonyms": [
+   "inhaler",
+   "inhalator"
+  ],
+  "freq": "r"
+ },
+ "585": {
+  "synset": "ipod.n.01",
+  "name": "iPod",
+  "synonyms": [
+   "iPod"
+  ],
+  "freq": "f"
+ },
+ "586": {
+  "synset": "iron.n.04",
+  "name": "iron (for clothing)",
+  "synonyms": [
+   "iron (for clothing)",
+   "smoothing iron (for clothing)"
+  ],
+  "freq": "c"
+ },
+ "587": {
+  "synset": "ironing_board.n.01",
+  "name": "ironing board",
+  "synonyms": [
+   "ironing board"
+  ],
+  "freq": "c"
+ },
+ "588": {
+  "synset": "jacket.n.01",
+  "name": "jacket",
+  "synonyms": [
+   "jacket"
+  ],
+  "freq": "f"
+ },
+ "589": {
+  "synset": "jam.n.01",
+  "name": "jam",
+  "synonyms": [
+   "jam"
+  ],
+  "freq": "c"
+ },
+ "590": {
+  "synset": "jar.n.01",
+  "name": "jar",
+  "synonyms": [
+   "jar"
+  ],
+  "freq": "f"
+ },
+ "591": {
+  "synset": "jean.n.01",
+  "name": "jean",
+  "synonyms": [
+   "jean",
+   "blue jean",
+   "denim"
+  ],
+  "freq": "f"
+ },
+ "592": {
+  "synset": "jeep.n.01",
+  "name": "jeep",
+  "synonyms": [
+   "jeep",
+   "landrover"
+  ],
+  "freq": "c"
+ },
+ "593": {
+  "synset": "jelly_bean.n.01",
+  "name": "jelly bean",
+  "synonyms": [
+   "jelly bean",
+   "jelly egg"
+  ],
+  "freq": "r"
+ },
+ "594": {
+  "synset": "jersey.n.03",
+  "name": "jersey",
+  "synonyms": [
+   "jersey",
+   "T-shirt",
+   "tee shirt"
+  ],
+  "freq": "f"
+ },
+ "595": {
+  "synset": "jet.n.01",
+  "name": "jet plane",
+  "synonyms": [
+   "jet plane",
+   "jet-propelled plane"
+  ],
+  "freq": "c"
+ },
+ "596": {
+  "synset": "jewel.n.01",
+  "name": "jewel",
+  "synonyms": [
+   "jewel",
+   "gem",
+   "precious stone"
+  ],
+  "freq": "r"
+ },
+ "597": {
+  "synset": "jewelry.n.01",
+  "name": "jewelry",
+  "synonyms": [
+   "jewelry",
+   "jewellery"
+  ],
+  "freq": "c"
+ },
+ "598": {
+  "synset": "joystick.n.02",
+  "name": "joystick",
+  "synonyms": [
+   "joystick"
+  ],
+  "freq": "r"
+ },
+ "599": {
+  "synset": "jump_suit.n.01",
+  "name": "jumpsuit",
+  "synonyms": [
+   "jumpsuit"
+  ],
+  "freq": "c"
+ },
+ "600": {
+  "synset": "kayak.n.01",
+  "name": "kayak",
+  "synonyms": [
+   "kayak"
+  ],
+  "freq": "c"
+ },
+ "601": {
+  "synset": "keg.n.02",
+  "name": "keg",
+  "synonyms": [
+   "keg"
+  ],
+  "freq": "r"
+ },
+ "602": {
+  "synset": "kennel.n.01",
+  "name": "kennel",
+  "synonyms": [
+   "kennel",
+   "doghouse"
+  ],
+  "freq": "r"
+ },
+ "603": {
+  "synset": "kettle.n.01",
+  "name": "kettle",
+  "synonyms": [
+   "kettle",
+   "boiler"
+  ],
+  "freq": "c"
+ },
+ "604": {
+  "synset": "key.n.01",
+  "name": "key",
+  "synonyms": [
+   "key"
+  ],
+  "freq": "f"
+ },
+ "605": {
+  "synset": "keycard.n.01",
+  "name": "keycard",
+  "synonyms": [
+   "keycard"
+  ],
+  "freq": "r"
+ },
+ "606": {
+  "synset": "kilt.n.01",
+  "name": "kilt",
+  "synonyms": [
+   "kilt"
+  ],
+  "freq": "c"
+ },
+ "607": {
+  "synset": "kimono.n.01",
+  "name": "kimono",
+  "synonyms": [
+   "kimono"
+  ],
+  "freq": "c"
+ },
+ "608": {
+  "synset": "kitchen_sink.n.01",
+  "name": "kitchen sink",
+  "synonyms": [
+   "kitchen sink"
+  ],
+  "freq": "f"
+ },
+ "609": {
+  "synset": "kitchen_table.n.01",
+  "name": "kitchen table",
+  "synonyms": [
+   "kitchen table"
+  ],
+  "freq": "r"
+ },
+ "610": {
+  "synset": "kite.n.03",
+  "name": "kite",
+  "synonyms": [
+   "kite"
+  ],
+  "freq": "f"
+ },
+ "611": {
+  "synset": "kitten.n.01",
+  "name": "kitten",
+  "synonyms": [
+   "kitten",
+   "kitty"
+  ],
+  "freq": "c"
+ },
+ "612": {
+  "synset": "kiwi.n.03",
+  "name": "kiwi fruit",
+  "synonyms": [
+   "kiwi fruit"
+  ],
+  "freq": "c"
+ },
+ "613": {
+  "synset": "knee_pad.n.01",
+  "name": "knee pad",
+  "synonyms": [
+   "knee pad"
+  ],
+  "freq": "f"
+ },
+ "614": {
+  "synset": "knife.n.01",
+  "name": "knife",
+  "synonyms": [
+   "knife"
+  ],
+  "freq": "f"
+ },
+ "615": {
+  "synset": "knitting_needle.n.01",
+  "name": "knitting needle",
+  "synonyms": [
+   "knitting needle"
+  ],
+  "freq": "r"
+ },
+ "616": {
+  "synset": "knob.n.02",
+  "name": "knob",
+  "synonyms": [
+   "knob"
+  ],
+  "freq": "f"
+ },
+ "617": {
+  "synset": "knocker.n.05",
+  "name": "knocker (on a door)",
+  "synonyms": [
+   "knocker (on a door)",
+   "doorknocker"
+  ],
+  "freq": "r"
+ },
+ "618": {
+  "synset": "koala.n.01",
+  "name": "koala",
+  "synonyms": [
+   "koala",
+   "koala bear"
+  ],
+  "freq": "r"
+ },
+ "619": {
+  "synset": "lab_coat.n.01",
+  "name": "lab coat",
+  "synonyms": [
+   "lab coat",
+   "laboratory coat"
+  ],
+  "freq": "r"
+ },
+ "620": {
+  "synset": "ladder.n.01",
+  "name": "ladder",
+  "synonyms": [
+   "ladder"
+  ],
+  "freq": "f"
+ },
+ "621": {
+  "synset": "ladle.n.01",
+  "name": "ladle",
+  "synonyms": [
+   "ladle"
+  ],
+  "freq": "c"
+ },
+ "622": {
+  "synset": "ladybug.n.01",
+  "name": "ladybug",
+  "synonyms": [
+   "ladybug",
+   "ladybeetle",
+   "ladybird beetle"
+  ],
+  "freq": "c"
+ },
+ "623": {
+  "synset": "lamb.n.01",
+  "name": "lamb (animal)",
+  "synonyms": [
+   "lamb (animal)"
+  ],
+  "freq": "f"
+ },
+ "624": {
+  "synset": "lamb_chop.n.01",
+  "name": "lamb-chop",
+  "synonyms": [
+   "lamb-chop",
+   "lambchop"
+  ],
+  "freq": "r"
+ },
+ "625": {
+  "synset": "lamp.n.02",
+  "name": "lamp",
+  "synonyms": [
+   "lamp"
+  ],
+  "freq": "f"
+ },
+ "626": {
+  "synset": "lamppost.n.01",
+  "name": "lamppost",
+  "synonyms": [
+   "lamppost"
+  ],
+  "freq": "f"
+ },
+ "627": {
+  "synset": "lampshade.n.01",
+  "name": "lampshade",
+  "synonyms": [
+   "lampshade"
+  ],
+  "freq": "f"
+ },
+ "628": {
+  "synset": "lantern.n.01",
+  "name": "lantern",
+  "synonyms": [
+   "lantern"
+  ],
+  "freq": "c"
+ },
+ "629": {
+  "synset": "lanyard.n.02",
+  "name": "lanyard",
+  "synonyms": [
+   "lanyard",
+   "laniard"
+  ],
+  "freq": "f"
+ },
+ "630": {
+  "synset": "laptop.n.01",
+  "name": "laptop computer",
+  "synonyms": [
+   "laptop computer",
+   "notebook computer"
+  ],
+  "freq": "f"
+ },
+ "631": {
+  "synset": "lasagna.n.01",
+  "name": "lasagna",
+  "synonyms": [
+   "lasagna",
+   "lasagne"
+  ],
+  "freq": "r"
+ },
+ "632": {
+  "synset": "latch.n.02",
+  "name": "latch",
+  "synonyms": [
+   "latch"
+  ],
+  "freq": "f"
+ },
+ "633": {
+  "synset": "lawn_mower.n.01",
+  "name": "lawn mower",
+  "synonyms": [
+   "lawn mower"
+  ],
+  "freq": "r"
+ },
+ "634": {
+  "synset": "leather.n.01",
+  "name": "leather",
+  "synonyms": [
+   "leather"
+  ],
+  "freq": "r"
+ },
+ "635": {
+  "synset": "legging.n.01",
+  "name": "legging (clothing)",
+  "synonyms": [
+   "legging (clothing)",
+   "leging (clothing)",
+   "leg covering"
+  ],
+  "freq": "c"
+ },
+ "636": {
+  "synset": "lego.n.01",
+  "name": "Lego",
+  "synonyms": [
+   "Lego",
+   "Lego set"
+  ],
+  "freq": "c"
+ },
+ "637": {
+  "synset": "legume.n.02",
+  "name": "legume",
+  "synonyms": [
+   "legume"
+  ],
+  "freq": "r"
+ },
+ "638": {
+  "synset": "lemon.n.01",
+  "name": "lemon",
+  "synonyms": [
+   "lemon"
+  ],
+  "freq": "f"
+ },
+ "639": {
+  "synset": "lemonade.n.01",
+  "name": "lemonade",
+  "synonyms": [
+   "lemonade"
+  ],
+  "freq": "r"
+ },
+ "640": {
+  "synset": "lettuce.n.02",
+  "name": "lettuce",
+  "synonyms": [
+   "lettuce"
+  ],
+  "freq": "f"
+ },
+ "641": {
+  "synset": "license_plate.n.01",
+  "name": "license plate",
+  "synonyms": [
+   "license plate",
+   "numberplate"
+  ],
+  "freq": "f"
+ },
+ "642": {
+  "synset": "life_buoy.n.01",
+  "name": "life buoy",
+  "synonyms": [
+   "life buoy",
+   "lifesaver",
+   "life belt",
+   "life ring"
+  ],
+  "freq": "f"
+ },
+ "643": {
+  "synset": "life_jacket.n.01",
+  "name": "life jacket",
+  "synonyms": [
+   "life jacket",
+   "life vest"
+  ],
+  "freq": "f"
+ },
+ "644": {
+  "synset": "light_bulb.n.01",
+  "name": "lightbulb",
+  "synonyms": [
+   "lightbulb"
+  ],
+  "freq": "f"
+ },
+ "645": {
+  "synset": "lightning_rod.n.02",
+  "name": "lightning rod",
+  "synonyms": [
+   "lightning rod",
+   "lightning conductor"
+  ],
+  "freq": "r"
+ },
+ "646": {
+  "synset": "lime.n.06",
+  "name": "lime",
+  "synonyms": [
+   "lime"
+  ],
+  "freq": "f"
+ },
+ "647": {
+  "synset": "limousine.n.01",
+  "name": "limousine",
+  "synonyms": [
+   "limousine"
+  ],
+  "freq": "r"
+ },
+ "648": {
+  "synset": "lion.n.01",
+  "name": "lion",
+  "synonyms": [
+   "lion"
+  ],
+  "freq": "c"
+ },
+ "649": {
+  "synset": "lip_balm.n.01",
+  "name": "lip balm",
+  "synonyms": [
+   "lip balm"
+  ],
+  "freq": "c"
+ },
+ "650": {
+  "synset": "liquor.n.01",
+  "name": "liquor",
+  "synonyms": [
+   "liquor",
+   "spirits",
+   "hard liquor",
+   "liqueur",
+   "cordial"
+  ],
+  "freq": "r"
+ },
+ "651": {
+  "synset": "lizard.n.01",
+  "name": "lizard",
+  "synonyms": [
+   "lizard"
+  ],
+  "freq": "c"
+ },
+ "652": {
+  "synset": "log.n.01",
+  "name": "log",
+  "synonyms": [
+   "log"
+  ],
+  "freq": "f"
+ },
+ "653": {
+  "synset": "lollipop.n.02",
+  "name": "lollipop",
+  "synonyms": [
+   "lollipop"
+  ],
+  "freq": "c"
+ },
+ "654": {
+  "synset": "loudspeaker.n.01",
+  "name": "speaker (stero equipment)",
+  "synonyms": [
+   "speaker (stero equipment)"
+  ],
+  "freq": "f"
+ },
+ "655": {
+  "synset": "love_seat.n.01",
+  "name": "loveseat",
+  "synonyms": [
+   "loveseat"
+  ],
+  "freq": "c"
+ },
+ "656": {
+  "synset": "machine_gun.n.01",
+  "name": "machine gun",
+  "synonyms": [
+   "machine gun"
+  ],
+  "freq": "r"
+ },
+ "657": {
+  "synset": "magazine.n.02",
+  "name": "magazine",
+  "synonyms": [
+   "magazine"
+  ],
+  "freq": "f"
+ },
+ "658": {
+  "synset": "magnet.n.01",
+  "name": "magnet",
+  "synonyms": [
+   "magnet"
+  ],
+  "freq": "f"
+ },
+ "659": {
+  "synset": "mail_slot.n.01",
+  "name": "mail slot",
+  "synonyms": [
+   "mail slot"
+  ],
+  "freq": "c"
+ },
+ "660": {
+  "synset": "mailbox.n.01",
+  "name": "mailbox (at home)",
+  "synonyms": [
+   "mailbox (at home)",
+   "letter box (at home)"
+  ],
+  "freq": "f"
+ },
+ "661": {
+  "synset": "mallard.n.01",
+  "name": "mallard",
+  "synonyms": [
+   "mallard"
+  ],
+  "freq": "r"
+ },
+ "662": {
+  "synset": "mallet.n.01",
+  "name": "mallet",
+  "synonyms": [
+   "mallet"
+  ],
+  "freq": "r"
+ },
+ "663": {
+  "synset": "mammoth.n.01",
+  "name": "mammoth",
+  "synonyms": [
+   "mammoth"
+  ],
+  "freq": "r"
+ },
+ "664": {
+  "synset": "manatee.n.01",
+  "name": "manatee",
+  "synonyms": [
+   "manatee"
+  ],
+  "freq": "r"
+ },
+ "665": {
+  "synset": "mandarin.n.05",
+  "name": "mandarin orange",
+  "synonyms": [
+   "mandarin orange"
+  ],
+  "freq": "c"
+ },
+ "666": {
+  "synset": "manger.n.01",
+  "name": "manger",
+  "synonyms": [
+   "manger",
+   "trough"
+  ],
+  "freq": "c"
+ },
+ "667": {
+  "synset": "manhole.n.01",
+  "name": "manhole",
+  "synonyms": [
+   "manhole"
+  ],
+  "freq": "f"
+ },
+ "668": {
+  "synset": "map.n.01",
+  "name": "map",
+  "synonyms": [
+   "map"
+  ],
+  "freq": "f"
+ },
+ "669": {
+  "synset": "marker.n.03",
+  "name": "marker",
+  "synonyms": [
+   "marker"
+  ],
+  "freq": "f"
+ },
+ "670": {
+  "synset": "martini.n.01",
+  "name": "martini",
+  "synonyms": [
+   "martini"
+  ],
+  "freq": "r"
+ },
+ "671": {
+  "synset": "mascot.n.01",
+  "name": "mascot",
+  "synonyms": [
+   "mascot"
+  ],
+  "freq": "r"
+ },
+ "672": {
+  "synset": "mashed_potato.n.01",
+  "name": "mashed potato",
+  "synonyms": [
+   "mashed potato"
+  ],
+  "freq": "c"
+ },
+ "673": {
+  "synset": "masher.n.02",
+  "name": "masher",
+  "synonyms": [
+   "masher"
+  ],
+  "freq": "r"
+ },
+ "674": {
+  "synset": "mask.n.04",
+  "name": "mask",
+  "synonyms": [
+   "mask",
+   "facemask"
+  ],
+  "freq": "f"
+ },
+ "675": {
+  "synset": "mast.n.01",
+  "name": "mast",
+  "synonyms": [
+   "mast"
+  ],
+  "freq": "f"
+ },
+ "676": {
+  "synset": "mat.n.03",
+  "name": "mat (gym equipment)",
+  "synonyms": [
+   "mat (gym equipment)",
+   "gym mat"
+  ],
+  "freq": "c"
+ },
+ "677": {
+  "synset": "matchbox.n.01",
+  "name": "matchbox",
+  "synonyms": [
+   "matchbox"
+  ],
+  "freq": "r"
+ },
+ "678": {
+  "synset": "mattress.n.01",
+  "name": "mattress",
+  "synonyms": [
+   "mattress"
+  ],
+  "freq": "f"
+ },
+ "679": {
+  "synset": "measuring_cup.n.01",
+  "name": "measuring cup",
+  "synonyms": [
+   "measuring cup"
+  ],
+  "freq": "c"
+ },
+ "680": {
+  "synset": "measuring_stick.n.01",
+  "name": "measuring stick",
+  "synonyms": [
+   "measuring stick",
+   "ruler (measuring stick)",
+   "measuring rod"
+  ],
+  "freq": "c"
+ },
+ "681": {
+  "synset": "meatball.n.01",
+  "name": "meatball",
+  "synonyms": [
+   "meatball"
+  ],
+  "freq": "c"
+ },
+ "682": {
+  "synset": "medicine.n.02",
+  "name": "medicine",
+  "synonyms": [
+   "medicine"
+  ],
+  "freq": "c"
+ },
+ "683": {
+  "synset": "melon.n.01",
+  "name": "melon",
+  "synonyms": [
+   "melon"
+  ],
+  "freq": "c"
+ },
+ "684": {
+  "synset": "microphone.n.01",
+  "name": "microphone",
+  "synonyms": [
+   "microphone"
+  ],
+  "freq": "f"
+ },
+ "685": {
+  "synset": "microscope.n.01",
+  "name": "microscope",
+  "synonyms": [
+   "microscope"
+  ],
+  "freq": "r"
+ },
+ "686": {
+  "synset": "microwave.n.02",
+  "name": "microwave oven",
+  "synonyms": [
+   "microwave oven"
+  ],
+  "freq": "f"
+ },
+ "687": {
+  "synset": "milestone.n.01",
+  "name": "milestone",
+  "synonyms": [
+   "milestone",
+   "milepost"
+  ],
+  "freq": "r"
+ },
+ "688": {
+  "synset": "milk.n.01",
+  "name": "milk",
+  "synonyms": [
+   "milk"
+  ],
+  "freq": "f"
+ },
+ "689": {
+  "synset": "milk_can.n.01",
+  "name": "milk can",
+  "synonyms": [
+   "milk can"
+  ],
+  "freq": "r"
+ },
+ "690": {
+  "synset": "milkshake.n.01",
+  "name": "milkshake",
+  "synonyms": [
+   "milkshake"
+  ],
+  "freq": "r"
+ },
+ "691": {
+  "synset": "minivan.n.01",
+  "name": "minivan",
+  "synonyms": [
+   "minivan"
+  ],
+  "freq": "f"
+ },
+ "692": {
+  "synset": "mint.n.05",
+  "name": "mint candy",
+  "synonyms": [
+   "mint candy"
+  ],
+  "freq": "r"
+ },
+ "693": {
+  "synset": "mirror.n.01",
+  "name": "mirror",
+  "synonyms": [
+   "mirror"
+  ],
+  "freq": "f"
+ },
+ "694": {
+  "synset": "mitten.n.01",
+  "name": "mitten",
+  "synonyms": [
+   "mitten"
+  ],
+  "freq": "c"
+ },
+ "695": {
+  "synset": "mixer.n.04",
+  "name": "mixer (kitchen tool)",
+  "synonyms": [
+   "mixer (kitchen tool)",
+   "stand mixer"
+  ],
+  "freq": "c"
+ },
+ "696": {
+  "synset": "money.n.03",
+  "name": "money",
+  "synonyms": [
+   "money"
+  ],
+  "freq": "c"
+ },
+ "697": {
+  "synset": "monitor.n.04",
+  "name": "monitor (computer equipment) computer monitor",
+  "synonyms": [
+   "monitor (computer equipment) computer monitor"
+  ],
+  "freq": "f"
+ },
+ "698": {
+  "synset": "monkey.n.01",
+  "name": "monkey",
+  "synonyms": [
+   "monkey"
+  ],
+  "freq": "c"
+ },
+ "699": {
+  "synset": "motor.n.01",
+  "name": "motor",
+  "synonyms": [
+   "motor"
+  ],
+  "freq": "f"
+ },
+ "700": {
+  "synset": "motor_scooter.n.01",
+  "name": "motor scooter",
+  "synonyms": [
+   "motor scooter",
+   "scooter"
+  ],
+  "freq": "f"
+ },
+ "701": {
+  "synset": "motor_vehicle.n.01",
+  "name": "motor vehicle",
+  "synonyms": [
+   "motor vehicle",
+   "automotive vehicle"
+  ],
+  "freq": "r"
+ },
+ "702": {
+  "synset": "motorcycle.n.01",
+  "name": "motorcycle",
+  "synonyms": [
+   "motorcycle"
+  ],
+  "freq": "f"
+ },
+ "703": {
+  "synset": "mound.n.01",
+  "name": "mound (baseball)",
+  "synonyms": [
+   "mound (baseball)",
+   "pitcher's mound"
+  ],
+  "freq": "f"
+ },
+ "704": {
+  "synset": "mouse.n.04",
+  "name": "mouse (computer equipment)",
+  "synonyms": [
+   "mouse (computer equipment)",
+   "computer mouse"
+  ],
+  "freq": "f"
+ },
+ "705": {
+  "synset": "mousepad.n.01",
+  "name": "mousepad",
+  "synonyms": [
+   "mousepad"
+  ],
+  "freq": "f"
+ },
+ "706": {
+  "synset": "muffin.n.01",
+  "name": "muffin",
+  "synonyms": [
+   "muffin"
+  ],
+  "freq": "c"
+ },
+ "707": {
+  "synset": "mug.n.04",
+  "name": "mug",
+  "synonyms": [
+   "mug"
+  ],
+  "freq": "f"
+ },
+ "708": {
+  "synset": "mushroom.n.02",
+  "name": "mushroom",
+  "synonyms": [
+   "mushroom"
+  ],
+  "freq": "f"
+ },
+ "709": {
+  "synset": "music_stool.n.01",
+  "name": "music stool",
+  "synonyms": [
+   "music stool",
+   "piano stool"
+  ],
+  "freq": "r"
+ },
+ "710": {
+  "synset": "musical_instrument.n.01",
+  "name": "musical instrument",
+  "synonyms": [
+   "musical instrument",
+   "instrument (musical)"
+  ],
+  "freq": "c"
+ },
+ "711": {
+  "synset": "nailfile.n.01",
+  "name": "nailfile",
+  "synonyms": [
+   "nailfile"
+  ],
+  "freq": "r"
+ },
+ "712": {
+  "synset": "napkin.n.01",
+  "name": "napkin",
+  "synonyms": [
+   "napkin",
+   "table napkin",
+   "serviette"
+  ],
+  "freq": "f"
+ },
+ "713": {
+  "synset": "neckerchief.n.01",
+  "name": "neckerchief",
+  "synonyms": [
+   "neckerchief"
+  ],
+  "freq": "r"
+ },
+ "714": {
+  "synset": "necklace.n.01",
+  "name": "necklace",
+  "synonyms": [
+   "necklace"
+  ],
+  "freq": "f"
+ },
+ "715": {
+  "synset": "necktie.n.01",
+  "name": "necktie",
+  "synonyms": [
+   "necktie",
+   "tie (necktie)"
+  ],
+  "freq": "f"
+ },
+ "716": {
+  "synset": "needle.n.03",
+  "name": "needle",
+  "synonyms": [
+   "needle"
+  ],
+  "freq": "c"
+ },
+ "717": {
+  "synset": "nest.n.01",
+  "name": "nest",
+  "synonyms": [
+   "nest"
+  ],
+  "freq": "c"
+ },
+ "718": {
+  "synset": "newspaper.n.01",
+  "name": "newspaper",
+  "synonyms": [
+   "newspaper",
+   "paper (newspaper)"
+  ],
+  "freq": "f"
+ },
+ "719": {
+  "synset": "newsstand.n.01",
+  "name": "newsstand",
+  "synonyms": [
+   "newsstand"
+  ],
+  "freq": "c"
+ },
+ "720": {
+  "synset": "nightwear.n.01",
+  "name": "nightshirt",
+  "synonyms": [
+   "nightshirt",
+   "nightwear",
+   "sleepwear",
+   "nightclothes"
+  ],
+  "freq": "c"
+ },
+ "721": {
+  "synset": "nosebag.n.01",
+  "name": "nosebag (for animals)",
+  "synonyms": [
+   "nosebag (for animals)",
+   "feedbag"
+  ],
+  "freq": "r"
+ },
+ "722": {
+  "synset": "noseband.n.01",
+  "name": "noseband (for animals)",
+  "synonyms": [
+   "noseband (for animals)",
+   "nosepiece (for animals)"
+  ],
+  "freq": "c"
+ },
+ "723": {
+  "synset": "notebook.n.01",
+  "name": "notebook",
+  "synonyms": [
+   "notebook"
+  ],
+  "freq": "f"
+ },
+ "724": {
+  "synset": "notepad.n.01",
+  "name": "notepad",
+  "synonyms": [
+   "notepad"
+  ],
+  "freq": "c"
+ },
+ "725": {
+  "synset": "nut.n.03",
+  "name": "nut",
+  "synonyms": [
+   "nut"
+  ],
+  "freq": "f"
+ },
+ "726": {
+  "synset": "nutcracker.n.01",
+  "name": "nutcracker",
+  "synonyms": [
+   "nutcracker"
+  ],
+  "freq": "r"
+ },
+ "727": {
+  "synset": "oar.n.01",
+  "name": "oar",
+  "synonyms": [
+   "oar"
+  ],
+  "freq": "f"
+ },
+ "728": {
+  "synset": "octopus.n.01",
+  "name": "octopus (food)",
+  "synonyms": [
+   "octopus (food)"
+  ],
+  "freq": "r"
+ },
+ "729": {
+  "synset": "octopus.n.02",
+  "name": "octopus (animal)",
+  "synonyms": [
+   "octopus (animal)"
+  ],
+  "freq": "r"
+ },
+ "730": {
+  "synset": "oil_lamp.n.01",
+  "name": "oil lamp",
+  "synonyms": [
+   "oil lamp",
+   "kerosene lamp",
+   "kerosine lamp"
+  ],
+  "freq": "c"
+ },
+ "731": {
+  "synset": "olive_oil.n.01",
+  "name": "olive oil",
+  "synonyms": [
+   "olive oil"
+  ],
+  "freq": "c"
+ },
+ "732": {
+  "synset": "omelet.n.01",
+  "name": "omelet",
+  "synonyms": [
+   "omelet",
+   "omelette"
+  ],
+  "freq": "r"
+ },
+ "733": {
+  "synset": "onion.n.01",
+  "name": "onion",
+  "synonyms": [
+   "onion"
+  ],
+  "freq": "f"
+ },
+ "734": {
+  "synset": "orange.n.01",
+  "name": "orange (fruit)",
+  "synonyms": [
+   "orange (fruit)"
+  ],
+  "freq": "f"
+ },
+ "735": {
+  "synset": "orange_juice.n.01",
+  "name": "orange juice",
+  "synonyms": [
+   "orange juice"
+  ],
+  "freq": "c"
+ },
+ "736": {
+  "synset": "ostrich.n.02",
+  "name": "ostrich",
+  "synonyms": [
+   "ostrich"
+  ],
+  "freq": "c"
+ },
+ "737": {
+  "synset": "ottoman.n.03",
+  "name": "ottoman",
+  "synonyms": [
+   "ottoman",
+   "pouf",
+   "pouffe",
+   "hassock"
+  ],
+  "freq": "f"
+ },
+ "738": {
+  "synset": "oven.n.01",
+  "name": "oven",
+  "synonyms": [
+   "oven"
+  ],
+  "freq": "f"
+ },
+ "739": {
+  "synset": "overall.n.01",
+  "name": "overalls (clothing)",
+  "synonyms": [
+   "overalls (clothing)"
+  ],
+  "freq": "c"
+ },
+ "740": {
+  "synset": "owl.n.01",
+  "name": "owl",
+  "synonyms": [
+   "owl"
+  ],
+  "freq": "c"
+ },
+ "741": {
+  "synset": "packet.n.03",
+  "name": "packet",
+  "synonyms": [
+   "packet"
+  ],
+  "freq": "c"
+ },
+ "742": {
+  "synset": "pad.n.03",
+  "name": "inkpad",
+  "synonyms": [
+   "inkpad",
+   "inking pad",
+   "stamp pad"
+  ],
+  "freq": "r"
+ },
+ "743": {
+  "synset": "pad.n.04",
+  "name": "pad",
+  "synonyms": [
+   "pad"
+  ],
+  "freq": "c"
+ },
+ "744": {
+  "synset": "paddle.n.04",
+  "name": "paddle",
+  "synonyms": [
+   "paddle",
+   "boat paddle"
+  ],
+  "freq": "f"
+ },
+ "745": {
+  "synset": "padlock.n.01",
+  "name": "padlock",
+  "synonyms": [
+   "padlock"
+  ],
+  "freq": "c"
+ },
+ "746": {
+  "synset": "paintbrush.n.01",
+  "name": "paintbrush",
+  "synonyms": [
+   "paintbrush"
+  ],
+  "freq": "c"
+ },
+ "747": {
+  "synset": "painting.n.01",
+  "name": "painting",
+  "synonyms": [
+   "painting"
+  ],
+  "freq": "f"
+ },
+ "748": {
+  "synset": "pajama.n.02",
+  "name": "pajamas",
+  "synonyms": [
+   "pajamas",
+   "pyjamas"
+  ],
+  "freq": "f"
+ },
+ "749": {
+  "synset": "palette.n.02",
+  "name": "palette",
+  "synonyms": [
+   "palette",
+   "pallet"
+  ],
+  "freq": "c"
+ },
+ "750": {
+  "synset": "pan.n.01",
+  "name": "pan (for cooking)",
+  "synonyms": [
+   "pan (for cooking)",
+   "cooking pan"
+  ],
+  "freq": "f"
+ },
+ "751": {
+  "synset": "pan.n.03",
+  "name": "pan (metal container)",
+  "synonyms": [
+   "pan (metal container)"
+  ],
+  "freq": "r"
+ },
+ "752": {
+  "synset": "pancake.n.01",
+  "name": "pancake",
+  "synonyms": [
+   "pancake"
+  ],
+  "freq": "c"
+ },
+ "753": {
+  "synset": "pantyhose.n.01",
+  "name": "pantyhose",
+  "synonyms": [
+   "pantyhose"
+  ],
+  "freq": "r"
+ },
+ "754": {
+  "synset": "papaya.n.02",
+  "name": "papaya",
+  "synonyms": [
+   "papaya"
+  ],
+  "freq": "r"
+ },
+ "755": {
+  "synset": "paper_plate.n.01",
+  "name": "paper plate",
+  "synonyms": [
+   "paper plate"
+  ],
+  "freq": "f"
+ },
+ "756": {
+  "synset": "paper_towel.n.01",
+  "name": "paper towel",
+  "synonyms": [
+   "paper towel"
+  ],
+  "freq": "f"
+ },
+ "757": {
+  "synset": "paperback_book.n.01",
+  "name": "paperback book",
+  "synonyms": [
+   "paperback book",
+   "paper-back book",
+   "softback book",
+   "soft-cover book"
+  ],
+  "freq": "r"
+ },
+ "758": {
+  "synset": "paperweight.n.01",
+  "name": "paperweight",
+  "synonyms": [
+   "paperweight"
+  ],
+  "freq": "r"
+ },
+ "759": {
+  "synset": "parachute.n.01",
+  "name": "parachute",
+  "synonyms": [
+   "parachute"
+  ],
+  "freq": "c"
+ },
+ "760": {
+  "synset": "parakeet.n.01",
+  "name": "parakeet",
+  "synonyms": [
+   "parakeet",
+   "parrakeet",
+   "parroket",
+   "paraquet",
+   "paroquet",
+   "parroquet"
+  ],
+  "freq": "c"
+ },
+ "761": {
+  "synset": "parasail.n.01",
+  "name": "parasail (sports)",
+  "synonyms": [
+   "parasail (sports)"
+  ],
+  "freq": "c"
+ },
+ "762": {
+  "synset": "parasol.n.01",
+  "name": "parasol",
+  "synonyms": [
+   "parasol",
+   "sunshade"
+  ],
+  "freq": "c"
+ },
+ "763": {
+  "synset": "parchment.n.01",
+  "name": "parchment",
+  "synonyms": [
+   "parchment"
+  ],
+  "freq": "r"
+ },
+ "764": {
+  "synset": "parka.n.01",
+  "name": "parka",
+  "synonyms": [
+   "parka",
+   "anorak"
+  ],
+  "freq": "c"
+ },
+ "765": {
+  "synset": "parking_meter.n.01",
+  "name": "parking meter",
+  "synonyms": [
+   "parking meter"
+  ],
+  "freq": "f"
+ },
+ "766": {
+  "synset": "parrot.n.01",
+  "name": "parrot",
+  "synonyms": [
+   "parrot"
+  ],
+  "freq": "c"
+ },
+ "767": {
+  "synset": "passenger_car.n.01",
+  "name": "passenger car (part of a train)",
+  "synonyms": [
+   "passenger car (part of a train)",
+   "coach (part of a train)"
+  ],
+  "freq": "c"
+ },
+ "768": {
+  "synset": "passenger_ship.n.01",
+  "name": "passenger ship",
+  "synonyms": [
+   "passenger ship"
+  ],
+  "freq": "r"
+ },
+ "769": {
+  "synset": "passport.n.02",
+  "name": "passport",
+  "synonyms": [
+   "passport"
+  ],
+  "freq": "c"
+ },
+ "770": {
+  "synset": "pastry.n.02",
+  "name": "pastry",
+  "synonyms": [
+   "pastry"
+  ],
+  "freq": "f"
+ },
+ "771": {
+  "synset": "patty.n.01",
+  "name": "patty (food)",
+  "synonyms": [
+   "patty (food)"
+  ],
+  "freq": "r"
+ },
+ "772": {
+  "synset": "pea.n.01",
+  "name": "pea (food)",
+  "synonyms": [
+   "pea (food)"
+  ],
+  "freq": "c"
+ },
+ "773": {
+  "synset": "peach.n.03",
+  "name": "peach",
+  "synonyms": [
+   "peach"
+  ],
+  "freq": "c"
+ },
+ "774": {
+  "synset": "peanut_butter.n.01",
+  "name": "peanut butter",
+  "synonyms": [
+   "peanut butter"
+  ],
+  "freq": "c"
+ },
+ "775": {
+  "synset": "pear.n.01",
+  "name": "pear",
+  "synonyms": [
+   "pear"
+  ],
+  "freq": "f"
+ },
+ "776": {
+  "synset": "peeler.n.03",
+  "name": "peeler (tool for fruit and vegetables)",
+  "synonyms": [
+   "peeler (tool for fruit and vegetables)"
+  ],
+  "freq": "c"
+ },
+ "777": {
+  "synset": "peg.n.04",
+  "name": "wooden leg",
+  "synonyms": [
+   "wooden leg",
+   "pegleg"
+  ],
+  "freq": "r"
+ },
+ "778": {
+  "synset": "pegboard.n.01",
+  "name": "pegboard",
+  "synonyms": [
+   "pegboard"
+  ],
+  "freq": "r"
+ },
+ "779": {
+  "synset": "pelican.n.01",
+  "name": "pelican",
+  "synonyms": [
+   "pelican"
+  ],
+  "freq": "c"
+ },
+ "780": {
+  "synset": "pen.n.01",
+  "name": "pen",
+  "synonyms": [
+   "pen"
+  ],
+  "freq": "f"
+ },
+ "781": {
+  "synset": "pencil.n.01",
+  "name": "pencil",
+  "synonyms": [
+   "pencil"
+  ],
+  "freq": "f"
+ },
+ "782": {
+  "synset": "pencil_box.n.01",
+  "name": "pencil box",
+  "synonyms": [
+   "pencil box",
+   "pencil case"
+  ],
+  "freq": "r"
+ },
+ "783": {
+  "synset": "pencil_sharpener.n.01",
+  "name": "pencil sharpener",
+  "synonyms": [
+   "pencil sharpener"
+  ],
+  "freq": "r"
+ },
+ "784": {
+  "synset": "pendulum.n.01",
+  "name": "pendulum",
+  "synonyms": [
+   "pendulum"
+  ],
+  "freq": "r"
+ },
+ "785": {
+  "synset": "penguin.n.01",
+  "name": "penguin",
+  "synonyms": [
+   "penguin"
+  ],
+  "freq": "c"
+ },
+ "786": {
+  "synset": "pennant.n.02",
+  "name": "pennant",
+  "synonyms": [
+   "pennant"
+  ],
+  "freq": "r"
+ },
+ "787": {
+  "synset": "penny.n.02",
+  "name": "penny (coin)",
+  "synonyms": [
+   "penny (coin)"
+  ],
+  "freq": "r"
+ },
+ "788": {
+  "synset": "pepper.n.03",
+  "name": "pepper",
+  "synonyms": [
+   "pepper",
+   "peppercorn"
+  ],
+  "freq": "f"
+ },
+ "789": {
+  "synset": "pepper_mill.n.01",
+  "name": "pepper mill",
+  "synonyms": [
+   "pepper mill",
+   "pepper grinder"
+  ],
+  "freq": "c"
+ },
+ "790": {
+  "synset": "perfume.n.02",
+  "name": "perfume",
+  "synonyms": [
+   "perfume"
+  ],
+  "freq": "c"
+ },
+ "791": {
+  "synset": "persimmon.n.02",
+  "name": "persimmon",
+  "synonyms": [
+   "persimmon"
+  ],
+  "freq": "r"
+ },
+ "792": {
+  "synset": "person.n.01",
+  "name": "person",
+  "synonyms": [
+   "person",
+   "baby",
+   "child",
+   "boy",
+   "girl",
+   "man",
+   "woman",
+   "human"
+  ],
+  "freq": "f"
+ },
+ "793": {
+  "synset": "pet.n.01",
+  "name": "pet",
+  "synonyms": [
+   "pet"
+  ],
+  "freq": "c"
+ },
+ "794": {
+  "synset": "pew.n.01",
+  "name": "pew (church bench)",
+  "synonyms": [
+   "pew (church bench)",
+   "church bench"
+  ],
+  "freq": "c"
+ },
+ "795": {
+  "synset": "phonebook.n.01",
+  "name": "phonebook",
+  "synonyms": [
+   "phonebook",
+   "telephone book",
+   "telephone directory"
+  ],
+  "freq": "r"
+ },
+ "796": {
+  "synset": "phonograph_record.n.01",
+  "name": "phonograph record",
+  "synonyms": [
+   "phonograph record",
+   "phonograph recording",
+   "record (phonograph recording)"
+  ],
+  "freq": "c"
+ },
+ "797": {
+  "synset": "piano.n.01",
+  "name": "piano",
+  "synonyms": [
+   "piano"
+  ],
+  "freq": "f"
+ },
+ "798": {
+  "synset": "pickle.n.01",
+  "name": "pickle",
+  "synonyms": [
+   "pickle"
+  ],
+  "freq": "f"
+ },
+ "799": {
+  "synset": "pickup.n.01",
+  "name": "pickup truck",
+  "synonyms": [
+   "pickup truck"
+  ],
+  "freq": "f"
+ },
+ "800": {
+  "synset": "pie.n.01",
+  "name": "pie",
+  "synonyms": [
+   "pie"
+  ],
+  "freq": "c"
+ },
+ "801": {
+  "synset": "pigeon.n.01",
+  "name": "pigeon",
+  "synonyms": [
+   "pigeon"
+  ],
+  "freq": "c"
+ },
+ "802": {
+  "synset": "piggy_bank.n.01",
+  "name": "piggy bank",
+  "synonyms": [
+   "piggy bank",
+   "penny bank"
+  ],
+  "freq": "r"
+ },
+ "803": {
+  "synset": "pillow.n.01",
+  "name": "pillow",
+  "synonyms": [
+   "pillow"
+  ],
+  "freq": "f"
+ },
+ "804": {
+  "synset": "pin.n.09",
+  "name": "pin (non jewelry)",
+  "synonyms": [
+   "pin (non jewelry)"
+  ],
+  "freq": "r"
+ },
+ "805": {
+  "synset": "pineapple.n.02",
+  "name": "pineapple",
+  "synonyms": [
+   "pineapple"
+  ],
+  "freq": "f"
+ },
+ "806": {
+  "synset": "pinecone.n.01",
+  "name": "pinecone",
+  "synonyms": [
+   "pinecone"
+  ],
+  "freq": "c"
+ },
+ "807": {
+  "synset": "ping-pong_ball.n.01",
+  "name": "ping-pong ball",
+  "synonyms": [
+   "ping-pong ball"
+  ],
+  "freq": "r"
+ },
+ "808": {
+  "synset": "pinwheel.n.03",
+  "name": "pinwheel",
+  "synonyms": [
+   "pinwheel"
+  ],
+  "freq": "r"
+ },
+ "809": {
+  "synset": "pipe.n.01",
+  "name": "tobacco pipe",
+  "synonyms": [
+   "tobacco pipe"
+  ],
+  "freq": "r"
+ },
+ "810": {
+  "synset": "pipe.n.02",
+  "name": "pipe",
+  "synonyms": [
+   "pipe",
+   "piping"
+  ],
+  "freq": "f"
+ },
+ "811": {
+  "synset": "pistol.n.01",
+  "name": "pistol",
+  "synonyms": [
+   "pistol",
+   "handgun"
+  ],
+  "freq": "r"
+ },
+ "812": {
+  "synset": "pita.n.01",
+  "name": "pita (bread)",
+  "synonyms": [
+   "pita (bread)",
+   "pocket bread"
+  ],
+  "freq": "c"
+ },
+ "813": {
+  "synset": "pitcher.n.02",
+  "name": "pitcher (vessel for liquid)",
+  "synonyms": [
+   "pitcher (vessel for liquid)",
+   "ewer"
+  ],
+  "freq": "f"
+ },
+ "814": {
+  "synset": "pitchfork.n.01",
+  "name": "pitchfork",
+  "synonyms": [
+   "pitchfork"
+  ],
+  "freq": "r"
+ },
+ "815": {
+  "synset": "pizza.n.01",
+  "name": "pizza",
+  "synonyms": [
+   "pizza"
+  ],
+  "freq": "f"
+ },
+ "816": {
+  "synset": "place_mat.n.01",
+  "name": "place mat",
+  "synonyms": [
+   "place mat"
+  ],
+  "freq": "f"
+ },
+ "817": {
+  "synset": "plate.n.04",
+  "name": "plate",
+  "synonyms": [
+   "plate"
+  ],
+  "freq": "f"
+ },
+ "818": {
+  "synset": "platter.n.01",
+  "name": "platter",
+  "synonyms": [
+   "platter"
+  ],
+  "freq": "c"
+ },
+ "819": {
+  "synset": "playpen.n.01",
+  "name": "playpen",
+  "synonyms": [
+   "playpen"
+  ],
+  "freq": "r"
+ },
+ "820": {
+  "synset": "pliers.n.01",
+  "name": "pliers",
+  "synonyms": [
+   "pliers",
+   "plyers"
+  ],
+  "freq": "c"
+ },
+ "821": {
+  "synset": "plow.n.01",
+  "name": "plow (farm equipment)",
+  "synonyms": [
+   "plow (farm equipment)",
+   "plough (farm equipment)"
+  ],
+  "freq": "r"
+ },
+ "822": {
+  "synset": "plume.n.02",
+  "name": "plume",
+  "synonyms": [
+   "plume"
+  ],
+  "freq": "r"
+ },
+ "823": {
+  "synset": "pocket_watch.n.01",
+  "name": "pocket watch",
+  "synonyms": [
+   "pocket watch"
+  ],
+  "freq": "r"
+ },
+ "824": {
+  "synset": "pocketknife.n.01",
+  "name": "pocketknife",
+  "synonyms": [
+   "pocketknife"
+  ],
+  "freq": "c"
+ },
+ "825": {
+  "synset": "poker.n.01",
+  "name": "poker (fire stirring tool)",
+  "synonyms": [
+   "poker (fire stirring tool)",
+   "stove poker",
+   "fire hook"
+  ],
+  "freq": "c"
+ },
+ "826": {
+  "synset": "pole.n.01",
+  "name": "pole",
+  "synonyms": [
+   "pole",
+   "post"
+  ],
+  "freq": "f"
+ },
+ "827": {
+  "synset": "polo_shirt.n.01",
+  "name": "polo shirt",
+  "synonyms": [
+   "polo shirt",
+   "sport shirt"
+  ],
+  "freq": "f"
+ },
+ "828": {
+  "synset": "poncho.n.01",
+  "name": "poncho",
+  "synonyms": [
+   "poncho"
+  ],
+  "freq": "r"
+ },
+ "829": {
+  "synset": "pony.n.05",
+  "name": "pony",
+  "synonyms": [
+   "pony"
+  ],
+  "freq": "c"
+ },
+ "830": {
+  "synset": "pool_table.n.01",
+  "name": "pool table",
+  "synonyms": [
+   "pool table",
+   "billiard table",
+   "snooker table"
+  ],
+  "freq": "r"
+ },
+ "831": {
+  "synset": "pop.n.02",
+  "name": "pop (soda)",
+  "synonyms": [
+   "pop (soda)",
+   "soda (pop)",
+   "tonic",
+   "soft drink"
+  ],
+  "freq": "f"
+ },
+ "832": {
+  "synset": "postbox.n.01",
+  "name": "postbox (public)",
+  "synonyms": [
+   "postbox (public)",
+   "mailbox (public)"
+  ],
+  "freq": "c"
+ },
+ "833": {
+  "synset": "postcard.n.01",
+  "name": "postcard",
+  "synonyms": [
+   "postcard",
+   "postal card",
+   "mailing-card"
+  ],
+  "freq": "c"
+ },
+ "834": {
+  "synset": "poster.n.01",
+  "name": "poster",
+  "synonyms": [
+   "poster",
+   "placard"
+  ],
+  "freq": "f"
+ },
+ "835": {
+  "synset": "pot.n.01",
+  "name": "pot",
+  "synonyms": [
+   "pot"
+  ],
+  "freq": "f"
+ },
+ "836": {
+  "synset": "pot.n.04",
+  "name": "flowerpot",
+  "synonyms": [
+   "flowerpot"
+  ],
+  "freq": "f"
+ },
+ "837": {
+  "synset": "potato.n.01",
+  "name": "potato",
+  "synonyms": [
+   "potato"
+  ],
+  "freq": "f"
+ },
+ "838": {
+  "synset": "potholder.n.01",
+  "name": "potholder",
+  "synonyms": [
+   "potholder"
+  ],
+  "freq": "c"
+ },
+ "839": {
+  "synset": "pottery.n.01",
+  "name": "pottery",
+  "synonyms": [
+   "pottery",
+   "clayware"
+  ],
+  "freq": "c"
+ },
+ "840": {
+  "synset": "pouch.n.01",
+  "name": "pouch",
+  "synonyms": [
+   "pouch"
+  ],
+  "freq": "c"
+ },
+ "841": {
+  "synset": "power_shovel.n.01",
+  "name": "power shovel",
+  "synonyms": [
+   "power shovel",
+   "excavator",
+   "digger"
+  ],
+  "freq": "c"
+ },
+ "842": {
+  "synset": "prawn.n.01",
+  "name": "prawn",
+  "synonyms": [
+   "prawn",
+   "shrimp"
+  ],
+  "freq": "c"
+ },
+ "843": {
+  "synset": "pretzel.n.01",
+  "name": "pretzel",
+  "synonyms": [
+   "pretzel"
+  ],
+  "freq": "c"
+ },
+ "844": {
+  "synset": "printer.n.03",
+  "name": "printer",
+  "synonyms": [
+   "printer",
+   "printing machine"
+  ],
+  "freq": "f"
+ },
+ "845": {
+  "synset": "projectile.n.01",
+  "name": "projectile (weapon)",
+  "synonyms": [
+   "projectile (weapon)",
+   "missile"
+  ],
+  "freq": "c"
+ },
+ "846": {
+  "synset": "projector.n.02",
+  "name": "projector",
+  "synonyms": [
+   "projector"
+  ],
+  "freq": "c"
+ },
+ "847": {
+  "synset": "propeller.n.01",
+  "name": "propeller",
+  "synonyms": [
+   "propeller",
+   "propellor"
+  ],
+  "freq": "f"
+ },
+ "848": {
+  "synset": "prune.n.01",
+  "name": "prune",
+  "synonyms": [
+   "prune"
+  ],
+  "freq": "r"
+ },
+ "849": {
+  "synset": "pudding.n.01",
+  "name": "pudding",
+  "synonyms": [
+   "pudding"
+  ],
+  "freq": "r"
+ },
+ "850": {
+  "synset": "puffer.n.02",
+  "name": "puffer (fish)",
+  "synonyms": [
+   "puffer (fish)",
+   "pufferfish",
+   "blowfish",
+   "globefish"
+  ],
+  "freq": "r"
+ },
+ "851": {
+  "synset": "puffin.n.01",
+  "name": "puffin",
+  "synonyms": [
+   "puffin"
+  ],
+  "freq": "r"
+ },
+ "852": {
+  "synset": "pug.n.01",
+  "name": "pug-dog",
+  "synonyms": [
+   "pug-dog"
+  ],
+  "freq": "r"
+ },
+ "853": {
+  "synset": "pumpkin.n.02",
+  "name": "pumpkin",
+  "synonyms": [
+   "pumpkin"
+  ],
+  "freq": "c"
+ },
+ "854": {
+  "synset": "punch.n.03",
+  "name": "puncher",
+  "synonyms": [
+   "puncher"
+  ],
+  "freq": "r"
+ },
+ "855": {
+  "synset": "puppet.n.01",
+  "name": "puppet",
+  "synonyms": [
+   "puppet",
+   "marionette"
+  ],
+  "freq": "r"
+ },
+ "856": {
+  "synset": "puppy.n.01",
+  "name": "puppy",
+  "synonyms": [
+   "puppy"
+  ],
+  "freq": "c"
+ },
+ "857": {
+  "synset": "quesadilla.n.01",
+  "name": "quesadilla",
+  "synonyms": [
+   "quesadilla"
+  ],
+  "freq": "r"
+ },
+ "858": {
+  "synset": "quiche.n.02",
+  "name": "quiche",
+  "synonyms": [
+   "quiche"
+  ],
+  "freq": "r"
+ },
+ "859": {
+  "synset": "quilt.n.01",
+  "name": "quilt",
+  "synonyms": [
+   "quilt",
+   "comforter"
+  ],
+  "freq": "f"
+ },
+ "860": {
+  "synset": "rabbit.n.01",
+  "name": "rabbit",
+  "synonyms": [
+   "rabbit"
+  ],
+  "freq": "c"
+ },
+ "861": {
+  "synset": "racer.n.02",
+  "name": "race car",
+  "synonyms": [
+   "race car",
+   "racing car"
+  ],
+  "freq": "r"
+ },
+ "862": {
+  "synset": "racket.n.04",
+  "name": "racket",
+  "synonyms": [
+   "racket",
+   "racquet"
+  ],
+  "freq": "c"
+ },
+ "863": {
+  "synset": "radar.n.01",
+  "name": "radar",
+  "synonyms": [
+   "radar"
+  ],
+  "freq": "r"
+ },
+ "864": {
+  "synset": "radiator.n.03",
+  "name": "radiator",
+  "synonyms": [
+   "radiator"
+  ],
+  "freq": "f"
+ },
+ "865": {
+  "synset": "radio_receiver.n.01",
+  "name": "radio receiver",
+  "synonyms": [
+   "radio receiver",
+   "radio set",
+   "radio",
+   "tuner (radio)"
+  ],
+  "freq": "c"
+ },
+ "866": {
+  "synset": "radish.n.03",
+  "name": "radish",
+  "synonyms": [
+   "radish",
+   "daikon"
+  ],
+  "freq": "c"
+ },
+ "867": {
+  "synset": "raft.n.01",
+  "name": "raft",
+  "synonyms": [
+   "raft"
+  ],
+  "freq": "c"
+ },
+ "868": {
+  "synset": "rag_doll.n.01",
+  "name": "rag doll",
+  "synonyms": [
+   "rag doll"
+  ],
+  "freq": "r"
+ },
+ "869": {
+  "synset": "raincoat.n.01",
+  "name": "raincoat",
+  "synonyms": [
+   "raincoat",
+   "waterproof jacket"
+  ],
+  "freq": "c"
+ },
+ "870": {
+  "synset": "ram.n.05",
+  "name": "ram (animal)",
+  "synonyms": [
+   "ram (animal)"
+  ],
+  "freq": "c"
+ },
+ "871": {
+  "synset": "raspberry.n.02",
+  "name": "raspberry",
+  "synonyms": [
+   "raspberry"
+  ],
+  "freq": "c"
+ },
+ "872": {
+  "synset": "rat.n.01",
+  "name": "rat",
+  "synonyms": [
+   "rat"
+  ],
+  "freq": "r"
+ },
+ "873": {
+  "synset": "razorblade.n.01",
+  "name": "razorblade",
+  "synonyms": [
+   "razorblade"
+  ],
+  "freq": "c"
+ },
+ "874": {
+  "synset": "reamer.n.01",
+  "name": "reamer (juicer)",
+  "synonyms": [
+   "reamer (juicer)",
+   "juicer",
+   "juice reamer"
+  ],
+  "freq": "c"
+ },
+ "875": {
+  "synset": "rearview_mirror.n.01",
+  "name": "rearview mirror",
+  "synonyms": [
+   "rearview mirror"
+  ],
+  "freq": "f"
+ },
+ "876": {
+  "synset": "receipt.n.02",
+  "name": "receipt",
+  "synonyms": [
+   "receipt"
+  ],
+  "freq": "c"
+ },
+ "877": {
+  "synset": "recliner.n.01",
+  "name": "recliner",
+  "synonyms": [
+   "recliner",
+   "reclining chair",
+   "lounger (chair)"
+  ],
+  "freq": "c"
+ },
+ "878": {
+  "synset": "record_player.n.01",
+  "name": "record player",
+  "synonyms": [
+   "record player",
+   "phonograph (record player)",
+   "turntable"
+  ],
+  "freq": "c"
+ },
+ "879": {
+  "synset": "reflector.n.01",
+  "name": "reflector",
+  "synonyms": [
+   "reflector"
+  ],
+  "freq": "f"
+ },
+ "880": {
+  "synset": "remote_control.n.01",
+  "name": "remote control",
+  "synonyms": [
+   "remote control"
+  ],
+  "freq": "f"
+ },
+ "881": {
+  "synset": "rhinoceros.n.01",
+  "name": "rhinoceros",
+  "synonyms": [
+   "rhinoceros"
+  ],
+  "freq": "c"
+ },
+ "882": {
+  "synset": "rib.n.03",
+  "name": "rib (food)",
+  "synonyms": [
+   "rib (food)"
+  ],
+  "freq": "r"
+ },
+ "883": {
+  "synset": "rifle.n.01",
+  "name": "rifle",
+  "synonyms": [
+   "rifle"
+  ],
+  "freq": "c"
+ },
+ "884": {
+  "synset": "ring.n.08",
+  "name": "ring",
+  "synonyms": [
+   "ring"
+  ],
+  "freq": "f"
+ },
+ "885": {
+  "synset": "river_boat.n.01",
+  "name": "river boat",
+  "synonyms": [
+   "river boat"
+  ],
+  "freq": "r"
+ },
+ "886": {
+  "synset": "road_map.n.02",
+  "name": "road map",
+  "synonyms": [
+   "road map"
+  ],
+  "freq": "r"
+ },
+ "887": {
+  "synset": "robe.n.01",
+  "name": "robe",
+  "synonyms": [
+   "robe"
+  ],
+  "freq": "c"
+ },
+ "888": {
+  "synset": "rocking_chair.n.01",
+  "name": "rocking chair",
+  "synonyms": [
+   "rocking chair"
+  ],
+  "freq": "c"
+ },
+ "889": {
+  "synset": "rodent.n.01",
+  "name": "rodent",
+  "synonyms": [
+   "rodent"
+  ],
+  "freq": "r"
+ },
+ "890": {
+  "synset": "roller_skate.n.01",
+  "name": "roller skate",
+  "synonyms": [
+   "roller skate"
+  ],
+  "freq": "r"
+ },
+ "891": {
+  "synset": "rollerblade.n.01",
+  "name": "Rollerblade",
+  "synonyms": [
+   "Rollerblade"
+  ],
+  "freq": "r"
+ },
+ "892": {
+  "synset": "rolling_pin.n.01",
+  "name": "rolling pin",
+  "synonyms": [
+   "rolling pin"
+  ],
+  "freq": "c"
+ },
+ "893": {
+  "synset": "root_beer.n.01",
+  "name": "root beer",
+  "synonyms": [
+   "root beer"
+  ],
+  "freq": "r"
+ },
+ "894": {
+  "synset": "router.n.02",
+  "name": "router (computer equipment)",
+  "synonyms": [
+   "router (computer equipment)"
+  ],
+  "freq": "c"
+ },
+ "895": {
+  "synset": "rubber_band.n.01",
+  "name": "rubber band",
+  "synonyms": [
+   "rubber band",
+   "elastic band"
+  ],
+  "freq": "f"
+ },
+ "896": {
+  "synset": "runner.n.08",
+  "name": "runner (carpet)",
+  "synonyms": [
+   "runner (carpet)"
+  ],
+  "freq": "c"
+ },
+ "897": {
+  "synset": "sack.n.01",
+  "name": "plastic bag",
+  "synonyms": [
+   "plastic bag",
+   "paper bag"
+  ],
+  "freq": "f"
+ },
+ "898": {
+  "synset": "saddle.n.01",
+  "name": "saddle (on an animal)",
+  "synonyms": [
+   "saddle (on an animal)"
+  ],
+  "freq": "f"
+ },
+ "899": {
+  "synset": "saddle_blanket.n.01",
+  "name": "saddle blanket",
+  "synonyms": [
+   "saddle blanket",
+   "saddlecloth",
+   "horse blanket"
+  ],
+  "freq": "f"
+ },
+ "900": {
+  "synset": "saddlebag.n.01",
+  "name": "saddlebag",
+  "synonyms": [
+   "saddlebag"
+  ],
+  "freq": "c"
+ },
+ "901": {
+  "synset": "safety_pin.n.01",
+  "name": "safety pin",
+  "synonyms": [
+   "safety pin"
+  ],
+  "freq": "r"
+ },
+ "902": {
+  "synset": "sail.n.01",
+  "name": "sail",
+  "synonyms": [
+   "sail"
+  ],
+  "freq": "f"
+ },
+ "903": {
+  "synset": "salad.n.01",
+  "name": "salad",
+  "synonyms": [
+   "salad"
+  ],
+  "freq": "f"
+ },
+ "904": {
+  "synset": "salad_plate.n.01",
+  "name": "salad plate",
+  "synonyms": [
+   "salad plate",
+   "salad bowl"
+  ],
+  "freq": "r"
+ },
+ "905": {
+  "synset": "salami.n.01",
+  "name": "salami",
+  "synonyms": [
+   "salami"
+  ],
+  "freq": "c"
+ },
+ "906": {
+  "synset": "salmon.n.01",
+  "name": "salmon (fish)",
+  "synonyms": [
+   "salmon (fish)"
+  ],
+  "freq": "c"
+ },
+ "907": {
+  "synset": "salmon.n.03",
+  "name": "salmon (food)",
+  "synonyms": [
+   "salmon (food)"
+  ],
+  "freq": "r"
+ },
+ "908": {
+  "synset": "salsa.n.01",
+  "name": "salsa",
+  "synonyms": [
+   "salsa"
+  ],
+  "freq": "c"
+ },
+ "909": {
+  "synset": "saltshaker.n.01",
+  "name": "saltshaker",
+  "synonyms": [
+   "saltshaker"
+  ],
+  "freq": "f"
+ },
+ "910": {
+  "synset": "sandal.n.01",
+  "name": "sandal (type of shoe)",
+  "synonyms": [
+   "sandal (type of shoe)"
+  ],
+  "freq": "f"
+ },
+ "911": {
+  "synset": "sandwich.n.01",
+  "name": "sandwich",
+  "synonyms": [
+   "sandwich"
+  ],
+  "freq": "f"
+ },
+ "912": {
+  "synset": "satchel.n.01",
+  "name": "satchel",
+  "synonyms": [
+   "satchel"
+  ],
+  "freq": "r"
+ },
+ "913": {
+  "synset": "saucepan.n.01",
+  "name": "saucepan",
+  "synonyms": [
+   "saucepan"
+  ],
+  "freq": "r"
+ },
+ "914": {
+  "synset": "saucer.n.02",
+  "name": "saucer",
+  "synonyms": [
+   "saucer"
+  ],
+  "freq": "f"
+ },
+ "915": {
+  "synset": "sausage.n.01",
+  "name": "sausage",
+  "synonyms": [
+   "sausage"
+  ],
+  "freq": "f"
+ },
+ "916": {
+  "synset": "sawhorse.n.01",
+  "name": "sawhorse",
+  "synonyms": [
+   "sawhorse",
+   "sawbuck"
+  ],
+  "freq": "r"
+ },
+ "917": {
+  "synset": "sax.n.02",
+  "name": "saxophone",
+  "synonyms": [
+   "saxophone"
+  ],
+  "freq": "r"
+ },
+ "918": {
+  "synset": "scale.n.07",
+  "name": "scale (measuring instrument)",
+  "synonyms": [
+   "scale (measuring instrument)"
+  ],
+  "freq": "f"
+ },
+ "919": {
+  "synset": "scarecrow.n.01",
+  "name": "scarecrow",
+  "synonyms": [
+   "scarecrow",
+   "strawman"
+  ],
+  "freq": "r"
+ },
+ "920": {
+  "synset": "scarf.n.01",
+  "name": "scarf",
+  "synonyms": [
+   "scarf"
+  ],
+  "freq": "f"
+ },
+ "921": {
+  "synset": "school_bus.n.01",
+  "name": "school bus",
+  "synonyms": [
+   "school bus"
+  ],
+  "freq": "c"
+ },
+ "922": {
+  "synset": "scissors.n.01",
+  "name": "scissors",
+  "synonyms": [
+   "scissors"
+  ],
+  "freq": "f"
+ },
+ "923": {
+  "synset": "scoreboard.n.01",
+  "name": "scoreboard",
+  "synonyms": [
+   "scoreboard"
+  ],
+  "freq": "f"
+ },
+ "924": {
+  "synset": "scraper.n.01",
+  "name": "scraper",
+  "synonyms": [
+   "scraper"
+  ],
+  "freq": "r"
+ },
+ "925": {
+  "synset": "screwdriver.n.01",
+  "name": "screwdriver",
+  "synonyms": [
+   "screwdriver"
+  ],
+  "freq": "c"
+ },
+ "926": {
+  "synset": "scrub_brush.n.01",
+  "name": "scrubbing brush",
+  "synonyms": [
+   "scrubbing brush"
+  ],
+  "freq": "f"
+ },
+ "927": {
+  "synset": "sculpture.n.01",
+  "name": "sculpture",
+  "synonyms": [
+   "sculpture"
+  ],
+  "freq": "c"
+ },
+ "928": {
+  "synset": "seabird.n.01",
+  "name": "seabird",
+  "synonyms": [
+   "seabird",
+   "seafowl"
+  ],
+  "freq": "c"
+ },
+ "929": {
+  "synset": "seahorse.n.02",
+  "name": "seahorse",
+  "synonyms": [
+   "seahorse"
+  ],
+  "freq": "c"
+ },
+ "930": {
+  "synset": "seaplane.n.01",
+  "name": "seaplane",
+  "synonyms": [
+   "seaplane",
+   "hydroplane"
+  ],
+  "freq": "r"
+ },
+ "931": {
+  "synset": "seashell.n.01",
+  "name": "seashell",
+  "synonyms": [
+   "seashell"
+  ],
+  "freq": "c"
+ },
+ "932": {
+  "synset": "sewing_machine.n.01",
+  "name": "sewing machine",
+  "synonyms": [
+   "sewing machine"
+  ],
+  "freq": "c"
+ },
+ "933": {
+  "synset": "shaker.n.03",
+  "name": "shaker",
+  "synonyms": [
+   "shaker"
+  ],
+  "freq": "c"
+ },
+ "934": {
+  "synset": "shampoo.n.01",
+  "name": "shampoo",
+  "synonyms": [
+   "shampoo"
+  ],
+  "freq": "c"
+ },
+ "935": {
+  "synset": "shark.n.01",
+  "name": "shark",
+  "synonyms": [
+   "shark"
+  ],
+  "freq": "c"
+ },
+ "936": {
+  "synset": "sharpener.n.01",
+  "name": "sharpener",
+  "synonyms": [
+   "sharpener"
+  ],
+  "freq": "r"
+ },
+ "937": {
+  "synset": "sharpie.n.03",
+  "name": "Sharpie",
+  "synonyms": [
+   "Sharpie"
+  ],
+  "freq": "r"
+ },
+ "938": {
+  "synset": "shaver.n.03",
+  "name": "shaver (electric)",
+  "synonyms": [
+   "shaver (electric)",
+   "electric shaver",
+   "electric razor"
+  ],
+  "freq": "r"
+ },
+ "939": {
+  "synset": "shaving_cream.n.01",
+  "name": "shaving cream",
+  "synonyms": [
+   "shaving cream",
+   "shaving soap"
+  ],
+  "freq": "c"
+ },
+ "940": {
+  "synset": "shawl.n.01",
+  "name": "shawl",
+  "synonyms": [
+   "shawl"
+  ],
+  "freq": "r"
+ },
+ "941": {
+  "synset": "shears.n.01",
+  "name": "shears",
+  "synonyms": [
+   "shears"
+  ],
+  "freq": "r"
+ },
+ "942": {
+  "synset": "sheep.n.01",
+  "name": "sheep",
+  "synonyms": [
+   "sheep"
+  ],
+  "freq": "f"
+ },
+ "943": {
+  "synset": "shepherd_dog.n.01",
+  "name": "shepherd dog",
+  "synonyms": [
+   "shepherd dog",
+   "sheepdog"
+  ],
+  "freq": "r"
+ },
+ "944": {
+  "synset": "sherbert.n.01",
+  "name": "sherbert",
+  "synonyms": [
+   "sherbert",
+   "sherbet"
+  ],
+  "freq": "r"
+ },
+ "945": {
+  "synset": "shield.n.02",
+  "name": "shield",
+  "synonyms": [
+   "shield"
+  ],
+  "freq": "c"
+ },
+ "946": {
+  "synset": "shirt.n.01",
+  "name": "shirt",
+  "synonyms": [
+   "shirt"
+  ],
+  "freq": "f"
+ },
+ "947": {
+  "synset": "shoe.n.01",
+  "name": "shoe",
+  "synonyms": [
+   "shoe",
+   "sneaker (type of shoe)",
+   "tennis shoe"
+  ],
+  "freq": "f"
+ },
+ "948": {
+  "synset": "shopping_bag.n.01",
+  "name": "shopping bag",
+  "synonyms": [
+   "shopping bag"
+  ],
+  "freq": "f"
+ },
+ "949": {
+  "synset": "shopping_cart.n.01",
+  "name": "shopping cart",
+  "synonyms": [
+   "shopping cart"
+  ],
+  "freq": "c"
+ },
+ "950": {
+  "synset": "short_pants.n.01",
+  "name": "short pants",
+  "synonyms": [
+   "short pants",
+   "shorts (clothing)",
+   "trunks (clothing)"
+  ],
+  "freq": "f"
+ },
+ "951": {
+  "synset": "shot_glass.n.01",
+  "name": "shot glass",
+  "synonyms": [
+   "shot glass"
+  ],
+  "freq": "r"
+ },
+ "952": {
+  "synset": "shoulder_bag.n.01",
+  "name": "shoulder bag",
+  "synonyms": [
+   "shoulder bag"
+  ],
+  "freq": "f"
+ },
+ "953": {
+  "synset": "shovel.n.01",
+  "name": "shovel",
+  "synonyms": [
+   "shovel"
+  ],
+  "freq": "c"
+ },
+ "954": {
+  "synset": "shower.n.01",
+  "name": "shower head",
+  "synonyms": [
+   "shower head"
+  ],
+  "freq": "f"
+ },
+ "955": {
+  "synset": "shower_cap.n.01",
+  "name": "shower cap",
+  "synonyms": [
+   "shower cap"
+  ],
+  "freq": "r"
+ },
+ "956": {
+  "synset": "shower_curtain.n.01",
+  "name": "shower curtain",
+  "synonyms": [
+   "shower curtain"
+  ],
+  "freq": "f"
+ },
+ "957": {
+  "synset": "shredder.n.01",
+  "name": "shredder (for paper)",
+  "synonyms": [
+   "shredder (for paper)"
+  ],
+  "freq": "r"
+ },
+ "958": {
+  "synset": "signboard.n.01",
+  "name": "signboard",
+  "synonyms": [
+   "signboard"
+  ],
+  "freq": "f"
+ },
+ "959": {
+  "synset": "silo.n.01",
+  "name": "silo",
+  "synonyms": [
+   "silo"
+  ],
+  "freq": "c"
+ },
+ "960": {
+  "synset": "sink.n.01",
+  "name": "sink",
+  "synonyms": [
+   "sink"
+  ],
+  "freq": "f"
+ },
+ "961": {
+  "synset": "skateboard.n.01",
+  "name": "skateboard",
+  "synonyms": [
+   "skateboard"
+  ],
+  "freq": "f"
+ },
+ "962": {
+  "synset": "skewer.n.01",
+  "name": "skewer",
+  "synonyms": [
+   "skewer"
+  ],
+  "freq": "c"
+ },
+ "963": {
+  "synset": "ski.n.01",
+  "name": "ski",
+  "synonyms": [
+   "ski"
+  ],
+  "freq": "f"
+ },
+ "964": {
+  "synset": "ski_boot.n.01",
+  "name": "ski boot",
+  "synonyms": [
+   "ski boot"
+  ],
+  "freq": "f"
+ },
+ "965": {
+  "synset": "ski_parka.n.01",
+  "name": "ski parka",
+  "synonyms": [
+   "ski parka",
+   "ski jacket"
+  ],
+  "freq": "f"
+ },
+ "966": {
+  "synset": "ski_pole.n.01",
+  "name": "ski pole",
+  "synonyms": [
+   "ski pole"
+  ],
+  "freq": "f"
+ },
+ "967": {
+  "synset": "skirt.n.02",
+  "name": "skirt",
+  "synonyms": [
+   "skirt"
+  ],
+  "freq": "f"
+ },
+ "968": {
+  "synset": "skullcap.n.01",
+  "name": "skullcap",
+  "synonyms": [
+   "skullcap"
+  ],
+  "freq": "r"
+ },
+ "969": {
+  "synset": "sled.n.01",
+  "name": "sled",
+  "synonyms": [
+   "sled",
+   "sledge",
+   "sleigh"
+  ],
+  "freq": "c"
+ },
+ "970": {
+  "synset": "sleeping_bag.n.01",
+  "name": "sleeping bag",
+  "synonyms": [
+   "sleeping bag"
+  ],
+  "freq": "c"
+ },
+ "971": {
+  "synset": "sling.n.05",
+  "name": "sling (bandage)",
+  "synonyms": [
+   "sling (bandage)",
+   "triangular bandage"
+  ],
+  "freq": "r"
+ },
+ "972": {
+  "synset": "slipper.n.01",
+  "name": "slipper (footwear)",
+  "synonyms": [
+   "slipper (footwear)",
+   "carpet slipper (footwear)"
+  ],
+  "freq": "c"
+ },
+ "973": {
+  "synset": "smoothie.n.02",
+  "name": "smoothie",
+  "synonyms": [
+   "smoothie"
+  ],
+  "freq": "r"
+ },
+ "974": {
+  "synset": "snake.n.01",
+  "name": "snake",
+  "synonyms": [
+   "snake",
+   "serpent"
+  ],
+  "freq": "r"
+ },
+ "975": {
+  "synset": "snowboard.n.01",
+  "name": "snowboard",
+  "synonyms": [
+   "snowboard"
+  ],
+  "freq": "f"
+ },
+ "976": {
+  "synset": "snowman.n.01",
+  "name": "snowman",
+  "synonyms": [
+   "snowman"
+  ],
+  "freq": "c"
+ },
+ "977": {
+  "synset": "snowmobile.n.01",
+  "name": "snowmobile",
+  "synonyms": [
+   "snowmobile"
+  ],
+  "freq": "c"
+ },
+ "978": {
+  "synset": "soap.n.01",
+  "name": "soap",
+  "synonyms": [
+   "soap"
+  ],
+  "freq": "f"
+ },
+ "979": {
+  "synset": "soccer_ball.n.01",
+  "name": "soccer ball",
+  "synonyms": [
+   "soccer ball"
+  ],
+  "freq": "f"
+ },
+ "980": {
+  "synset": "sock.n.01",
+  "name": "sock",
+  "synonyms": [
+   "sock"
+  ],
+  "freq": "f"
+ },
+ "981": {
+  "synset": "sofa.n.01",
+  "name": "sofa",
+  "synonyms": [
+   "sofa",
+   "couch",
+   "lounge"
+  ],
+  "freq": "f"
+ },
+ "982": {
+  "synset": "softball.n.01",
+  "name": "softball",
+  "synonyms": [
+   "softball"
+  ],
+  "freq": "r"
+ },
+ "983": {
+  "synset": "solar_array.n.01",
+  "name": "solar array",
+  "synonyms": [
+   "solar array",
+   "solar battery",
+   "solar panel"
+  ],
+  "freq": "c"
+ },
+ "984": {
+  "synset": "sombrero.n.02",
+  "name": "sombrero",
+  "synonyms": [
+   "sombrero"
+  ],
+  "freq": "r"
+ },
+ "985": {
+  "synset": "soup.n.01",
+  "name": "soup",
+  "synonyms": [
+   "soup"
+  ],
+  "freq": "f"
+ },
+ "986": {
+  "synset": "soup_bowl.n.01",
+  "name": "soup bowl",
+  "synonyms": [
+   "soup bowl"
+  ],
+  "freq": "r"
+ },
+ "987": {
+  "synset": "soupspoon.n.01",
+  "name": "soupspoon",
+  "synonyms": [
+   "soupspoon"
+  ],
+  "freq": "c"
+ },
+ "988": {
+  "synset": "sour_cream.n.01",
+  "name": "sour cream",
+  "synonyms": [
+   "sour cream",
+   "soured cream"
+  ],
+  "freq": "c"
+ },
+ "989": {
+  "synset": "soya_milk.n.01",
+  "name": "soya milk",
+  "synonyms": [
+   "soya milk",
+   "soybean milk",
+   "soymilk"
+  ],
+  "freq": "r"
+ },
+ "990": {
+  "synset": "space_shuttle.n.01",
+  "name": "space shuttle",
+  "synonyms": [
+   "space shuttle"
+  ],
+  "freq": "r"
+ },
+ "991": {
+  "synset": "sparkler.n.02",
+  "name": "sparkler (fireworks)",
+  "synonyms": [
+   "sparkler (fireworks)"
+  ],
+  "freq": "r"
+ },
+ "992": {
+  "synset": "spatula.n.02",
+  "name": "spatula",
+  "synonyms": [
+   "spatula"
+  ],
+  "freq": "f"
+ },
+ "993": {
+  "synset": "spear.n.01",
+  "name": "spear",
+  "synonyms": [
+   "spear",
+   "lance"
+  ],
+  "freq": "r"
+ },
+ "994": {
+  "synset": "spectacles.n.01",
+  "name": "spectacles",
+  "synonyms": [
+   "spectacles",
+   "specs",
+   "eyeglasses",
+   "glasses"
+  ],
+  "freq": "f"
+ },
+ "995": {
+  "synset": "spice_rack.n.01",
+  "name": "spice rack",
+  "synonyms": [
+   "spice rack"
+  ],
+  "freq": "c"
+ },
+ "996": {
+  "synset": "spider.n.01",
+  "name": "spider",
+  "synonyms": [
+   "spider"
+  ],
+  "freq": "c"
+ },
+ "997": {
+  "synset": "spiny_lobster.n.02",
+  "name": "crawfish",
+  "synonyms": [
+   "crawfish",
+   "crayfish"
+  ],
+  "freq": "r"
+ },
+ "998": {
+  "synset": "sponge.n.01",
+  "name": "sponge",
+  "synonyms": [
+   "sponge"
+  ],
+  "freq": "c"
+ },
+ "999": {
+  "synset": "spoon.n.01",
+  "name": "spoon",
+  "synonyms": [
+   "spoon"
+  ],
+  "freq": "f"
+ },
+ "1000": {
+  "synset": "sportswear.n.01",
+  "name": "sportswear",
+  "synonyms": [
+   "sportswear",
+   "athletic wear",
+   "activewear"
+  ],
+  "freq": "c"
+ },
+ "1001": {
+  "synset": "spotlight.n.02",
+  "name": "spotlight",
+  "synonyms": [
+   "spotlight"
+  ],
+  "freq": "c"
+ },
+ "1002": {
+  "synset": "squid.n.01",
+  "name": "squid (food)",
+  "synonyms": [
+   "squid (food)",
+   "calamari",
+   "calamary"
+  ],
+  "freq": "r"
+ },
+ "1003": {
+  "synset": "squirrel.n.01",
+  "name": "squirrel",
+  "synonyms": [
+   "squirrel"
+  ],
+  "freq": "c"
+ },
+ "1004": {
+  "synset": "stagecoach.n.01",
+  "name": "stagecoach",
+  "synonyms": [
+   "stagecoach"
+  ],
+  "freq": "r"
+ },
+ "1005": {
+  "synset": "stapler.n.01",
+  "name": "stapler (stapling machine)",
+  "synonyms": [
+   "stapler (stapling machine)"
+  ],
+  "freq": "c"
+ },
+ "1006": {
+  "synset": "starfish.n.01",
+  "name": "starfish",
+  "synonyms": [
+   "starfish",
+   "sea star"
+  ],
+  "freq": "c"
+ },
+ "1007": {
+  "synset": "statue.n.01",
+  "name": "statue (sculpture)",
+  "synonyms": [
+   "statue (sculpture)"
+  ],
+  "freq": "f"
+ },
+ "1008": {
+  "synset": "steak.n.01",
+  "name": "steak (food)",
+  "synonyms": [
+   "steak (food)"
+  ],
+  "freq": "c"
+ },
+ "1009": {
+  "synset": "steak_knife.n.01",
+  "name": "steak knife",
+  "synonyms": [
+   "steak knife"
+  ],
+  "freq": "r"
+ },
+ "1010": {
+  "synset": "steering_wheel.n.01",
+  "name": "steering wheel",
+  "synonyms": [
+   "steering wheel"
+  ],
+  "freq": "f"
+ },
+ "1011": {
+  "synset": "step_ladder.n.01",
+  "name": "stepladder",
+  "synonyms": [
+   "stepladder"
+  ],
+  "freq": "r"
+ },
+ "1012": {
+  "synset": "step_stool.n.01",
+  "name": "step stool",
+  "synonyms": [
+   "step stool"
+  ],
+  "freq": "c"
+ },
+ "1013": {
+  "synset": "stereo.n.01",
+  "name": "stereo (sound system)",
+  "synonyms": [
+   "stereo (sound system)"
+  ],
+  "freq": "c"
+ },
+ "1014": {
+  "synset": "stew.n.02",
+  "name": "stew",
+  "synonyms": [
+   "stew"
+  ],
+  "freq": "r"
+ },
+ "1015": {
+  "synset": "stirrer.n.02",
+  "name": "stirrer",
+  "synonyms": [
+   "stirrer"
+  ],
+  "freq": "r"
+ },
+ "1016": {
+  "synset": "stirrup.n.01",
+  "name": "stirrup",
+  "synonyms": [
+   "stirrup"
+  ],
+  "freq": "f"
+ },
+ "1017": {
+  "synset": "stool.n.01",
+  "name": "stool",
+  "synonyms": [
+   "stool"
+  ],
+  "freq": "f"
+ },
+ "1018": {
+  "synset": "stop_sign.n.01",
+  "name": "stop sign",
+  "synonyms": [
+   "stop sign"
+  ],
+  "freq": "f"
+ },
+ "1019": {
+  "synset": "stoplight.n.01",
+  "name": "brake light",
+  "synonyms": [
+   "brake light"
+  ],
+  "freq": "f"
+ },
+ "1020": {
+  "synset": "stove.n.01",
+  "name": "stove",
+  "synonyms": [
+   "stove",
+   "kitchen stove",
+   "range (kitchen appliance)",
+   "kitchen range",
+   "cooking stove"
+  ],
+  "freq": "f"
+ },
+ "1021": {
+  "synset": "strainer.n.01",
+  "name": "strainer",
+  "synonyms": [
+   "strainer"
+  ],
+  "freq": "c"
+ },
+ "1022": {
+  "synset": "strap.n.01",
+  "name": "strap",
+  "synonyms": [
+   "strap"
+  ],
+  "freq": "f"
+ },
+ "1023": {
+  "synset": "straw.n.04",
+  "name": "straw (for drinking)",
+  "synonyms": [
+   "straw (for drinking)",
+   "drinking straw"
+  ],
+  "freq": "f"
+ },
+ "1024": {
+  "synset": "strawberry.n.01",
+  "name": "strawberry",
+  "synonyms": [
+   "strawberry"
+  ],
+  "freq": "f"
+ },
+ "1025": {
+  "synset": "street_sign.n.01",
+  "name": "street sign",
+  "synonyms": [
+   "street sign"
+  ],
+  "freq": "f"
+ },
+ "1026": {
+  "synset": "streetlight.n.01",
+  "name": "streetlight",
+  "synonyms": [
+   "streetlight",
+   "street lamp"
+  ],
+  "freq": "f"
+ },
+ "1027": {
+  "synset": "string_cheese.n.01",
+  "name": "string cheese",
+  "synonyms": [
+   "string cheese"
+  ],
+  "freq": "r"
+ },
+ "1028": {
+  "synset": "stylus.n.02",
+  "name": "stylus",
+  "synonyms": [
+   "stylus"
+  ],
+  "freq": "r"
+ },
+ "1029": {
+  "synset": "subwoofer.n.01",
+  "name": "subwoofer",
+  "synonyms": [
+   "subwoofer"
+  ],
+  "freq": "r"
+ },
+ "1030": {
+  "synset": "sugar_bowl.n.01",
+  "name": "sugar bowl",
+  "synonyms": [
+   "sugar bowl"
+  ],
+  "freq": "r"
+ },
+ "1031": {
+  "synset": "sugarcane.n.01",
+  "name": "sugarcane (plant)",
+  "synonyms": [
+   "sugarcane (plant)"
+  ],
+  "freq": "r"
+ },
+ "1032": {
+  "synset": "suit.n.01",
+  "name": "suit (clothing)",
+  "synonyms": [
+   "suit (clothing)"
+  ],
+  "freq": "f"
+ },
+ "1033": {
+  "synset": "sunflower.n.01",
+  "name": "sunflower",
+  "synonyms": [
+   "sunflower"
+  ],
+  "freq": "c"
+ },
+ "1034": {
+  "synset": "sunglasses.n.01",
+  "name": "sunglasses",
+  "synonyms": [
+   "sunglasses"
+  ],
+  "freq": "f"
+ },
+ "1035": {
+  "synset": "sunhat.n.01",
+  "name": "sunhat",
+  "synonyms": [
+   "sunhat"
+  ],
+  "freq": "c"
+ },
+ "1036": {
+  "synset": "surfboard.n.01",
+  "name": "surfboard",
+  "synonyms": [
+   "surfboard"
+  ],
+  "freq": "f"
+ },
+ "1037": {
+  "synset": "sushi.n.01",
+  "name": "sushi",
+  "synonyms": [
+   "sushi"
+  ],
+  "freq": "c"
+ },
+ "1038": {
+  "synset": "swab.n.02",
+  "name": "mop",
+  "synonyms": [
+   "mop"
+  ],
+  "freq": "c"
+ },
+ "1039": {
+  "synset": "sweat_pants.n.01",
+  "name": "sweat pants",
+  "synonyms": [
+   "sweat pants"
+  ],
+  "freq": "c"
+ },
+ "1040": {
+  "synset": "sweatband.n.02",
+  "name": "sweatband",
+  "synonyms": [
+   "sweatband"
+  ],
+  "freq": "c"
+ },
+ "1041": {
+  "synset": "sweater.n.01",
+  "name": "sweater",
+  "synonyms": [
+   "sweater"
+  ],
+  "freq": "f"
+ },
+ "1042": {
+  "synset": "sweatshirt.n.01",
+  "name": "sweatshirt",
+  "synonyms": [
+   "sweatshirt"
+  ],
+  "freq": "f"
+ },
+ "1043": {
+  "synset": "sweet_potato.n.02",
+  "name": "sweet potato",
+  "synonyms": [
+   "sweet potato"
+  ],
+  "freq": "c"
+ },
+ "1044": {
+  "synset": "swimsuit.n.01",
+  "name": "swimsuit",
+  "synonyms": [
+   "swimsuit",
+   "swimwear",
+   "bathing suit",
+   "swimming costume",
+   "bathing costume",
+   "swimming trunks",
+   "bathing trunks"
+  ],
+  "freq": "f"
+ },
+ "1045": {
+  "synset": "sword.n.01",
+  "name": "sword",
+  "synonyms": [
+   "sword"
+  ],
+  "freq": "c"
+ },
+ "1046": {
+  "synset": "syringe.n.01",
+  "name": "syringe",
+  "synonyms": [
+   "syringe"
+  ],
+  "freq": "r"
+ },
+ "1047": {
+  "synset": "tabasco.n.02",
+  "name": "Tabasco sauce",
+  "synonyms": [
+   "Tabasco sauce"
+  ],
+  "freq": "r"
+ },
+ "1048": {
+  "synset": "table-tennis_table.n.01",
+  "name": "table-tennis table",
+  "synonyms": [
+   "table-tennis table",
+   "ping-pong table"
+  ],
+  "freq": "r"
+ },
+ "1049": {
+  "synset": "table.n.02",
+  "name": "table",
+  "synonyms": [
+   "table"
+  ],
+  "freq": "f"
+ },
+ "1050": {
+  "synset": "table_lamp.n.01",
+  "name": "table lamp",
+  "synonyms": [
+   "table lamp"
+  ],
+  "freq": "c"
+ },
+ "1051": {
+  "synset": "tablecloth.n.01",
+  "name": "tablecloth",
+  "synonyms": [
+   "tablecloth"
+  ],
+  "freq": "f"
+ },
+ "1052": {
+  "synset": "tachometer.n.01",
+  "name": "tachometer",
+  "synonyms": [
+   "tachometer"
+  ],
+  "freq": "r"
+ },
+ "1053": {
+  "synset": "taco.n.02",
+  "name": "taco",
+  "synonyms": [
+   "taco"
+  ],
+  "freq": "r"
+ },
+ "1054": {
+  "synset": "tag.n.02",
+  "name": "tag",
+  "synonyms": [
+   "tag"
+  ],
+  "freq": "f"
+ },
+ "1055": {
+  "synset": "taillight.n.01",
+  "name": "taillight",
+  "synonyms": [
+   "taillight",
+   "rear light"
+  ],
+  "freq": "f"
+ },
+ "1056": {
+  "synset": "tambourine.n.01",
+  "name": "tambourine",
+  "synonyms": [
+   "tambourine"
+  ],
+  "freq": "r"
+ },
+ "1057": {
+  "synset": "tank.n.01",
+  "name": "army tank",
+  "synonyms": [
+   "army tank",
+   "armored combat vehicle",
+   "armoured combat vehicle"
+  ],
+  "freq": "r"
+ },
+ "1058": {
+  "synset": "tank.n.02",
+  "name": "tank (storage vessel)",
+  "synonyms": [
+   "tank (storage vessel)",
+   "storage tank"
+  ],
+  "freq": "f"
+ },
+ "1059": {
+  "synset": "tank_top.n.01",
+  "name": "tank top (clothing)",
+  "synonyms": [
+   "tank top (clothing)"
+  ],
+  "freq": "f"
+ },
+ "1060": {
+  "synset": "tape.n.01",
+  "name": "tape (sticky cloth or paper)",
+  "synonyms": [
+   "tape (sticky cloth or paper)"
+  ],
+  "freq": "f"
+ },
+ "1061": {
+  "synset": "tape.n.04",
+  "name": "tape measure",
+  "synonyms": [
+   "tape measure",
+   "measuring tape"
+  ],
+  "freq": "c"
+ },
+ "1062": {
+  "synset": "tapestry.n.02",
+  "name": "tapestry",
+  "synonyms": [
+   "tapestry"
+  ],
+  "freq": "c"
+ },
+ "1063": {
+  "synset": "tarpaulin.n.01",
+  "name": "tarp",
+  "synonyms": [
+   "tarp"
+  ],
+  "freq": "f"
+ },
+ "1064": {
+  "synset": "tartan.n.01",
+  "name": "tartan",
+  "synonyms": [
+   "tartan",
+   "plaid"
+  ],
+  "freq": "c"
+ },
+ "1065": {
+  "synset": "tassel.n.01",
+  "name": "tassel",
+  "synonyms": [
+   "tassel"
+  ],
+  "freq": "c"
+ },
+ "1066": {
+  "synset": "tea_bag.n.01",
+  "name": "tea bag",
+  "synonyms": [
+   "tea bag"
+  ],
+  "freq": "c"
+ },
+ "1067": {
+  "synset": "teacup.n.02",
+  "name": "teacup",
+  "synonyms": [
+   "teacup"
+  ],
+  "freq": "c"
+ },
+ "1068": {
+  "synset": "teakettle.n.01",
+  "name": "teakettle",
+  "synonyms": [
+   "teakettle"
+  ],
+  "freq": "c"
+ },
+ "1069": {
+  "synset": "teapot.n.01",
+  "name": "teapot",
+  "synonyms": [
+   "teapot"
+  ],
+  "freq": "f"
+ },
+ "1070": {
+  "synset": "teddy.n.01",
+  "name": "teddy bear",
+  "synonyms": [
+   "teddy bear"
+  ],
+  "freq": "f"
+ },
+ "1071": {
+  "synset": "telephone.n.01",
+  "name": "telephone",
+  "synonyms": [
+   "telephone",
+   "phone",
+   "telephone set"
+  ],
+  "freq": "f"
+ },
+ "1072": {
+  "synset": "telephone_booth.n.01",
+  "name": "telephone booth",
+  "synonyms": [
+   "telephone booth",
+   "phone booth",
+   "call box",
+   "telephone box",
+   "telephone kiosk"
+  ],
+  "freq": "c"
+ },
+ "1073": {
+  "synset": "telephone_pole.n.01",
+  "name": "telephone pole",
+  "synonyms": [
+   "telephone pole",
+   "telegraph pole",
+   "telegraph post"
+  ],
+  "freq": "f"
+ },
+ "1074": {
+  "synset": "telephoto_lens.n.01",
+  "name": "telephoto lens",
+  "synonyms": [
+   "telephoto lens",
+   "zoom lens"
+  ],
+  "freq": "r"
+ },
+ "1075": {
+  "synset": "television_camera.n.01",
+  "name": "television camera",
+  "synonyms": [
+   "television camera",
+   "tv camera"
+  ],
+  "freq": "c"
+ },
+ "1076": {
+  "synset": "television_receiver.n.01",
+  "name": "television set",
+  "synonyms": [
+   "television set",
+   "tv",
+   "tv set"
+  ],
+  "freq": "f"
+ },
+ "1077": {
+  "synset": "tennis_ball.n.01",
+  "name": "tennis ball",
+  "synonyms": [
+   "tennis ball"
+  ],
+  "freq": "f"
+ },
+ "1078": {
+  "synset": "tennis_racket.n.01",
+  "name": "tennis racket",
+  "synonyms": [
+   "tennis racket"
+  ],
+  "freq": "f"
+ },
+ "1079": {
+  "synset": "tequila.n.01",
+  "name": "tequila",
+  "synonyms": [
+   "tequila"
+  ],
+  "freq": "r"
+ },
+ "1080": {
+  "synset": "thermometer.n.01",
+  "name": "thermometer",
+  "synonyms": [
+   "thermometer"
+  ],
+  "freq": "c"
+ },
+ "1081": {
+  "synset": "thermos.n.01",
+  "name": "thermos bottle",
+  "synonyms": [
+   "thermos bottle"
+  ],
+  "freq": "c"
+ },
+ "1082": {
+  "synset": "thermostat.n.01",
+  "name": "thermostat",
+  "synonyms": [
+   "thermostat"
+  ],
+  "freq": "f"
+ },
+ "1083": {
+  "synset": "thimble.n.02",
+  "name": "thimble",
+  "synonyms": [
+   "thimble"
+  ],
+  "freq": "r"
+ },
+ "1084": {
+  "synset": "thread.n.01",
+  "name": "thread",
+  "synonyms": [
+   "thread",
+   "yarn"
+  ],
+  "freq": "c"
+ },
+ "1085": {
+  "synset": "thumbtack.n.01",
+  "name": "thumbtack",
+  "synonyms": [
+   "thumbtack",
+   "drawing pin",
+   "pushpin"
+  ],
+  "freq": "c"
+ },
+ "1086": {
+  "synset": "tiara.n.01",
+  "name": "tiara",
+  "synonyms": [
+   "tiara"
+  ],
+  "freq": "c"
+ },
+ "1087": {
+  "synset": "tiger.n.02",
+  "name": "tiger",
+  "synonyms": [
+   "tiger"
+  ],
+  "freq": "c"
+ },
+ "1088": {
+  "synset": "tights.n.01",
+  "name": "tights (clothing)",
+  "synonyms": [
+   "tights (clothing)",
+   "leotards"
+  ],
+  "freq": "c"
+ },
+ "1089": {
+  "synset": "timer.n.01",
+  "name": "timer",
+  "synonyms": [
+   "timer",
+   "stopwatch"
+  ],
+  "freq": "c"
+ },
+ "1090": {
+  "synset": "tinfoil.n.01",
+  "name": "tinfoil",
+  "synonyms": [
+   "tinfoil"
+  ],
+  "freq": "f"
+ },
+ "1091": {
+  "synset": "tinsel.n.01",
+  "name": "tinsel",
+  "synonyms": [
+   "tinsel"
+  ],
+  "freq": "c"
+ },
+ "1092": {
+  "synset": "tissue.n.02",
+  "name": "tissue paper",
+  "synonyms": [
+   "tissue paper"
+  ],
+  "freq": "f"
+ },
+ "1093": {
+  "synset": "toast.n.01",
+  "name": "toast (food)",
+  "synonyms": [
+   "toast (food)"
+  ],
+  "freq": "c"
+ },
+ "1094": {
+  "synset": "toaster.n.02",
+  "name": "toaster",
+  "synonyms": [
+   "toaster"
+  ],
+  "freq": "f"
+ },
+ "1095": {
+  "synset": "toaster_oven.n.01",
+  "name": "toaster oven",
+  "synonyms": [
+   "toaster oven"
+  ],
+  "freq": "f"
+ },
+ "1096": {
+  "synset": "toilet.n.02",
+  "name": "toilet",
+  "synonyms": [
+   "toilet"
+  ],
+  "freq": "f"
+ },
+ "1097": {
+  "synset": "toilet_tissue.n.01",
+  "name": "toilet tissue",
+  "synonyms": [
+   "toilet tissue",
+   "toilet paper",
+   "bathroom tissue"
+  ],
+  "freq": "f"
+ },
+ "1098": {
+  "synset": "tomato.n.01",
+  "name": "tomato",
+  "synonyms": [
+   "tomato"
+  ],
+  "freq": "f"
+ },
+ "1099": {
+  "synset": "tongs.n.01",
+  "name": "tongs",
+  "synonyms": [
+   "tongs"
+  ],
+  "freq": "f"
+ },
+ "1100": {
+  "synset": "toolbox.n.01",
+  "name": "toolbox",
+  "synonyms": [
+   "toolbox"
+  ],
+  "freq": "c"
+ },
+ "1101": {
+  "synset": "toothbrush.n.01",
+  "name": "toothbrush",
+  "synonyms": [
+   "toothbrush"
+  ],
+  "freq": "f"
+ },
+ "1102": {
+  "synset": "toothpaste.n.01",
+  "name": "toothpaste",
+  "synonyms": [
+   "toothpaste"
+  ],
+  "freq": "f"
+ },
+ "1103": {
+  "synset": "toothpick.n.01",
+  "name": "toothpick",
+  "synonyms": [
+   "toothpick"
+  ],
+  "freq": "f"
+ },
+ "1104": {
+  "synset": "top.n.09",
+  "name": "cover",
+  "synonyms": [
+   "cover"
+  ],
+  "freq": "f"
+ },
+ "1105": {
+  "synset": "tortilla.n.01",
+  "name": "tortilla",
+  "synonyms": [
+   "tortilla"
+  ],
+  "freq": "c"
+ },
+ "1106": {
+  "synset": "tow_truck.n.01",
+  "name": "tow truck",
+  "synonyms": [
+   "tow truck"
+  ],
+  "freq": "c"
+ },
+ "1107": {
+  "synset": "towel.n.01",
+  "name": "towel",
+  "synonyms": [
+   "towel"
+  ],
+  "freq": "f"
+ },
+ "1108": {
+  "synset": "towel_rack.n.01",
+  "name": "towel rack",
+  "synonyms": [
+   "towel rack",
+   "towel rail",
+   "towel bar"
+  ],
+  "freq": "f"
+ },
+ "1109": {
+  "synset": "toy.n.03",
+  "name": "toy",
+  "synonyms": [
+   "toy"
+  ],
+  "freq": "f"
+ },
+ "1110": {
+  "synset": "tractor.n.01",
+  "name": "tractor (farm equipment)",
+  "synonyms": [
+   "tractor (farm equipment)"
+  ],
+  "freq": "c"
+ },
+ "1111": {
+  "synset": "traffic_light.n.01",
+  "name": "traffic light",
+  "synonyms": [
+   "traffic light"
+  ],
+  "freq": "f"
+ },
+ "1112": {
+  "synset": "trail_bike.n.01",
+  "name": "dirt bike",
+  "synonyms": [
+   "dirt bike"
+  ],
+  "freq": "c"
+ },
+ "1113": {
+  "synset": "trailer_truck.n.01",
+  "name": "trailer truck",
+  "synonyms": [
+   "trailer truck",
+   "tractor trailer",
+   "trucking rig",
+   "articulated lorry",
+   "semi truck"
+  ],
+  "freq": "f"
+ },
+ "1114": {
+  "synset": "train.n.01",
+  "name": "train (railroad vehicle)",
+  "synonyms": [
+   "train (railroad vehicle)",
+   "railroad train"
+  ],
+  "freq": "f"
+ },
+ "1115": {
+  "synset": "trampoline.n.01",
+  "name": "trampoline",
+  "synonyms": [
+   "trampoline"
+  ],
+  "freq": "r"
+ },
+ "1116": {
+  "synset": "tray.n.01",
+  "name": "tray",
+  "synonyms": [
+   "tray"
+  ],
+  "freq": "f"
+ },
+ "1117": {
+  "synset": "trench_coat.n.01",
+  "name": "trench coat",
+  "synonyms": [
+   "trench coat"
+  ],
+  "freq": "r"
+ },
+ "1118": {
+  "synset": "triangle.n.05",
+  "name": "triangle (musical instrument)",
+  "synonyms": [
+   "triangle (musical instrument)"
+  ],
+  "freq": "r"
+ },
+ "1119": {
+  "synset": "tricycle.n.01",
+  "name": "tricycle",
+  "synonyms": [
+   "tricycle"
+  ],
+  "freq": "c"
+ },
+ "1120": {
+  "synset": "tripod.n.01",
+  "name": "tripod",
+  "synonyms": [
+   "tripod"
+  ],
+  "freq": "f"
+ },
+ "1121": {
+  "synset": "trouser.n.01",
+  "name": "trousers",
+  "synonyms": [
+   "trousers",
+   "pants (clothing)"
+  ],
+  "freq": "f"
+ },
+ "1122": {
+  "synset": "truck.n.01",
+  "name": "truck",
+  "synonyms": [
+   "truck"
+  ],
+  "freq": "f"
+ },
+ "1123": {
+  "synset": "truffle.n.03",
+  "name": "truffle (chocolate)",
+  "synonyms": [
+   "truffle (chocolate)",
+   "chocolate truffle"
+  ],
+  "freq": "r"
+ },
+ "1124": {
+  "synset": "trunk.n.02",
+  "name": "trunk",
+  "synonyms": [
+   "trunk"
+  ],
+  "freq": "c"
+ },
+ "1125": {
+  "synset": "tub.n.02",
+  "name": "vat",
+  "synonyms": [
+   "vat"
+  ],
+  "freq": "r"
+ },
+ "1126": {
+  "synset": "turban.n.01",
+  "name": "turban",
+  "synonyms": [
+   "turban"
+  ],
+  "freq": "c"
+ },
+ "1127": {
+  "synset": "turkey.n.04",
+  "name": "turkey (food)",
+  "synonyms": [
+   "turkey (food)"
+  ],
+  "freq": "c"
+ },
+ "1128": {
+  "synset": "turnip.n.01",
+  "name": "turnip",
+  "synonyms": [
+   "turnip"
+  ],
+  "freq": "r"
+ },
+ "1129": {
+  "synset": "turtle.n.02",
+  "name": "turtle",
+  "synonyms": [
+   "turtle"
+  ],
+  "freq": "c"
+ },
+ "1130": {
+  "synset": "turtleneck.n.01",
+  "name": "turtleneck (clothing)",
+  "synonyms": [
+   "turtleneck (clothing)",
+   "polo-neck"
+  ],
+  "freq": "c"
+ },
+ "1131": {
+  "synset": "typewriter.n.01",
+  "name": "typewriter",
+  "synonyms": [
+   "typewriter"
+  ],
+  "freq": "c"
+ },
+ "1132": {
+  "synset": "umbrella.n.01",
+  "name": "umbrella",
+  "synonyms": [
+   "umbrella"
+  ],
+  "freq": "f"
+ },
+ "1133": {
+  "synset": "underwear.n.01",
+  "name": "underwear",
+  "synonyms": [
+   "underwear",
+   "underclothes",
+   "underclothing",
+   "underpants"
+  ],
+  "freq": "f"
+ },
+ "1134": {
+  "synset": "unicycle.n.01",
+  "name": "unicycle",
+  "synonyms": [
+   "unicycle"
+  ],
+  "freq": "r"
+ },
+ "1135": {
+  "synset": "urinal.n.01",
+  "name": "urinal",
+  "synonyms": [
+   "urinal"
+  ],
+  "freq": "f"
+ },
+ "1136": {
+  "synset": "urn.n.01",
+  "name": "urn",
+  "synonyms": [
+   "urn"
+  ],
+  "freq": "c"
+ },
+ "1137": {
+  "synset": "vacuum.n.04",
+  "name": "vacuum cleaner",
+  "synonyms": [
+   "vacuum cleaner"
+  ],
+  "freq": "c"
+ },
+ "1138": {
+  "synset": "vase.n.01",
+  "name": "vase",
+  "synonyms": [
+   "vase"
+  ],
+  "freq": "f"
+ },
+ "1139": {
+  "synset": "vending_machine.n.01",
+  "name": "vending machine",
+  "synonyms": [
+   "vending machine"
+  ],
+  "freq": "c"
+ },
+ "1140": {
+  "synset": "vent.n.01",
+  "name": "vent",
+  "synonyms": [
+   "vent",
+   "blowhole",
+   "air vent"
+  ],
+  "freq": "f"
+ },
+ "1141": {
+  "synset": "vest.n.01",
+  "name": "vest",
+  "synonyms": [
+   "vest",
+   "waistcoat"
+  ],
+  "freq": "f"
+ },
+ "1142": {
+  "synset": "videotape.n.01",
+  "name": "videotape",
+  "synonyms": [
+   "videotape"
+  ],
+  "freq": "c"
+ },
+ "1143": {
+  "synset": "vinegar.n.01",
+  "name": "vinegar",
+  "synonyms": [
+   "vinegar"
+  ],
+  "freq": "r"
+ },
+ "1144": {
+  "synset": "violin.n.01",
+  "name": "violin",
+  "synonyms": [
+   "violin",
+   "fiddle"
+  ],
+  "freq": "r"
+ },
+ "1145": {
+  "synset": "vodka.n.01",
+  "name": "vodka",
+  "synonyms": [
+   "vodka"
+  ],
+  "freq": "r"
+ },
+ "1146": {
+  "synset": "volleyball.n.02",
+  "name": "volleyball",
+  "synonyms": [
+   "volleyball"
+  ],
+  "freq": "c"
+ },
+ "1147": {
+  "synset": "vulture.n.01",
+  "name": "vulture",
+  "synonyms": [
+   "vulture"
+  ],
+  "freq": "r"
+ },
+ "1148": {
+  "synset": "waffle.n.01",
+  "name": "waffle",
+  "synonyms": [
+   "waffle"
+  ],
+  "freq": "c"
+ },
+ "1149": {
+  "synset": "waffle_iron.n.01",
+  "name": "waffle iron",
+  "synonyms": [
+   "waffle iron"
+  ],
+  "freq": "r"
+ },
+ "1150": {
+  "synset": "wagon.n.01",
+  "name": "wagon",
+  "synonyms": [
+   "wagon"
+  ],
+  "freq": "c"
+ },
+ "1151": {
+  "synset": "wagon_wheel.n.01",
+  "name": "wagon wheel",
+  "synonyms": [
+   "wagon wheel"
+  ],
+  "freq": "c"
+ },
+ "1152": {
+  "synset": "walking_stick.n.01",
+  "name": "walking stick",
+  "synonyms": [
+   "walking stick"
+  ],
+  "freq": "c"
+ },
+ "1153": {
+  "synset": "wall_clock.n.01",
+  "name": "wall clock",
+  "synonyms": [
+   "wall clock"
+  ],
+  "freq": "c"
+ },
+ "1154": {
+  "synset": "wall_socket.n.01",
+  "name": "wall socket",
+  "synonyms": [
+   "wall socket",
+   "wall plug",
+   "electric outlet",
+   "electrical outlet",
+   "outlet",
+   "electric receptacle"
+  ],
+  "freq": "f"
+ },
+ "1155": {
+  "synset": "wallet.n.01",
+  "name": "wallet",
+  "synonyms": [
+   "wallet",
+   "billfold"
+  ],
+  "freq": "f"
+ },
+ "1156": {
+  "synset": "walrus.n.01",
+  "name": "walrus",
+  "synonyms": [
+   "walrus"
+  ],
+  "freq": "r"
+ },
+ "1157": {
+  "synset": "wardrobe.n.01",
+  "name": "wardrobe",
+  "synonyms": [
+   "wardrobe"
+  ],
+  "freq": "r"
+ },
+ "1158": {
+  "synset": "washbasin.n.01",
+  "name": "washbasin",
+  "synonyms": [
+   "washbasin",
+   "basin (for washing)",
+   "washbowl",
+   "washstand",
+   "handbasin"
+  ],
+  "freq": "r"
+ },
+ "1159": {
+  "synset": "washer.n.03",
+  "name": "automatic washer",
+  "synonyms": [
+   "automatic washer",
+   "washing machine"
+  ],
+  "freq": "c"
+ },
+ "1160": {
+  "synset": "watch.n.01",
+  "name": "watch",
+  "synonyms": [
+   "watch",
+   "wristwatch"
+  ],
+  "freq": "f"
+ },
+ "1161": {
+  "synset": "water_bottle.n.01",
+  "name": "water bottle",
+  "synonyms": [
+   "water bottle"
+  ],
+  "freq": "f"
+ },
+ "1162": {
+  "synset": "water_cooler.n.01",
+  "name": "water cooler",
+  "synonyms": [
+   "water cooler"
+  ],
+  "freq": "c"
+ },
+ "1163": {
+  "synset": "water_faucet.n.01",
+  "name": "water faucet",
+  "synonyms": [
+   "water faucet",
+   "water tap",
+   "tap (water faucet)"
+  ],
+  "freq": "c"
+ },
+ "1164": {
+  "synset": "water_heater.n.01",
+  "name": "water heater",
+  "synonyms": [
+   "water heater",
+   "hot-water heater"
+  ],
+  "freq": "r"
+ },
+ "1165": {
+  "synset": "water_jug.n.01",
+  "name": "water jug",
+  "synonyms": [
+   "water jug"
+  ],
+  "freq": "c"
+ },
+ "1166": {
+  "synset": "water_pistol.n.01",
+  "name": "water gun",
+  "synonyms": [
+   "water gun",
+   "squirt gun"
+  ],
+  "freq": "r"
+ },
+ "1167": {
+  "synset": "water_scooter.n.01",
+  "name": "water scooter",
+  "synonyms": [
+   "water scooter",
+   "sea scooter",
+   "jet ski"
+  ],
+  "freq": "c"
+ },
+ "1168": {
+  "synset": "water_ski.n.01",
+  "name": "water ski",
+  "synonyms": [
+   "water ski"
+  ],
+  "freq": "c"
+ },
+ "1169": {
+  "synset": "water_tower.n.01",
+  "name": "water tower",
+  "synonyms": [
+   "water tower"
+  ],
+  "freq": "c"
+ },
+ "1170": {
+  "synset": "watering_can.n.01",
+  "name": "watering can",
+  "synonyms": [
+   "watering can"
+  ],
+  "freq": "c"
+ },
+ "1171": {
+  "synset": "watermelon.n.02",
+  "name": "watermelon",
+  "synonyms": [
+   "watermelon"
+  ],
+  "freq": "f"
+ },
+ "1172": {
+  "synset": "weathervane.n.01",
+  "name": "weathervane",
+  "synonyms": [
+   "weathervane",
+   "vane (weathervane)",
+   "wind vane"
+  ],
+  "freq": "f"
+ },
+ "1173": {
+  "synset": "webcam.n.01",
+  "name": "webcam",
+  "synonyms": [
+   "webcam"
+  ],
+  "freq": "c"
+ },
+ "1174": {
+  "synset": "wedding_cake.n.01",
+  "name": "wedding cake",
+  "synonyms": [
+   "wedding cake",
+   "bridecake"
+  ],
+  "freq": "c"
+ },
+ "1175": {
+  "synset": "wedding_ring.n.01",
+  "name": "wedding ring",
+  "synonyms": [
+   "wedding ring",
+   "wedding band"
+  ],
+  "freq": "c"
+ },
+ "1176": {
+  "synset": "wet_suit.n.01",
+  "name": "wet suit",
+  "synonyms": [
+   "wet suit"
+  ],
+  "freq": "f"
+ },
+ "1177": {
+  "synset": "wheel.n.01",
+  "name": "wheel",
+  "synonyms": [
+   "wheel"
+  ],
+  "freq": "f"
+ },
+ "1178": {
+  "synset": "wheelchair.n.01",
+  "name": "wheelchair",
+  "synonyms": [
+   "wheelchair"
+  ],
+  "freq": "c"
+ },
+ "1179": {
+  "synset": "whipped_cream.n.01",
+  "name": "whipped cream",
+  "synonyms": [
+   "whipped cream"
+  ],
+  "freq": "c"
+ },
+ "1180": {
+  "synset": "whistle.n.03",
+  "name": "whistle",
+  "synonyms": [
+   "whistle"
+  ],
+  "freq": "c"
+ },
+ "1181": {
+  "synset": "wig.n.01",
+  "name": "wig",
+  "synonyms": [
+   "wig"
+  ],
+  "freq": "c"
+ },
+ "1182": {
+  "synset": "wind_chime.n.01",
+  "name": "wind chime",
+  "synonyms": [
+   "wind chime"
+  ],
+  "freq": "c"
+ },
+ "1183": {
+  "synset": "windmill.n.01",
+  "name": "windmill",
+  "synonyms": [
+   "windmill"
+  ],
+  "freq": "c"
+ },
+ "1184": {
+  "synset": "window_box.n.01",
+  "name": "window box (for plants)",
+  "synonyms": [
+   "window box (for plants)"
+  ],
+  "freq": "c"
+ },
+ "1185": {
+  "synset": "windshield_wiper.n.01",
+  "name": "windshield wiper",
+  "synonyms": [
+   "windshield wiper",
+   "windscreen wiper",
+   "wiper (for windshield/screen)"
+  ],
+  "freq": "f"
+ },
+ "1186": {
+  "synset": "windsock.n.01",
+  "name": "windsock",
+  "synonyms": [
+   "windsock",
+   "air sock",
+   "air-sleeve",
+   "wind sleeve",
+   "wind cone"
+  ],
+  "freq": "c"
+ },
+ "1187": {
+  "synset": "wine_bottle.n.01",
+  "name": "wine bottle",
+  "synonyms": [
+   "wine bottle"
+  ],
+  "freq": "f"
+ },
+ "1188": {
+  "synset": "wine_bucket.n.01",
+  "name": "wine bucket",
+  "synonyms": [
+   "wine bucket",
+   "wine cooler"
+  ],
+  "freq": "c"
+ },
+ "1189": {
+  "synset": "wineglass.n.01",
+  "name": "wineglass",
+  "synonyms": [
+   "wineglass"
+  ],
+  "freq": "f"
+ },
+ "1190": {
+  "synset": "winker.n.02",
+  "name": "blinder (for horses)",
+  "synonyms": [
+   "blinder (for horses)"
+  ],
+  "freq": "f"
+ },
+ "1191": {
+  "synset": "wok.n.01",
+  "name": "wok",
+  "synonyms": [
+   "wok"
+  ],
+  "freq": "c"
+ },
+ "1192": {
+  "synset": "wolf.n.01",
+  "name": "wolf",
+  "synonyms": [
+   "wolf"
+  ],
+  "freq": "r"
+ },
+ "1193": {
+  "synset": "wooden_spoon.n.02",
+  "name": "wooden spoon",
+  "synonyms": [
+   "wooden spoon"
+  ],
+  "freq": "c"
+ },
+ "1194": {
+  "synset": "wreath.n.01",
+  "name": "wreath",
+  "synonyms": [
+   "wreath"
+  ],
+  "freq": "c"
+ },
+ "1195": {
+  "synset": "wrench.n.03",
+  "name": "wrench",
+  "synonyms": [
+   "wrench",
+   "spanner"
+  ],
+  "freq": "c"
+ },
+ "1196": {
+  "synset": "wristband.n.01",
+  "name": "wristband",
+  "synonyms": [
+   "wristband"
+  ],
+  "freq": "f"
+ },
+ "1197": {
+  "synset": "wristlet.n.01",
+  "name": "wristlet",
+  "synonyms": [
+   "wristlet",
+   "wrist band"
+  ],
+  "freq": "f"
+ },
+ "1198": {
+  "synset": "yacht.n.01",
+  "name": "yacht",
+  "synonyms": [
+   "yacht"
+  ],
+  "freq": "c"
+ },
+ "1199": {
+  "synset": "yogurt.n.01",
+  "name": "yogurt",
+  "synonyms": [
+   "yogurt",
+   "yoghurt",
+   "yoghourt"
+  ],
+  "freq": "c"
+ },
+ "1200": {
+  "synset": "yoke.n.07",
+  "name": "yoke (animal equipment)",
+  "synonyms": [
+   "yoke (animal equipment)"
+  ],
+  "freq": "c"
+ },
+ "1201": {
+  "synset": "zebra.n.01",
+  "name": "zebra",
+  "synonyms": [
+   "zebra"
+  ],
+  "freq": "f"
+ },
+ "1202": {
+  "synset": "zucchini.n.02",
+  "name": "zucchini",
+  "synonyms": [
+   "zucchini",
+   "courgette"
+  ],
+  "freq": "c"
+ },
+ "1203": {
+  "synset": "hotdog.n.02",
+  "name": "hot dog",
+  "synonyms": [
+   "hot dog",
+   "frankfurter"
+  ],
+  "freq": "f"
+ },
+ "1204": {
+  "synset": "pot_plant.n.01",
+  "name": "potted plant",
+  "synonyms": [
+   "potted plant",
+   "houseplant"
+  ],
+  "freq": "f"
+ }
+}

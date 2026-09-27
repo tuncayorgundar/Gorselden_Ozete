@@ -1,0 +1,19 @@
+# Python 3.11 veya uzeri gerektirir 
+# Kurulum: pip install -r requirements.txt
+
+# Obje tespiti 
+ultralytics==8.4.121
+torch==2.13.0
+torchvision==0.28.0
+clip @ https://github.com/openai/CLIP/archive/refs/heads/main.zip
+
+# Gorsel okuma ve isleme
+opencv-python==5.0.0.93
+numpy==2.3.3
+
+# Web arastirmasi: arama, sayfa indirme ve ana metin cikarimi
+ddgs==9.15.0
+requests==2.32.5
+trafilatura==2.2.0
+
+
