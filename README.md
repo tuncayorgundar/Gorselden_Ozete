@@ -1,5 +1,3 @@
-## Gorselden_Ozete
-
 # Proje nedir?
 Bir görseldeki asıl objeyi tespit edip o obje hakkında internetten araştırma yapan ve kısa bir özet sunan komut
 satırı programı. Kullanıcı URL veya dosya yolu verir; program objeyi bulur (ör. "backpack"), 3 anahtar kelime
